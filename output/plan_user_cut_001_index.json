@@ -1,0 +1,36 @@
+{
+  "userId": "user_cut_001",
+  "totalWeeks": 4,
+  "generatedAt": "2026-02-25T09:34:01.921Z",
+  "generatorVersion": "v14",
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "file": "plan_user_cut_001_week1.json",
+      "phase": "base",
+      "startDate": "2025-12-29",
+      "endDate": "2026-01-04"
+    },
+    {
+      "weekNumber": 2,
+      "file": "plan_user_cut_001_week2.json",
+      "phase": "volume",
+      "startDate": "2026-01-05",
+      "endDate": "2026-01-11"
+    },
+    {
+      "weekNumber": 3,
+      "file": "plan_user_cut_001_week3.json",
+      "phase": "intensity",
+      "startDate": "2026-01-12",
+      "endDate": "2026-01-18"
+    },
+    {
+      "weekNumber": 4,
+      "file": "plan_user_cut_001_week4.json",
+      "phase": "deload",
+      "startDate": "2026-01-19",
+      "endDate": "2026-01-25"
+    }
+  ]
+}
