@@ -1386,91 +1386,6 @@
     }
   },
   {
-    "id": "FIT-00013",
-    "name": "Tortilla de Claras con Espinacas y Queso Fresco",
-    "recipeCategory": "Desayuno",
-    "description": "Una tortilla alta en proteínas y baja en grasas, perfecta para cualquier momento del día.",
-    "recipeIngredient": [
-      "huevos l",
-      "espinacas frescas",
-      "queso fresco batido 0%",
-      "aove",
-      "sal",
-      "pimienta"
-    ],
-    "recipeInstructions": [
-      "Bate las claras de huevo con sal y pimienta. Saltea las espinacas en una sartén con aove.",
-      "Vierte las claras sobre las espinacas. Cocina a fuego medio hasta que cuaje.",
-      "Añade una cucharada de queso fresco batido por encima antes de servir."
-    ],
-    "nutrition": {
-      "calories": 220,
-      "protein_g": 28,
-      "carbs_g": 6,
-      "fat_g": 9,
-      "fiber_g": 2
-    },
-    "nutrition_score": {
-      "general": 4,
-      "cut": 5,
-      "bulk": 2,
-      "endurance": 2
-    },
-    "image_search_keywords": "tortilla claras espinacas queso fresco fitness",
-    "slug": "tortilla-de-claras-con-espinacas-y-queso-fresco",
-    "url": "https://www.sporvit.com/recetas/tortilla-de-claras-con-espinacas-y-queso-fresco",
-    "image": "https://images.unsplash.com/photo-1669908978664-485e69bc26cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHx0b3J0aWxsYSUyMGNsYXJhcyUyMGVzcGluYWNhcyUyMHF1ZXNvJTIwZnJlc2NvJTIwZml0bmVzcyUyMGZvb2QlMjBwaG90b2dyYXBoeXxlbnwwfDB8fHwxNzY4MjI2NDk2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
-    "classification": {
-      "meal_type": [
-        "desayuno"
-      ],
-      "diet_tags": []
-    },
-    "localization": {
-      "en": {
-        "keywords": [],
-        "chef_tips": [],
-        "recipeIngredient": [
-          "huevos l",
-          "espinacas frescas",
-          "queso fresco batido 0%",
-          "aove",
-          "sal",
-          "pimienta"
-        ],
-        "recipeInstructions": [
-          "Bate las claras de huevo con sal y pimienta. Saltea las espinacas en una sartén con aove.",
-          "Vierte las claras sobre las espinacas. Cocina a fuego medio hasta que cuaje.",
-          "Añade una cucharada de queso fresco batido por encima antes de servir."
-        ]
-      },
-      "es": {
-        "keywords": [],
-        "chef_tips": [],
-        "recipeIngredient": [
-          "huevos l",
-          "espinacas frescas",
-          "queso fresco batido 0%",
-          "aove",
-          "sal",
-          "pimienta"
-        ],
-        "recipeInstructions": [
-          "Bate las claras de huevo con sal y pimienta. Saltea las espinacas en una sartén con aove.",
-          "Vierte las claras sobre las espinacas. Cocina a fuego medio hasta que cuaje.",
-          "Añade una cucharada de queso fresco batido por encima antes de servir."
-        ]
-      }
-    },
-    "allergens": {
-      "contains": [],
-      "free_from": []
-    },
-    "identity": {
-      "slug": "tortilla-de-claras-con-espinacas-y-queso-fresco"
-    }
-  },
-  {
     "id": "FIT-00014",
     "name": "Lentejas Pardinas con Verduras Fitness",
     "recipeCategory": "Almuerzo",
@@ -1928,9 +1843,9 @@
     "recipeCategory": "Desayuno",
     "description": "Un batido rápido y fácil, ideal para antes o después del entrenamiento, o como desayuno.",
     "recipeIngredient": [
-      "queso fresco batido 0%",
-      "copos de avena",
-      "frutos rojos (frescos o congelados)",
+      "200g queso fresco batido 0%",
+      "30g copos de avena",
+      "80g frutos rojos (frescos o congelados)",
       "agua o leche desnatada",
       "edulcorante (opcional)"
     ],
@@ -1940,9 +1855,9 @@
       "Prueba y ajusta el dulzor si es necesario. Sirve inmediatamente."
     ],
     "nutrition": {
-      "calories": 250,
+      "calories": 290,
       "protein_g": 30,
-      "carbs_g": 25,
+      "carbs_g": 30,
       "fat_g": 3,
       "fiber_g": 5
     },
@@ -2181,7 +2096,7 @@
     "recipeCategory": "Desayuno",
     "description": "Una tortilla muy proteica y baja en calorías, perfecta para empezar el día o una cena ligera.",
     "recipeIngredient": [
-      "4 claras de huevos l",
+      "6 claras de huevos l",
       "1 lata de atún al natural",
       "50g espinacas frescas",
       "5ml aove",
@@ -2193,8 +2108,8 @@
       "Cocina a fuego medio hasta que cuaje por ambos lados."
     ],
     "nutrition": {
-      "calories": 220,
-      "protein_g": 35,
+      "calories": 250,
+      "protein_g": 43,
       "carbs_g": 5,
       "fat_g": 7,
       "fiber_g": 3
@@ -4823,9 +4738,9 @@
     "nutrition": {
       "servings": 1,
       "per_serving": {
-        "calories": 420,
+        "calories": 500,
         "protein_g": 38,
-        "carbs_g": 30,
+        "carbs_g": 43,
         "fat_g": 17,
         "fiber_g": 4,
         "sugar_g": 2,
@@ -4893,7 +4808,7 @@
         "description": "Un plato clásico español con tiernos filetes de merluza cocidos a fuego lento en una vibrante salsa verde de perejil y ajo, servidos con patatas cocidas. Ligero, fresco y rico en sabor.",
         "recipeIngredient": [
           "180g filete de merluza, con o sin piel",
-          "150g patatas pequeñas nuevas",
+          "250g patatas pequeñas nuevas",
           "2 cucharadas de aceite de oliva",
           "2 dientes de ajo, picados",
           "1/4 taza de perejil fresco, picado",
@@ -8150,7 +8065,7 @@
     "nutrition": {
       "servings": 1,
       "per_serving": {
-        "calories": 420,
+        "calories": 480,
         "protein_g": 35,
         "carbs_g": 20,
         "fat_g": 25,
@@ -8219,7 +8134,7 @@
         "name": "Caballa con Verduras Mediterráneas Asadas",
         "description": "Un plato vibrante y saludable con filetes de caballa ricos en omega-3 horneados junto a una colorida mezcla de verduras mediterráneas. Sencillo, nutritivo y lleno de sabor.",
         "recipeIngredient": [
-          "150g filete de caballa (proteinas)",
+          "180g filete de caballa (proteinas)",
           "1/2 pimiento rojo, en rodajas (carbohidratos)",
           "1/2 pimiento verde, en rodajas (carbohidratos)",
           "1/2 calabacín, en rodajas (carbohidratos)",
@@ -16764,7 +16679,7 @@
       "Sirve el revuelto sobre las tostadas integrales."
     ],
     "nutrition": {
-      "calories": 280,
+      "calories": 340,
       "protein_g": 28,
       "carbs_g": 32,
       "fat_g": 6
@@ -17487,6 +17402,7 @@
     "recipeCategory": "Desayuno",
     "recipeIngredient": [
       "6 claras de huevo",
+      "1 cucharada de aceite de oliva virgen extra",
       "100g de espinacas frescas",
       "100g de champiñones",
       "3-4 tomates secos (picados)",
@@ -17506,7 +17422,7 @@
       "Sirve caliente acompañada de pan integral tostado si lo deseas."
     ],
     "nutrition": {
-      "calories": 240,
+      "calories": 290,
       "protein_g": 28,
       "carbs_g": 14,
       "fat_g": 8
@@ -74823,5 +74739,2521 @@
       ]
     },
     "image": "https://images.unsplash.com/photo-1596034495305-a551b0d6dd20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTaHJpbXAlMjBTa2V3ZXJzJTIwd2l0aCUyMEFzcGFyYWd1cyUyMGFuZCUyMENoZXJyeSUyMFRvbWF0b2VzJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDAzNTUyfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00515",
+      "canonical_name": "Scrambled Eggs and Spinach with Whole Wheat Toast and Avocado",
+      "name_normalized": "revuelto de espinacas y huevo con tostada integral y aguacate",
+      "slug": "revuelto-espinacas-huevo-tostada-integral-aguacate",
+      "url": "https://www.sporvit.com/recetas/revuelto-espinacas-huevo-tostada-integral-aguacate"
+    },
+    "recipeCategory": "Desayuno",
+    "description": "Un desayuno nutritivo y completo, ideal para empezar el día con energía. Este plato combina la proteína de los huevos y la fibra de las espinacas con los carbohidratos complejos de la tostada integral y las grasas saludables del aguacate. Es una opción perfecta para mantener la saciedad y apoyar el rendimiento físico, proporcionando nutrientes esenciales de forma equilibrada y deliciosa. Fácil de preparar y adaptable a tus preferencias.",
+    "prepTime": "PT5M",
+    "cookTime": "PT7M",
+    "totalTime": "PT12M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "2 huevos grandes",
+      "50g espinacas frescas",
+      "1 rebanada de pan integral",
+      "1/4 aguacate",
+      "pizca de sal y pimienta",
+      "5ml aceite de oliva virgen extra"
+    ],
+    "recipeInstructions": [
+      "Calienta el aceite de oliva en una sartén a fuego medio.",
+      "Añade las espinacas y cocina hasta que se marchiten, unos 2-3 minutos.",
+      "En un bol, bate los huevos con sal y pimienta. Vierte sobre las espinacas en la sartén.",
+      "Cocina, removiendo ocasionalmente, hasta que los huevos estén cocidos a tu gusto.",
+      "Mientras se cocinan los huevos, tuesta la rebanada de pan integral y corta el aguacate en láminas.",
+      "Sirve el revuelto sobre la tostada integral, acompañado de las láminas de aguacate."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 380,
+      "protein_g": 17.0,
+      "carbs_g": 21.0,
+      "fat_g": 22.0,
+      "fiber_g": 7.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 200,
+      "sat_fat_g": 5.0,
+      "cholesterol_mg": 370
+    },
+    "nutrition_score": {
+      "general": 17,
+      "cut": 16,
+      "bulk": 16,
+      "endurance": 13
+    },
+    "nutrition_alerts": [
+      "Contiene huevo",
+      "Contiene gluten"
+    ],
+    "allergens": {
+      "contains": [
+        "huevo",
+        "gluten"
+      ],
+      "free_from": []
+    },
+    "localization": {
+      "es": {
+        "name": "Revuelto de Espinacas y Huevo con Tostada Integral y Aguacate",
+        "description": "Un desayuno nutritivo y completo, ideal para empezar el día con energía. Este plato combina la proteína de los huevos y la fibra de las espinacas con los carbohidratos complejos de la tostada integral y las grasas saludables del aguacate. Es una opción perfecta para mantener la saciedad y apoyar el rendimiento físico, proporcionando nutrientes esenciales de forma equilibrada y deliciosa. Fácil de preparar y adaptable a tus preferencias.",
+        "recipeIngredient": [
+          "2 huevos grandes",
+          "50g espinacas frescas",
+          "1 rebanada de pan integral",
+          "1/4 aguacate",
+          "pizca de sal y pimienta",
+          "5ml aceite de oliva virgen extra"
+        ],
+        "recipeInstructions": [
+          "Calienta el aceite de oliva en una sartén a fuego medio.",
+          "Añade las espinacas y cocina hasta que se marchiten, unos 2-3 minutos.",
+          "En un bol, bate los huevos con sal y pimienta. Vierte sobre las espinacas en la sartén.",
+          "Cocina, removiendo ocasionalmente, hasta que los huevos estén cocidos a tu gusto.",
+          "Mientras se cocinan los huevos, tuesta la rebanada de pan integral y corta el aguacate en láminas.",
+          "Sirve el revuelto sobre la tostada integral, acompañado de las láminas de aguacate."
+        ]
+      },
+      "en": {
+        "name": "Scrambled Eggs and Spinach with Whole Wheat Toast and Avocado",
+        "description": "A nutritious and complete breakfast, ideal for starting the day with energy. This dish combines protein from eggs and fiber from spinach with complex carbohydrates from whole wheat toast and healthy fats from avocado. It's a perfect option for satiety and supporting physical performance, providing essential nutrients in a balanced and delicious way. Easy to prepare and adaptable to your preferences.",
+        "keywords": [
+          "scrambled eggs",
+          "spinach",
+          "whole wheat toast",
+          "avocado",
+          "high protein",
+          "healthy fats",
+          "fiber",
+          "quick breakfast"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "desayuno"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTY3JhbWJsZWQlMjBFZ2dzJTIwYW5kJTIwU3BpbmFjaCUyMHdpdGglMjBXaG9sZSUyMFdoZWF0JTIwVG9hc3QlMjBhbmQlMjBBdm9jYWRvJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDI1ODY0fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00516",
+      "canonical_name": "Vanilla Protein Smoothie with Berries and Chia Seeds",
+      "name_normalized": "batido de proteína de vainilla con frutos rojos y semillas de chía",
+      "slug": "batido-proteina-vainilla-frutos-rojos-semillas-chia",
+      "url": "https://www.sporvit.com/recetas/batido-proteina-vainilla-frutos-rojos-semillas-chia"
+    },
+    "recipeCategory": "Desayuno",
+    "description": "Este batido es una opción refrescante y potente para un desayuno rápido y lleno de nutrientes. Con proteína de suero de vainilla, una explosión de antioxidantes de los frutos rojos y la fibra y omegas-3 de las semillas de chía, es perfecto para la recuperación muscular y para mantener la energía durante la mañana. Su preparación es sencilla y rápida, ideal para aquellos días con poco tiempo, asegurando un aporte nutricional de calidad.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 scoop proteína de suero de vainilla",
+      "150ml leche de almendras sin azúcar",
+      "100g frutos rojos congelados",
+      "1 cucharada de semillas de chía",
+      "50ml agua (opcional, para consistencia)"
+    ],
+    "recipeInstructions": [
+      "Combina la proteína de suero, la leche de almendras, los frutos rojos congelados y las semillas de chía en una licuadora.",
+      "Añade el agua si deseas una consistencia más líquida.",
+      "Licúa hasta obtener una mezcla suave y homogénea.",
+      "Sirve inmediatamente y disfruta."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 240,
+      "protein_g": 25.0,
+      "carbs_g": 15.0,
+      "fat_g": 8.0,
+      "fiber_g": 8.0,
+      "sugar_g": 5.0,
+      "sodium_mg": 100,
+      "sat_fat_g": 1.0,
+      "cholesterol_mg": 15
+    },
+    "nutrition_score": {
+      "general": 18,
+      "cut": 22,
+      "bulk": 11,
+      "endurance": 9
+    },
+    "nutrition_alerts": [
+      "Contiene lácteos (si la proteína es de suero)",
+      "Puede contener trazas de frutos secos"
+    ],
+    "allergens": {
+      "contains": [
+        "lácteos"
+      ],
+      "free_from": []
+    },
+    "localization": {
+      "es": {
+        "name": "Batido de Proteína de Vainilla con Frutos Rojos y Semillas de Chía",
+        "description": "Este batido es una opción refrescante y potente para un desayuno rápido y lleno de nutrientes. Con proteína de suero de vainilla, una explosión de antioxidantes de los frutos rojos y la fibra y omegas-3 de las semillas de chía, es perfecto para la recuperación muscular y para mantener la energía durante la mañana. Su preparación es sencilla y rápida, ideal para aquellos días con poco tiempo, asegurando un aporte nutricional de calidad.",
+        "recipeIngredient": [
+          "1 scoop proteína de suero de vainilla",
+          "150ml leche de almendras sin azúcar",
+          "100g frutos rojos congelados",
+          "1 cucharada de semillas de chía",
+          "50ml agua (opcional, para consistencia)"
+        ],
+        "recipeInstructions": [
+          "Combina la proteína de suero, la leche de almendras, los frutos rojos congelados y las semillas de chía en una licuadora.",
+          "Añade el agua si deseas una consistencia más líquida.",
+          "Licúa hasta obtener una mezcla suave y homogénea.",
+          "Sirve inmediatamente y disfruta."
+        ]
+      },
+      "en": {
+        "name": "Vanilla Protein Smoothie with Red Berries and Chia Seeds",
+        "description": "This smoothie is a refreshing and powerful option for a quick and nutrient-packed breakfast. With vanilla whey protein, an antioxidant burst from red berries, and fiber and omega-3s from chia seeds, it's perfect for muscle recovery and maintaining energy throughout the morning. Its preparation is simple and fast, ideal for those days with little time, ensuring quality nutritional intake.",
+        "keywords": [
+          "protein smoothie",
+          "vanilla protein",
+          "berries",
+          "chia seeds",
+          "quick breakfast",
+          "high protein",
+          "antioxidants",
+          "muscle recovery"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "desayuno"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1723491922263-190acbde53d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxWYW5pbGxhJTIwUHJvdGVpbiUyMFNtb290aGllJTIwd2l0aCUyMEJlcnJpZXMlMjBhbmQlMjBDaGlhJTIwU2VlZHMlMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwMjU4NjV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00517",
+      "canonical_name": "Sugar-Free Oat and Banana Pancakes with Greek Yogurt",
+      "name_normalized": "tortitas de avena y plátano sin azúcar con yogur griego y miel",
+      "slug": "tortitas-avena-platano-sin-azucar-yogur-griego-miel",
+      "url": "https://www.sporvit.com/recetas/tortitas-avena-platano-sin-azucar-yogur-griego-miel"
+    },
+    "recipeCategory": "Desayuno",
+    "description": "Disfruta de unas tortitas deliciosas y saludables, endulzadas naturalmente con plátano maduro y elaboradas con avena, proporcionando carbohidratos complejos y fibra para una energía sostenida. Acompañadas de yogur griego, añaden una excelente fuente de proteína, haciendo de este desayuno una opción equilibrada y saciante. Es ideal para aquellos que buscan un dulce saludable sin renunciar al sabor, apoyando sus objetivos de fitness con un plato casero y nutritivo.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 plátano maduro",
+      "50g copos de avena",
+      "1 huevo",
+      "50ml leche (o bebida vegetal)",
+      "pizca de levadura en polvo",
+      "100g yogur griego natural",
+      "5g miel (opcional, para servir)",
+      "aceite de coco (para engrasar)"
+    ],
+    "recipeInstructions": [
+      "En un bol, machaca el plátano maduro hasta obtener un puré.",
+      "Añade los copos de avena, el huevo, la leche y la levadura en polvo al puré de plátano. Mezcla bien hasta integrar todos los ingredientes.",
+      "Calienta una sartén antiadherente a fuego medio y engrásala ligeramente con aceite de coco.",
+      "Vierte porciones de la mezcla para formar las tortitas. Cocina durante 2-3 minutos por cada lado, o hasta que estén doradas y cocidas por dentro.",
+      "Sirve las tortitas calientes, acompañadas de yogur griego y un chorrito de miel si lo deseas."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 390,
+      "protein_g": 21.0,
+      "carbs_g": 66.0,
+      "fat_g": 10.0,
+      "fiber_g": 7.0,
+      "sugar_g": 20.0,
+      "sodium_mg": 150,
+      "sat_fat_g": 3.0,
+      "cholesterol_mg": 190
+    },
+    "nutrition_score": {
+      "general": 19,
+      "cut": 15,
+      "bulk": 21,
+      "endurance": 22
+    },
+    "nutrition_alerts": [
+      "Contiene huevo",
+      "Contiene lácteos",
+      "Contiene gluten"
+    ],
+    "allergens": {
+      "contains": [
+        "huevo",
+        "lácteos",
+        "gluten"
+      ],
+      "free_from": []
+    },
+    "localization": {
+      "es": {
+        "name": "Tortitas de Avena y Plátano sin Azúcar con Yogur Griego y Miel",
+        "description": "Disfruta de unas tortitas deliciosas y saludables, endulzadas naturalmente con plátano maduro y elaboradas con avena, proporcionando carbohidratos complejos y fibra para una energía sostenida. Acompañadas de yogur griego, añaden una excelente fuente de proteína, haciendo de este desayuno una opción equilibrada y saciante. Es ideal para aquellos que buscan un dulce saludable sin renunciar al sabor, apoyando sus objetivos de fitness con un plato casero y nutritivo.",
+        "recipeIngredient": [
+          "1 plátano maduro",
+          "50g copos de avena",
+          "1 huevo",
+          "50ml leche (o bebida vegetal)",
+          "pizca de levadura en polvo",
+          "100g yogur griego natural",
+          "5g miel (opcional, para servir)",
+          "aceite de coco (para engrasar)"
+        ],
+        "recipeInstructions": [
+          "En un bol, machaca el plátano maduro hasta obtener un puré.",
+          "Añade los copos de avena, el huevo, la leche y la levadura en polvo al puré de plátano. Mezcla bien hasta integrar todos los ingredientes.",
+          "Calienta una sartén antiadherente a fuego medio y engrásala ligeramente con aceite de coco.",
+          "Vierte porciones de la mezcla para formar las tortitas. Cocina durante 2-3 minutos por cada lado, o hasta que estén doradas y cocidas por dentro.",
+          "Sirve las tortitas calientes, acompañadas de yogur griego y un chorrito de miel si lo deseas."
+        ]
+      },
+      "en": {
+        "name": "Sugar-Free Oat and Banana Pancakes with Greek Yogurt and Honey",
+        "description": "Enjoy delicious and healthy pancakes, naturally sweetened with ripe banana and made with oats, providing complex carbohydrates and fiber for sustained energy. Accompanied by Greek yogurt, they add an excellent source of protein, making this breakfast a balanced and satisfying option. It's ideal for those seeking a healthy sweet treat without sacrificing flavor, supporting their fitness goals with a homemade and nutritious dish.",
+        "keywords": [
+          "oat pancakes",
+          "banana pancakes",
+          "sugar-free",
+          "greek yogurt",
+          "high fiber",
+          "complex carbs",
+          "healthy breakfast",
+          "sweet treat"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "desayuno"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1763576178054-ff0152753fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTdWdhci1GcmVlJTIwT2F0JTIwYW5kJTIwQmFuYW5hJTIwUGFuY2FrZXMlMjB3aXRoJTIwR3JlZWslMjBZb2d1cnQlMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwMjU4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00518",
+      "canonical_name": "Breakfast Burrito with Egg Whites, Black Beans, and Fresh Salsa",
+      "name_normalized": "burrito de desayuno con claras de huevo, frijoles negros y pico de gallo",
+      "slug": "burrito-desayuno-claras-huevo,-frijoles-negros-pico-gallo",
+      "url": "https://www.sporvit.com/recetas/burrito-desayuno-claras-huevo,-frijoles-negros-pico-gallo"
+    },
+    "recipeCategory": "Desayuno",
+    "description": "Un burrito de desayuno sabroso y robusto, diseñado para proporcionarte una gran cantidad de proteína y fibra con pocas grasas. Las claras de huevo ofrecen proteína magra, los frijoles negros aportan carbohidratos complejos y fibra, y el pico de gallo fresco añade un toque de sabor y vitaminas. Es una opción excelente para un desayuno que te mantendrá lleno y energizado durante horas, perfecto para preparar por adelantado y llevar.",
+    "prepTime": "PT10M",
+    "cookTime": "PT10M",
+    "totalTime": "PT20M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 tortilla de trigo integral (tamaño mediano)",
+      "150ml claras de huevo",
+      "50g frijoles negros cocidos",
+      "30g pico de gallo (tomate, cebolla, cilantro, lima)",
+      "pizca de comino y pimentón",
+      "5g aceite de oliva virgen extra"
+    ],
+    "recipeInstructions": [
+      "Calienta el aceite de oliva en una sartén a fuego medio. Añade las claras de huevo y cocina, removiendo, hasta que estén bien cocidas y firmes.",
+      "En la misma sartén, o en otra pequeña, calienta los frijoles negros con una pizca de comino y pimentón.",
+      "Calienta ligeramente la tortilla de trigo integral en la sartén o en el microondas para que sea más flexible.",
+      "Extiende las claras de huevo cocidas sobre la tortilla, luego añade los frijoles negros y el pico de gallo.",
+      "Dobla los lados de la tortilla hacia el centro y luego enrolla firmemente para formar el burrito.",
+      "Sirve caliente y disfruta."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 360,
+      "protein_g": 25.0,
+      "carbs_g": 38.0,
+      "fat_g": 9.0,
+      "fiber_g": 10.0,
+      "sugar_g": 3.0,
+      "sodium_mg": 400,
+      "sat_fat_g": 1.0,
+      "cholesterol_mg": 0
+    },
+    "nutrition_score": {
+      "general": 21,
+      "cut": 20,
+      "bulk": 19,
+      "endurance": 22
+    },
+    "nutrition_alerts": [
+      "Contiene gluten",
+      "Puede contener trazas de lácteos (tortilla)"
+    ],
+    "allergens": {
+      "contains": [
+        "gluten"
+      ],
+      "free_from": []
+    },
+    "localization": {
+      "es": {
+        "name": "Burrito de Desayuno con Claras de Huevo, Frijoles Negros y Pico de Gallo",
+        "description": "Un burrito de desayuno sabroso y robusto, diseñado para proporcionarte una gran cantidad de proteína y fibra con pocas grasas. Las claras de huevo ofrecen proteína magra, los frijoles negros aportan carbohidratos complejos y fibra, y el pico de gallo fresco añade un toque de sabor y vitaminas. Es una opción excelente para un desayuno que te mantendrá lleno y energizado durante horas, perfecto para preparar por adelantado y llevar.",
+        "recipeIngredient": [
+          "1 tortilla de trigo integral (tamaño mediano)",
+          "150ml claras de huevo",
+          "50g frijoles negros cocidos",
+          "30g pico de gallo (tomate, cebolla, cilantro, lima)",
+          "pizca de comino y pimentón",
+          "5g aceite de oliva virgen extra"
+        ],
+        "recipeInstructions": [
+          "Calienta el aceite de oliva en una sartén a fuego medio. Añade las claras de huevo y cocina, removiendo, hasta que estén bien cocidas y firmes.",
+          "En la misma sartén, o en otra pequeña, calienta los frijoles negros con una pizca de comino y pimentón.",
+          "Calienta ligeramente la tortilla de trigo integral en la sartén o en el microondas para que sea más flexible.",
+          "Extiende las claras de huevo cocidas sobre la tortilla, luego añade los frijoles negros y el pico de gallo.",
+          "Dobla los lados de la tortilla hacia el centro y luego enrolla firmemente para formar el burrito.",
+          "Sirve caliente y disfruta."
+        ]
+      },
+      "en": {
+        "name": "Breakfast Burrito with Egg Whites, Black Beans, and Pico de Gallo",
+        "description": "A savory and robust breakfast burrito, designed to provide you with a high amount of protein and fiber with low fats. Egg whites offer lean protein, black beans provide complex carbohydrates and fiber, and fresh pico de gallo adds a burst of flavor and vitamins. It's an excellent option for a breakfast that will keep you full and energized for hours, perfect for meal prep.",
+        "keywords": [
+          "breakfast burrito",
+          "egg whites",
+          "black beans",
+          "pico de gallo",
+          "high protein",
+          "high fiber",
+          "low fat",
+          "meal prep"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "desayuno"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1566740933430-b5e70b06d2d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxCcmVha2Zhc3QlMjBCdXJyaXRvJTIwd2l0aCUyMEVnZyUyMFdoaXRlcyUyQyUyMEJsYWNrJTIwQmVhbnMlMkMlMjBhbmQlMjBGcmVzaCUyMFNhbHNhJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDI1ODY4fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00519",
+      "canonical_name": "Chia Pudding with Almond Milk, Mango, and Shredded Coconut",
+      "name_normalized": "pudín de chía con leche de almendras, mango fresco y coco rallado",
+      "slug": "pudin-chia-leche-almendras,-mango-fresco-coco-rallado",
+      "url": "https://www.sporvit.com/recetas/pudin-chia-leche-almendras,-mango-fresco-coco-rallado"
+    },
+    "recipeCategory": "Desayuno",
+    "description": "Un pudín de chía exótico y refrescante, ideal para un desayuno ligero pero saciante. Las semillas de chía son una fuente excepcional de fibra, ácidos grasos omega-3 y proteína vegetal, mientras que el mango aporta dulzura natural y vitaminas, y el coco rallado un toque tropical. Es una opción excelente para la salud digestiva y para mantener la energía constante, perfecto para preparar la noche anterior y disfrutarlo frío.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT4H",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "30g semillas de chía",
+      "200ml leche de almendras sin azúcar",
+      "80g mango fresco en cubos",
+      "5g coco rallado sin azúcar",
+      "pizca de esencia de vainilla (opcional)"
+    ],
+    "recipeInstructions": [
+      "En un frasco o bol, combina las semillas de chía, la leche de almendras y la esencia de vainilla (si la usas).",
+      "Mezcla bien con una cuchara o batidor de varillas para asegurarte de que las semillas de chía no se agrupen.",
+      "Cubre y refrigera por al menos 4 horas, o idealmente toda la noche, hasta que el pudín espese.",
+      "Antes de servir, remueve el pudín de chía y añade por encima los cubos de mango fresco y el coco rallado.",
+      "Disfruta frío como un desayuno refrescante."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 300,
+      "protein_g": 8.0,
+      "carbs_g": 30.0,
+      "fat_g": 18.0,
+      "fiber_g": 13.0,
+      "sugar_g": 15.0,
+      "sodium_mg": 50,
+      "sat_fat_g": 4.0,
+      "cholesterol_mg": 0
+    },
+    "nutrition_score": {
+      "general": 16,
+      "cut": 17,
+      "bulk": 9,
+      "endurance": 15
+    },
+    "nutrition_alerts": [
+      "Puede contener trazas de frutos secos (leche de almendras, coco)"
+    ],
+    "allergens": {
+      "contains": [
+        "frutos secos"
+      ],
+      "free_from": []
+    },
+    "localization": {
+      "es": {
+        "name": "Pudín de Chía con Leche de Almendras, Mango Fresco y Coco Rallado",
+        "description": "Un pudín de chía exótico y refrescante, ideal para un desayuno ligero pero saciante. Las semillas de chía son una fuente excepcional de fibra, ácidos grasos omega-3 y proteína vegetal, mientras que el mango aporta dulzura natural y vitaminas, y el coco rallado un toque tropical. Es una opción excelente para la salud digestiva y para mantener la energía constante, perfecto para preparar la noche anterior y disfrutarlo frío.",
+        "recipeIngredient": [
+          "30g semillas de chía",
+          "200ml leche de almendras sin azúcar",
+          "80g mango fresco en cubos",
+          "5g coco rallado sin azúcar",
+          "pizca de esencia de vainilla (opcional)"
+        ],
+        "recipeInstructions": [
+          "En un frasco o bol, combina las semillas de chía, la leche de almendras y la esencia de vainilla (si la usas).",
+          "Mezcla bien con una cuchara o batidor de varillas para asegurarte de que las semillas de chía no se agrupen.",
+          "Cubre y refrigera por al menos 4 horas, o idealmente toda la noche, hasta que el pudín espese.",
+          "Antes de servir, remueve el pudín de chía y añade por encima los cubos de mango fresco y el coco rallado.",
+          "Disfruta frío como un desayuno refrescante."
+        ]
+      },
+      "en": {
+        "name": "Chia Pudding with Almond Milk, Fresh Mango, and Shredded Coconut",
+        "description": "An exotic and refreshing chia pudding, ideal for a light yet satisfying breakfast. Chia seeds are an exceptional source of fiber, omega-3 fatty acids, and plant-based protein, while mango provides natural sweetness and vitamins, and shredded coconut adds a tropical touch. It's an excellent option for digestive health and maintaining steady energy, perfect for preparing the night before and enjoying cold.",
+        "keywords": [
+          "chia pudding",
+          "almond milk",
+          "mango",
+          "shredded coconut",
+          "omega-3",
+          "high fiber",
+          "vegan breakfast",
+          "overnight oats alternative"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "desayuno"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1582878827114-c6bb4e6eb0de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxDaGlhJTIwUHVkZGluZyUyMHdpdGglMjBBbG1vbmQlMjBNaWxrJTJDJTIwTWFuZ28lMkMlMjBhbmQlMjBTaHJlZGRlZCUyMENvY29udXQlMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwMjU4Njl8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00520",
+      "canonical_name": "Sweet Potato Toasts with Peanut Butter and Banana",
+      "name_normalized": "tostadas de boniato con crema de cacahuete y plátano",
+      "slug": "tostadas-boniato-crema-cacahuete-platano",
+      "url": "https://www.sporvit.com/recetas/tostadas-boniato-crema-cacahuete-platano"
+    },
+    "recipeCategory": "Snack",
+    "description": "Una alternativa saludable y energética a las tostadas tradicionales, estas tostadas de boniato son perfectas para un snack pre-entrenamiento o para recargar energías. El boniato aporta carbohidratos complejos, mientras que la crema de cacahuete natural y el plátano ofrecen grasas saludables, proteínas y potasio. Es una combinación deliciosa que te mantendrá satisfecho y lleno de vitalidad.",
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 boniato mediano",
+      "2 cucharadas de crema de cacahuete natural",
+      "1/2 plátano, en rodajas",
+      "1 pizca de canela (opcional)"
+    ],
+    "recipeInstructions": [
+      "Lavar el boniato y cortarlo en rebanadas de aproximadamente 1 cm de grosor.",
+      "Tostar las rebanadas de boniato en una tostadora o al horno a 200°C (400°F) durante 10-15 minutos, hasta que estén tiernas y ligeramente doradas.",
+      "Dejar enfriar ligeramente.",
+      "Untar cada tostada de boniato con crema de cacahuete.",
+      "Colocar las rodajas de plátano encima y espolvorear con canela si se desea."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 280,
+      "protein_g": 9.0,
+      "carbs_g": 40.0,
+      "fat_g": 12.0,
+      "fiber_g": 6.0,
+      "sugar_g": 15.0,
+      "sodium_mg": 80,
+      "sat_fat_g": 2.0,
+      "cholesterol_mg": 0
+    },
+    "nutrition_score": {
+      "general": 20,
+      "cut": 10,
+      "bulk": 20,
+      "endurance": 24
+    },
+    "nutrition_alerts": [
+      "Alto en carbohidratos complejos",
+      "Contiene grasas saludables"
+    ],
+    "allergens": {
+      "contains": [
+        "cacahuete"
+      ],
+      "free_from": [
+        "gluten",
+        "lácteos",
+        "soja"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Tostadas de Boniato con Crema de Cacahuete y Plátano",
+        "description": "Una alternativa saludable y energética a las tostadas tradicionales, estas tostadas de boniato son perfectas para un snack pre-entrenamiento o para recargar energías. El boniato aporta carbohidratos complejos, mientras que la crema de cacahuete natural y el plátano ofrecen grasas saludables, proteínas y potasio. Es una combinación deliciosa que te mantendrá satisfecho y lleno de vitalidad.",
+        "recipeIngredient": [
+          "1 boniato mediano",
+          "2 cucharadas de crema de cacahuete natural",
+          "1/2 plátano, en rodajas",
+          "1 pizca de canela (opcional)"
+        ],
+        "recipeInstructions": [
+          "Lavar el boniato y cortarlo en rebanadas de aproximadamente 1 cm de grosor.",
+          "Tostar las rebanadas de boniato en una tostadora o al horno a 200°C (400°F) durante 10-15 minutos, hasta que estén tiernas y ligeramente doradas.",
+          "Dejar enfriar ligeramente.",
+          "Untar cada tostada de boniato con crema de cacahuete.",
+          "Colocar las rodajas de plátano encima y espolvorear con canela si se desea."
+        ]
+      },
+      "en": {
+        "name": "Sweet Potato Toasts with Peanut Butter and Banana",
+        "description": "A healthy and energetic alternative to traditional toasts, these sweet potato toasts are perfect for a pre-workout snack or to refuel. Sweet potato provides complex carbohydrates, while natural peanut butter and banana offer healthy fats, protein, and potassium. It's a delicious combination that will keep you satisfied and full of vitality.",
+        "keywords": [
+          "boniato",
+          "crema de cacahuete",
+          "plátano",
+          "snack energético",
+          "pre-entrenamiento"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "snack"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1676976198284-e94a1de93e96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTd2VldCUyMFBvdGF0byUyMFRvYXN0cyUyMHdpdGglMjBQZWFudXQlMjBCdXR0ZXIlMjBhbmQlMjBCYW5hbmElMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwMzk3MjV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00521",
+      "canonical_name": "Mini Egg White Frittatas with Spinach and Feta",
+      "name_normalized": "mini frittatas de claras de huevo con espinacas y queso feta",
+      "slug": "mini-frittatas-claras-huevo-espinacas-queso-feta",
+      "url": "https://www.sporvit.com/recetas/mini-frittatas-claras-huevo-espinacas-queso-feta"
+    },
+    "recipeCategory": "Snack",
+    "description": "Estas mini frittatas son un snack rico en proteínas y bajo en calorías, perfectas para cualquier momento del día. Hechas con claras de huevo, espinacas frescas y un toque de queso feta, son una opción deliciosa y nutritiva. Se pueden preparar con antelación y guardar en el refrigerador, siendo ideales para una comida rápida y saludable sobre la marcha o como parte de un desayuno o brunch ligero.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 taza de claras de huevo líquidas",
+      "1/2 taza de espinacas frescas picadas",
+      "20 g de queso feta desmenuzado",
+      "1 cucharada de cebolla picada (opcional)",
+      "Sal y pimienta al gusto"
+    ],
+    "recipeInstructions": [
+      "Precalentar el horno a 180°C (350°F) y engrasar un molde para muffins.",
+      "En un bol, batir las claras de huevo con sal y pimienta.",
+      "Incorporar las espinacas, el queso feta y la cebolla picada (si se usa).",
+      "Verter la mezcla en los compartimentos del molde para muffins, llenándolos hasta 3/4.",
+      "Hornear durante 15-20 minutos, o hasta que las frittatas estén firmes y doradas."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 110,
+      "protein_g": 16.0,
+      "carbs_g": 3.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sugar_g": 1.0,
+      "sodium_mg": 350,
+      "sat_fat_g": 2.0,
+      "cholesterol_mg": 15
+    },
+    "nutrition_score": {
+      "general": 23,
+      "cut": 25,
+      "bulk": 8,
+      "endurance": 10
+    },
+    "nutrition_alerts": [
+      "Muy alto en proteína",
+      "Bajo en calorías y carbohidratos"
+    ],
+    "allergens": {
+      "contains": [
+        "huevo",
+        "lácteos"
+      ],
+      "free_from": [
+        "gluten",
+        "frutos secos",
+        "soja"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Mini Frittatas de Claras de Huevo con Espinacas y Queso Feta",
+        "description": "Estas mini frittatas son un snack rico en proteínas y bajo en calorías, perfectas para cualquier momento del día. Hechas con claras de huevo, espinacas frescas y un toque de queso feta, son una opción deliciosa y nutritiva. Se pueden preparar con antelación y guardar en el refrigerador, siendo ideales para una comida rápida y saludable sobre la marcha o como parte de un desayuno o brunch ligero.",
+        "recipeIngredient": [
+          "1 taza de claras de huevo líquidas",
+          "1/2 taza de espinacas frescas picadas",
+          "20 g de queso feta desmenuzado",
+          "1 cucharada de cebolla picada (opcional)",
+          "Sal y pimienta al gusto"
+        ],
+        "recipeInstructions": [
+          "Precalentar el horno a 180°C (350°F) y engrasar un molde para muffins.",
+          "En un bol, batir las claras de huevo con sal y pimienta.",
+          "Incorporar las espinacas, el queso feta y la cebolla picada (si se usa).",
+          "Verter la mezcla en los compartimentos del molde para muffins, llenándolos hasta 3/4.",
+          "Hornear durante 15-20 minutos, o hasta que las frittatas estén firmes y doradas."
+        ]
+      },
+      "en": {
+        "name": "Mini Egg White Frittatas with Spinach and Feta",
+        "description": "These mini frittatas are a protein-rich and low-calorie snack, perfect for any time of day. Made with egg whites, fresh spinach, and a touch of feta cheese, they are a delicious and nutritious option. They can be prepared in advance and stored in the refrigerator, making them ideal for a quick, healthy meal on the go or as part of a light breakfast or brunch.",
+        "keywords": [
+          "frittata",
+          "claras de huevo",
+          "espinacas",
+          "queso feta",
+          "snack bajo en calorías",
+          "proteína"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "snack"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1585200015920-bc258d52fcd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxNaW5pJTIwRWdnJTIwV2hpdGUlMjBGcml0dGF0YXMlMjB3aXRoJTIwU3BpbmFjaCUyMGFuZCUyMEZldGElMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwMzk3MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00522",
+      "canonical_name": "Chocolate and Spinach Protein Shake (Fruit-Free)",
+      "name_normalized": "batido de proteínas de chocolate y espinacas (sin frutas)",
+      "slug": "batido-proteinas-chocolate-espinacas-(sin-frutas)",
+      "url": "https://www.sporvit.com/recetas/batido-proteinas-chocolate-espinacas-(sin-frutas)"
+    },
+    "recipeCategory": "Snack",
+    "description": "Un batido innovador y sorprendentemente delicioso, diseñado para maximizar la ingesta de proteínas y vegetales sin el azúcar adicional de las frutas. La espinaca se mezcla perfectamente con el cacao y la proteína de chocolate, ofreciendo un sabor agradable y una dosis extra de nutrientes. Es ideal para aquellos que buscan un post-entrenamiento bajo en carbohidratos o un snack saciante y nutritivo.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 taza de leche vegetal sin azúcar (almendra, soja, etc.)",
+      "1 scoop de proteína de chocolate en polvo",
+      "1 taza de espinacas frescas",
+      "1 cucharadita de cacao en polvo sin azúcar",
+      "Hielo al gusto"
+    ],
+    "recipeInstructions": [
+      "Combinar la leche vegetal, la proteína de chocolate, las espinacas y el cacao en polvo en una licuadora.",
+      "Añadir el hielo al gusto.",
+      "Licuar hasta obtener una mezcla suave y homogénea.",
+      "Servir inmediatamente."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 210,
+      "protein_g": 28.0,
+      "carbs_g": 9.0,
+      "fat_g": 6.0,
+      "fiber_g": 4.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 280,
+      "sat_fat_g": 1.5,
+      "cholesterol_mg": 10
+    },
+    "nutrition_score": {
+      "general": 20,
+      "cut": 24,
+      "bulk": 15,
+      "endurance": 12
+    },
+    "nutrition_alerts": [
+      "Alto en proteína",
+      "Bajo en azúcar",
+      "Rico en nutrientes de vegetales"
+    ],
+    "allergens": {
+      "contains": [
+        "lácteos"
+      ],
+      "free_from": [
+        "gluten",
+        "frutos secos"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Batido de Proteínas de Chocolate y Espinacas (sin Frutas)",
+        "description": "Un batido innovador y sorprendentemente delicioso, diseñado para maximizar la ingesta de proteínas y vegetales sin el azúcar adicional de las frutas. La espinaca se mezcla perfectamente con el cacao y la proteína de chocolate, ofreciendo un sabor agradable y una dosis extra de nutrientes. Es ideal para aquellos que buscan un post-entrenamiento bajo en carbohidratos o un snack saciante y nutritivo.",
+        "recipeIngredient": [
+          "1 taza de leche vegetal sin azúcar (almendra, soja, etc.)",
+          "1 scoop de proteína de chocolate en polvo",
+          "1 taza de espinacas frescas",
+          "1 cucharadita de cacao en polvo sin azúcar",
+          "Hielo al gusto"
+        ],
+        "recipeInstructions": [
+          "Combinar la leche vegetal, la proteína de chocolate, las espinacas y el cacao en polvo en una licuadora.",
+          "Añadir el hielo al gusto.",
+          "Licuar hasta obtener una mezcla suave y homogénea.",
+          "Servir inmediatamente."
+        ]
+      },
+      "en": {
+        "name": "Chocolate and Spinach Protein Shake (Fruit-Free)",
+        "description": "An innovative and surprisingly delicious shake, designed to maximize protein and vegetable intake without the added sugar from fruits. Spinach blends perfectly with cocoa and chocolate protein, offering a pleasant taste and an extra dose of nutrients. It's ideal for those looking for a low-carb post-workout or a satisfying and nutritious snack.",
+        "keywords": [
+          "batido de proteínas",
+          "chocolate",
+          "espinacas",
+          "snack sin fruta",
+          "bajo en carbohidratos"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "snack"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1539735497951-b044b8af49bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxDaG9jb2xhdGUlMjBhbmQlMjBTcGluYWNoJTIwUHJvdGVpbiUyMFNoYWtlJTIwJTI4RnJ1aXQtRnJlZSUyOSUyMGhlYWx0aHklMjBnb3VybWV0JTIwbWVhbCUyMGhlYWx0aHklMjBmb29kfGVufDB8fHx8MTc3MjAzOTcyN3ww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00523",
+      "canonical_name": "Greek Yogurt Bowl with Mixed Berries and Chia Seeds",
+      "name_normalized": "bol de yogur griego con bayas mixtas y semillas de chía",
+      "slug": "bol-yogur-griego-bayas-mixtas-semillas-chia",
+      "url": "https://www.sporvit.com/recetas/bol-yogur-griego-bayas-mixtas-semillas-chia"
+    },
+    "recipeCategory": "Snack",
+    "description": "Este nutritivo bol de yogur griego es un tentempié perfecto para antes o después del entrenamiento, o simplemente para saciar el hambre de forma saludable. Combina la cremosidad del yogur griego, rico en proteínas, con la dulzura y los antioxidantes de las bayas mixtas, y el aporte de fibra y omega-3 de las semillas de chía. Es fácil de preparar, refrescante y proporciona una excelente fuente de energía sostenida y recuperación muscular. Ideal para mantener la dieta y disfrutar de un sabor delicioso.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150 g yogur griego natural sin azúcar",
+      "1/2 taza bayas mixtas (frescas o congeladas)",
+      "1 cucharada semillas de chía",
+      "Opcional: 1 cucharadita miel o edulcorante"
+    ],
+    "recipeInstructions": [
+      "En un bol mediano, coloca el yogur griego.",
+      "Añade las bayas mixtas por encima del yogur.",
+      "Espolvorea las semillas de chía uniformemente.",
+      "Si lo deseas, rocía con un poco de miel o edulcorante antes de servir. Disfruta inmediatamente para mantener la frescura de las bayas."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 230,
+      "protein_g": 22.0,
+      "carbs_g": 25.0,
+      "fat_g": 6.0,
+      "fiber_g": 6.0,
+      "sugar_g": 14.0,
+      "sodium_mg": 70,
+      "sat_fat_g": 3.0,
+      "cholesterol_mg": 15
+    },
+    "nutrition_score": {
+      "general": 20,
+      "cut": 22,
+      "bulk": 15,
+      "endurance": 18
+    },
+    "nutrition_alerts": [
+      "Alto en proteína",
+      "Buena fuente de fibra",
+      "Rico en antioxidantes"
+    ],
+    "allergens": {
+      "contains": [
+        "Lácteos"
+      ],
+      "free_from": [
+        "Gluten",
+        "Frutos secos"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Bol de Yogur Griego con Bayas Mixtas y Semillas de Chía",
+        "description": "Este nutritivo bol de yogur griego es un tentempié perfecto para antes o después del entrenamiento, o simplemente para saciar el hambre de forma saludable. Combina la cremosidad del yogur griego, rico en proteínas, con la dulzura y los antioxidantes de las bayas mixtas, y el aporte de fibra y omega-3 de las semillas de chía. Es fácil de preparar, refrescante y proporciona una excelente fuente de energía sostenida y recuperación muscular. Ideal para mantener la dieta y disfrutar de un sabor delicioso.",
+        "recipeIngredient": [
+          "150 g yogur griego natural sin azúcar",
+          "1/2 taza bayas mixtas (frescas o congeladas)",
+          "1 cucharada semillas de chía",
+          "Opcional: 1 cucharadita miel o edulcorante"
+        ],
+        "recipeInstructions": [
+          "En un bol mediano, coloca el yogur griego.",
+          "Añade las bayas mixtas por encima del yogur.",
+          "Espolvorea las semillas de chía uniformemente.",
+          "Si lo deseas, rocía con un poco de miel o edulcorante antes de servir. Disfruta inmediatamente para mantener la frescura de las bayas."
+        ]
+      },
+      "en": {
+        "name": "Greek Yogurt Bowl with Mixed Berries and Chia Seeds",
+        "description": "This nutritious Greek yogurt bowl is a perfect snack for before or after a workout, or simply to curb hunger in a healthy way. It combines the creaminess of protein-rich Greek yogurt with the sweetness and antioxidants of mixed berries, and the fiber and omega-3s from chia seeds. It's easy to prepare, refreshing, and provides an excellent source of sustained energy and muscle recovery. Ideal for maintaining your diet and enjoying a delicious flavor.",
+        "keywords": [
+          "Greek yogurt",
+          "berries",
+          "chia seeds",
+          "high protein snack",
+          "healthy snack",
+          "post-workout",
+          "antioxidants",
+          "fiber rich"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "snack"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1668962857273-6cab55849320?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxHcmVlayUyMFlvZ3VydCUyMEJvd2wlMjB3aXRoJTIwTWl4ZWQlMjBCZXJyaWVzJTIwYW5kJTIwQ2hpYSUyMFNlZWRzJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDUyMjYzfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00524",
+      "canonical_name": "Savory Cottage Cheese with Cucumber and Everything Bagel Seasoning",
+      "name_normalized": "requesón salado con pepino y condimento 'todo bagel'",
+      "slug": "requeson-salado-pepino-condimento-'todo-bagel'",
+      "url": "https://www.sporvit.com/recetas/requeson-salado-pepino-condimento-'todo-bagel'"
+    },
+    "recipeCategory": "Snack",
+    "description": "Este tentempié de requesón salado es una opción ligera y rica en proteínas, ideal para cuando buscas algo refrescante y satisfactorio sin un alto contenido calórico o de carbohidratos. El requesón, fuente de caseína de liberación lenta, te mantiene saciado por más tiempo, mientras que el pepino aporta un crujido fresco y una hidratación excelente. El condimento 'Todo Bagel' añade un toque de sabor umami y especiado que eleva este simple snack a otro nivel. Es perfecto para dietas bajas en carbohidratos o como recuperador muscular ligero.",
+    "prepTime": "PT3M",
+    "cookTime": "PT0M",
+    "totalTime": "PT3M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150 g requesón (cottage cheese) bajo en grasa",
+      "1/2 pepino pequeño, en rodajas finas",
+      "1 cucharadita condimento 'Todo Bagel'",
+      "Una pizca de pimienta negra (opcional)"
+    ],
+    "recipeInstructions": [
+      "Coloca el requesón en un bol pequeño.",
+      "Dispón las rodajas de pepino por encima o al lado del requesón.",
+      "Espolvorea el condimento 'Todo Bagel' de manera uniforme sobre el requesón y el pepino.",
+      "Si lo deseas, añade una pizca de pimienta negra. Sirve y disfruta de inmediato."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 160,
+      "protein_g": 25.0,
+      "carbs_g": 7.0,
+      "fat_g": 4.0,
+      "fiber_g": 1.0,
+      "sugar_g": 5.0,
+      "sodium_mg": 450,
+      "sat_fat_g": 2.0,
+      "cholesterol_mg": 20
+    },
+    "nutrition_score": {
+      "general": 19,
+      "cut": 24,
+      "bulk": 12,
+      "endurance": 10
+    },
+    "nutrition_alerts": [
+      "Muy alto en proteína",
+      "Bajo en carbohidratos",
+      "Bajo en calorías"
+    ],
+    "allergens": {
+      "contains": [
+        "Lácteos",
+        "Sésamo"
+      ],
+      "free_from": [
+        "Gluten",
+        "Frutos secos"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Requesón Salado con Pepino y Condimento 'Todo Bagel'",
+        "description": "Este tentempié de requesón salado es una opción ligera y rica en proteínas, ideal para cuando buscas algo refrescante y satisfactorio sin un alto contenido calórico o de carbohidratos. El requesón, fuente de caseína de liberación lenta, te mantiene saciado por más tiempo, mientras que el pepino aporta un crujido fresco y una hidratación excelente. El condimento 'Todo Bagel' añade un toque de sabor umami y especiado que eleva este simple snack a otro nivel. Es perfecto para dietas bajas en carbohidratos o como recuperador muscular ligero.",
+        "recipeIngredient": [
+          "150 g requesón (cottage cheese) bajo en grasa",
+          "1/2 pepino pequeño, en rodajas finas",
+          "1 cucharadita condimento 'Todo Bagel'",
+          "Una pizca de pimienta negra (opcional)"
+        ],
+        "recipeInstructions": [
+          "Coloca el requesón en un bol pequeño.",
+          "Dispón las rodajas de pepino por encima o al lado del requesón.",
+          "Espolvorea el condimento 'Todo Bagel' de manera uniforme sobre el requesón y el pepino.",
+          "Si lo deseas, añade una pizca de pimienta negra. Sirve y disfruta de inmediato."
+        ]
+      },
+      "en": {
+        "name": "Savory Cottage Cheese with Cucumber and Everything Bagel Seasoning",
+        "description": "This savory cottage cheese snack is a light and protein-rich option, perfect when you're looking for something refreshing and satisfying without high calories or carbs. Cottage cheese, a source of slow-release casein, keeps you full longer, while cucumber provides a fresh crunch and excellent hydration. The 'Everything Bagel' seasoning adds an umami and spiced flavor profile that elevates this simple snack. It's perfect for low-carb diets or as a light muscle recovery meal.",
+        "keywords": [
+          "cottage cheese",
+          "cucumber",
+          "everything bagel seasoning",
+          "high protein",
+          "low carb snack",
+          "savory snack",
+          "quick snack"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "snack"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1622978303813-6c4ba768ffa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTYXZvcnklMjBDb3R0YWdlJTIwQ2hlZXNlJTIwd2l0aCUyMEN1Y3VtYmVyJTIwYW5kJTIwRXZlcnl0aGluZyUyMEJhZ2VsJTIwU2Vhc29uaW5nJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDUyMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00525",
+      "canonical_name": "Mini Bell Pepper Nachos with Guacamole and Black Beans",
+      "name_normalized": "nachos de mini pimientos con guacamole y frijoles negros",
+      "slug": "nachos-mini-pimientos-guacamole-frijoles-negros",
+      "url": "https://www.sporvit.com/recetas/nachos-mini-pimientos-guacamole-frijoles-negros"
+    },
+    "recipeCategory": "Snack",
+    "description": "Una versión innovadora y saludable de los nachos tradicionales, perfecta como snack crujiente y lleno de sabor sin la carga calórica de las patatas fritas. Estos 'nachos' utilizan mini pimientos dulces como base, que aportan una excelente dosis de vitaminas y fibra. Se coronan con una mezcla fresca de guacamole casero, rico en grasas saludables, y frijoles negros, que añaden proteína vegetal y fibra adicional. Es una opción vibrante, colorida y satisfactoria que te ayudará a mantener tus objetivos de bienestar sin sacrificar el disfrute de la comida. Ideal para cualquier momento del día.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "3-4 mini pimientos dulces (de varios colores)",
+      "1/4 taza frijoles negros cocidos y escurridos",
+      "1/4 aguacate maduro",
+      "1 cucharada cebolla morada picada finamente",
+      "1 cucharada cilantro fresco picado",
+      "1 cucharadita jugo de lima o limón",
+      "Pizca de sal y pimienta al gusto"
+    ],
+    "recipeInstructions": [
+      "Lava bien los mini pimientos y córtalos por la mitad a lo largo, retirando las semillas para que formen pequeñas 'barcas'. Colócalos en un plato.",
+      "Para el guacamole: en un bol pequeño, machaca el aguacate con un tenedor. Incorpora la cebolla morada, el cilantro picado, el jugo de lima y sazona con sal y pimienta al gusto. Mezcla bien.",
+      "Distribuye los frijoles negros sobre las mitades de pimiento.",
+      "Cubre los frijoles con una cucharada de guacamole en cada pimiento. Sirve inmediatamente y disfruta de este colorido y delicioso snack."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 240,
+      "protein_g": 9.0,
+      "carbs_g": 28.0,
+      "fat_g": 12.0,
+      "fiber_g": 10.0,
+      "sugar_g": 7.0,
+      "sodium_mg": 280,
+      "sat_fat_g": 2.0,
+      "cholesterol_mg": 0
+    },
+    "nutrition_score": {
+      "general": 20,
+      "cut": 18,
+      "bulk": 16,
+      "endurance": 22
+    },
+    "nutrition_alerts": [
+      "Alto en fibra",
+      "Vitaminas y antioxidantes",
+      "Grasas saludables",
+      "Buena fuente de proteína vegetal"
+    ],
+    "allergens": {
+      "contains": [],
+      "free_from": [
+        "Lácteos",
+        "Gluten",
+        "Frutos secos",
+        "Cacahuetes"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Nachos de Mini Pimientos con Guacamole y Frijoles Negros",
+        "description": "Una versión innovadora y saludable de los nachos tradicionales, perfecta como snack crujiente y lleno de sabor sin la carga calórica de las patatas fritas. Estos 'nachos' utilizan mini pimientos dulces como base, que aportan una excelente dosis de vitaminas y fibra. Se coronan con una mezcla fresca de guacamole casero, rico en grasas saludables, y frijoles negros, que añaden proteína vegetal y fibra adicional. Es una opción vibrante, colorida y satisfactoria que te ayudará a mantener tus objetivos de bienestar sin sacrificar el disfrute de la comida. Ideal para cualquier momento del día.",
+        "recipeIngredient": [
+          "3-4 mini pimientos dulces (de varios colores)",
+          "1/4 taza frijoles negros cocidos y escurridos",
+          "1/4 aguacate maduro",
+          "1 cucharada cebolla morada picada finamente",
+          "1 cucharada cilantro fresco picado",
+          "1 cucharadita jugo de lima o limón",
+          "Pizca de sal y pimienta al gusto"
+        ],
+        "recipeInstructions": [
+          "Lava bien los mini pimientos y córtalos por la mitad a lo largo, retirando las semillas para que formen pequeñas 'barcas'. Colócalos en un plato.",
+          "Para el guacamole: en un bol pequeño, machaca el aguacate con un tenedor. Incorpora la cebolla morada, el cilantro picado, el jugo de lima y sazona con sal y pimienta al gusto. Mezcla bien.",
+          "Distribuye los frijoles negros sobre las mitades de pimiento.",
+          "Cubre los frijoles con una cucharada de guacamole en cada pimiento. Sirve inmediatamente y disfruta de este colorido y delicioso snack."
+        ]
+      },
+      "en": {
+        "name": "Mini Bell Pepper Nachos with Guacamole and Black Beans",
+        "description": "An innovative and healthy take on traditional nachos, perfect as a crunchy and flavorful snack without the caloric load of potato chips. These 'nachos' use sweet mini bell peppers as a base, providing an excellent dose of vitamins and fiber. They are topped with a fresh mix of homemade guacamole, rich in healthy fats, and black beans, which add plant-based protein and extra fiber. It's a vibrant, colorful, and satisfying option that will help you maintain your wellness goals without sacrificing the enjoyment of food. Ideal for any time of day.",
+        "keywords": [
+          "bell pepper nachos",
+          "guacamole",
+          "black beans",
+          "healthy snack",
+          "vegan snack",
+          "high fiber",
+          "low carb alternative",
+          "quick prep"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "snack"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1715601104221-bdf02645d6c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxNaW5pJTIwQmVsbCUyMFBlcHBlciUyME5hY2hvcyUyMHdpdGglMjBHdWFjYW1vbGUlMjBhbmQlMjBCbGFjayUyMEJlYW5zJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDUyMjY2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00526",
+      "canonical_name": "Hard-Boiled Eggs with Smoked Paprika and Chives",
+      "name_normalized": "huevos cocidos con pimentón ahumado y cebollino",
+      "slug": "huevos-cocidos-pimenton-ahumado-cebollino",
+      "url": "https://www.sporvit.com/recetas/huevos-cocidos-pimenton-ahumado-cebollino"
+    },
+    "recipeCategory": "Snack",
+    "description": "Un snack clásico y extremadamente eficiente para la nutrición deportiva, los huevos cocidos son una fuente inigualable de proteína de alto valor biológico, esencial para la construcción y reparación muscular. Este tentempié se realza con un toque de pimentón ahumado para un sabor profundo y el frescor aromático del cebollino, convirtiendo un alimento básico en una delicia gourmet sencilla. Es perfecto para un bocado rápido, para llevar, o como un recuperador post-entrenamiento que ofrece una saciedad duradera y un perfil nutricional excelente con muy pocos carbohidratos.",
+    "prepTime": "PT2M",
+    "cookTime": "PT8M",
+    "totalTime": "PT10M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "2 huevos grandes",
+      "1/2 cucharadita pimentón ahumado",
+      "1 cucharadita cebollino fresco picado",
+      "Pizca de sal marina",
+      "Pizca de pimienta negra recién molida"
+    ],
+    "recipeInstructions": [
+      "Coloca los huevos en una cacerola pequeña y cúbrelos con agua fría. Lleva a ebullición a fuego alto.",
+      "Una vez que el agua hierva, reduce el fuego a medio-bajo y cocina los huevos durante 7-8 minutos para obtener una yema firme.",
+      "Retira los huevos del fuego y transfiérelos inmediatamente a un bol con agua helada para detener la cocción y facilitar el pelado. Deja enfriar unos minutos.",
+      "Pela los huevos, córtalos por la mitad a lo largo y colócalos en un plato.",
+      "Espolvorea el pimentón ahumado, el cebollino picado, una pizca de sal marina y pimienta negra sobre las mitades de huevo. Sirve y disfruta."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 160,
+      "protein_g": 13.0,
+      "carbs_g": 1.0,
+      "fat_g": 11.0,
+      "fiber_g": 0.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 180,
+      "sat_fat_g": 3.0,
+      "cholesterol_mg": 370
+    },
+    "nutrition_score": {
+      "general": 17,
+      "cut": 23,
+      "bulk": 12,
+      "endurance": 8
+    },
+    "nutrition_alerts": [
+      "Muy alto en proteína",
+      "Bajo en carbohidratos",
+      "Alto en colesterol (del huevo)",
+      "Fuente de vitaminas y minerales"
+    ],
+    "allergens": {
+      "contains": [
+        "Huevo"
+      ],
+      "free_from": [
+        "Lácteos",
+        "Gluten",
+        "Frutos secos",
+        "Cacahuetes"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Huevos Cocidos con Pimentón Ahumado y Cebollino",
+        "description": "Un snack clásico y extremadamente eficiente para la nutrición deportiva, los huevos cocidos son una fuente inigualable de proteína de alto valor biológico, esencial para la construcción y reparación muscular. Este tentempié se realza con un toque de pimentón ahumado para un sabor profundo y el frescor aromático del cebollino, convirtiendo un alimento básico en una delicia gourmet sencilla. Es perfecto para un bocado rápido, para llevar, o como un recuperador post-entrenamiento que ofrece una saciedad duradera y un perfil nutricional excelente con muy pocos carbohidratos.",
+        "recipeIngredient": [
+          "2 huevos grandes",
+          "1/2 cucharadita pimentón ahumado",
+          "1 cucharadita cebollino fresco picado",
+          "Pizca de sal marina",
+          "Pizca de pimienta negra recién molida"
+        ],
+        "recipeInstructions": [
+          "Coloca los huevos en una cacerola pequeña y cúbrelos con agua fría. Lleva a ebullición a fuego alto.",
+          "Una vez que el agua hierva, reduce el fuego a medio-bajo y cocina los huevos durante 7-8 minutos para obtener una yema firme.",
+          "Retira los huevos del fuego y transfiérelos inmediatamente a un bol con agua helada para detener la cocción y facilitar el pelado. Deja enfriar unos minutos.",
+          "Pela los huevos, córtalos por la mitad a lo largo y colócalos en un plato.",
+          "Espolvorea el pimentón ahumado, el cebollino picado, una pizca de sal marina y pimienta negra sobre las mitades de huevo. Sirve y disfruta."
+        ]
+      },
+      "en": {
+        "name": "Hard-Boiled Eggs with Smoked Paprika and Chives",
+        "description": "A classic and extremely efficient snack for sports nutrition, hard-boiled eggs are an unparalleled source of high biological value protein, essential for muscle building and repair. This snack is enhanced with a touch of smoked paprika for a deep flavor and the aromatic freshness of chives, transforming a basic food into a simple gourmet delight. It's perfect for a quick bite, on-the-go, or as a post-workout recovery food that offers lasting satiety and an excellent nutritional profile with very few carbohydrates.",
+        "keywords": [
+          "hard-boiled eggs",
+          "smoked paprika",
+          "chives",
+          "high protein",
+          "low carb snack",
+          "keto-friendly",
+          "post-workout recovery"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "snack"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1625450946530-464d7e660d10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxIYXJkLUJvaWxlZCUyMEVnZ3MlMjB3aXRoJTIwU21va2VkJTIwUGFwcmlrYSUyMGFuZCUyMENoaXZlcyUyMGhlYWx0aHklMjBnb3VybWV0JTIwbWVhbCUyMGhlYWx0aHklMjBmb29kfGVufDB8fHx8MTc3MjA1MjI2OHww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00527",
+      "canonical_name": "Quinoa Salad with Grilled Chicken and Roasted Vegetables",
+      "name_normalized": "ensalada de quinoa con pollo a la plancha y verduras asadas",
+      "slug": "ensalada-quinoa-pollo-plancha-verduras-asadas",
+      "url": "https://www.sporvit.com/recetas/ensalada-quinoa-pollo-plancha-verduras-asadas"
+    },
+    "recipeCategory": "Almuerzo",
+    "description": "Una ensalada nutritiva y completa, perfecta para un almuerzo saludable. Combina la quinoa, una fuente excelente de proteínas vegetales y fibra, con pechuga de pollo a la plancha magra y una variedad de verduras asadas como calabacín, pimiento y cebolla, que aportan vitaminas y minerales esenciales. Aderezada con un toque ligero de aceite de oliva virgen extra y zumo de limón, esta ensalada es ideal para mantener la energía durante el día sin sentirse pesado. Es fácil de preparar y se puede dejar lista con antelación.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150g de quinoa cocida",
+      "150g de pechuga de pollo",
+      "1/2 calabacín",
+      "1/2 pimiento rojo",
+      "1/4 cebolla morada",
+      "1 cucharada de aceite de oliva virgen extra",
+      "Zumo de 1/2 limón",
+      "Sal y pimienta al gusto"
+    ],
+    "recipeInstructions": [
+      "1. Precalentar el horno a 200°C. Cortar el calabacín, el pimiento y la cebolla en trozos medianos. Mezclar con media cucharada de aceite de oliva, sal y pimienta. Extender en una bandeja de horno y asar durante 20-25 minutos, o hasta que estén tiernas y ligeramente doradas.",
+      "2. Mientras tanto, cocinar la quinoa según las instrucciones del paquete. Reservar.",
+      "3. Sazonar la pechuga de pollo con sal y pimienta. Calentar una plancha o sartén a fuego medio-alto con el resto del aceite de oliva. Cocinar el pollo durante 5-7 minutos por cada lado, o hasta que esté bien cocido. Retirar y cortar en tiras o cubos.",
+      "4. En un bol grande, combinar la quinoa cocida, las verduras asadas y el pollo. Aderezar con zumo de limón, un chorrito de aceite de oliva si se desea, sal y pimienta al gusto. Mezclar bien y servir."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 450,
+      "protein_g": 35.0,
+      "carbs_g": 40.0,
+      "fat_g": 18.0,
+      "fiber_g": 8.0,
+      "sugar_g": 5.0,
+      "sodium_mg": 350,
+      "sat_fat_g": 3.0,
+      "cholesterol_mg": 80
+    },
+    "nutrition_score": {
+      "general": 22,
+      "cut": 20,
+      "bulk": 18,
+      "endurance": 23
+    },
+    "nutrition_alerts": [],
+    "allergens": {
+      "contains": [],
+      "free_from": [
+        "Gluten",
+        "Lactosa"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Ensalada de Quinoa con Pollo a la Plancha y Verduras Asadas",
+        "description": "Una ensalada nutritiva y completa, perfecta para un almuerzo saludable. Combina la quinoa, una fuente excelente de proteínas vegetales y fibra, con pechuga de pollo a la plancha magra y una variedad de verduras asadas como calabacín, pimiento y cebolla, que aportan vitaminas y minerales esenciales. Aderezada con un toque ligero de aceite de oliva virgen extra y zumo de limón, esta ensalada es ideal para mantener la energía durante el día sin sentirse pesado. Es fácil de preparar y se puede dejar lista con antelación.",
+        "recipeIngredient": [
+          "150g de quinoa cocida",
+          "150g de pechuga de pollo",
+          "1/2 calabacín",
+          "1/2 pimiento rojo",
+          "1/4 cebolla morada",
+          "1 cucharada de aceite de oliva virgen extra",
+          "Zumo de 1/2 limón",
+          "Sal y pimienta al gusto"
+        ],
+        "recipeInstructions": [
+          "1. Precalentar el horno a 200°C. Cortar el calabacín, el pimiento y la cebolla en trozos medianos. Mezclar con media cucharada de aceite de oliva, sal y pimienta. Extender en una bandeja de horno y asar durante 20-25 minutos, o hasta que estén tiernas y ligeramente doradas.",
+          "2. Mientras tanto, cocinar la quinoa según las instrucciones del paquete. Reservar.",
+          "3. Sazonar la pechuga de pollo con sal y pimienta. Calentar una plancha o sartén a fuego medio-alto con el resto del aceite de oliva. Cocinar el pollo durante 5-7 minutos por cada lado, o hasta que esté bien cocido. Retirar y cortar en tiras o cubos.",
+          "4. En un bol grande, combinar la quinoa cocida, las verduras asadas y el pollo. Aderezar con zumo de limón, un chorrito de aceite de oliva si se desea, sal y pimienta al gusto. Mezclar bien y servir."
+        ]
+      },
+      "en": {
+        "name": "Quinoa Salad with Grilled Chicken and Roasted Vegetables",
+        "description": "A nutritious and complete salad, perfect for a healthy lunch. It combines quinoa, an excellent source of plant-based protein and fiber, with lean grilled chicken breast and a variety of roasted vegetables such as zucchini, bell pepper, and onion, which provide essential vitamins and minerals. Dressed with a light touch of extra virgin olive oil and lemon juice, this salad is ideal for maintaining energy throughout the day without feeling heavy. It's easy to prepare and can be made ahead of time.",
+        "keywords": [
+          "quinoa salad",
+          "grilled chicken",
+          "roasted vegetables",
+          "healthy lunch",
+          "high protein",
+          "high fiber",
+          "gluten-free"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "almuerzo"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1636044992970-f6efe88ab1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxRdWlub2ElMjBTYWxhZCUyMHdpdGglMjBHcmlsbGVkJTIwQ2hpY2tlbiUyMGFuZCUyMFJvYXN0ZWQlMjBWZWdldGFibGVzJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDczODk2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00528",
+      "canonical_name": "Brown Rice Bowls with Tuna, Avocado, and Edamame",
+      "name_normalized": "boles de arroz integral con atún, aguacate y edamame",
+      "slug": "boles-arroz-integral-atun,-aguacate-edamame",
+      "url": "https://www.sporvit.com/recetas/boles-arroz-integral-atun,-aguacate-edamame"
+    },
+    "recipeCategory": "Almuerzo",
+    "description": "Estos boles son una maravilla de sabor y nutrición, ideales para un almuerzo completo y satisfactorio. El arroz integral proporciona carbohidratos complejos de liberación lenta, el atún enlatado (al natural) es una fuente excelente de proteína magra y Omega-3, y el aguacate aporta grasas saludables. El edamame añade más proteína vegetal y fibra, mientras que las verduras frescas como pepino y zanahoria rallada complementan con vitaminas y textura. Es una comida muy saciante y fácil de preparar, perfecta para llevar al trabajo o disfrutar en casa. Una explosión de nutrientes en cada bocado.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150g de arroz integral cocido",
+      "1 lata de atún al natural (aprox. 80g escurrido)",
+      "1/2 aguacate",
+      "50g de edamame cocido",
+      "1/4 pepino",
+      "1/2 zanahoria rallada",
+      "Zumo de 1/2 limón",
+      "1 cucharadita de salsa de soja baja en sodio",
+      "Sésamo tostado para decorar",
+      "Sal y pimienta al gusto"
+    ],
+    "recipeInstructions": [
+      "1. Si el arroz integral no está cocido, prepararlo según las instrucciones del paquete. Asegurarse de que esté frío o templado antes de montar el bol.",
+      "2. Escurrir bien el atún. Cortar el aguacate en dados y el pepino en rodajas o medias lunas finas. Rallar la zanahoria.",
+      "3. En un bol de servicio, colocar una base de arroz integral. Sobre el arroz, disponer el atún escurrido, los dados de aguacate, el edamame cocido, el pepino y la zanahoria rallada.",
+      "4. Aderezar con zumo de limón y salsa de soja baja en sodio (si se usa). Espolvorear con sésamo tostado y servir."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 480,
+      "protein_g": 30.0,
+      "carbs_g": 50.0,
+      "fat_g": 20.0,
+      "fiber_g": 10.0,
+      "sugar_g": 4.0,
+      "sodium_mg": 400,
+      "sat_fat_g": 3.5,
+      "cholesterol_mg": 40
+    },
+    "nutrition_score": {
+      "general": 23,
+      "cut": 19,
+      "bulk": 19,
+      "endurance": 24
+    },
+    "nutrition_alerts": [],
+    "allergens": {
+      "contains": [
+        "Pescado",
+        "Soja",
+        "Trigo",
+        "Sésamo"
+      ],
+      "free_from": [
+        "Lactosa"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Boles de Arroz Integral con Atún, Aguacate y Edamame",
+        "description": "Estos boles son una maravilla de sabor y nutrición, ideales para un almuerzo completo y satisfactorio. El arroz integral proporciona carbohidratos complejos de liberación lenta, el atún enlatado (al natural) es una fuente excelente de proteína magra y Omega-3, y el aguacate aporta grasas saludables. El edamame añade más proteína vegetal y fibra, mientras que las verduras frescas como pepino y zanahoria rallada complementan con vitaminas y textura. Es una comida muy saciante y fácil de preparar, perfecta para llevar al trabajo o disfrutar en casa. Una explosión de nutrientes en cada bocado.",
+        "recipeIngredient": [
+          "150g de arroz integral cocido",
+          "1 lata de atún al natural (aprox. 80g escurrido)",
+          "1/2 aguacate",
+          "50g de edamame cocido",
+          "1/4 pepino",
+          "1/2 zanahoria rallada",
+          "Zumo de 1/2 limón",
+          "1 cucharadita de salsa de soja baja en sodio",
+          "Sésamo tostado para decorar",
+          "Sal y pimienta al gusto"
+        ],
+        "recipeInstructions": [
+          "1. Si el arroz integral no está cocido, prepararlo según las instrucciones del paquete. Asegurarse de que esté frío o templado antes de montar el bol.",
+          "2. Escurrir bien el atún. Cortar el aguacate en dados y el pepino en rodajas o medias lunas finas. Rallar la zanahoria.",
+          "3. En un bol de servicio, colocar una base de arroz integral. Sobre el arroz, disponer el atún escurrido, los dados de aguacate, el edamame cocido, el pepino y la zanahoria rallada.",
+          "4. Aderezar con zumo de limón y salsa de soja baja en sodio (si se usa). Espolvorear con sésamo tostado y servir."
+        ]
+      },
+      "en": {
+        "name": "Brown Rice Bowls with Tuna, Avocado, and Edamame",
+        "description": "These bowls are a wonder of flavor and nutrition, ideal for a complete and satisfying lunch. Brown rice provides slow-release complex carbohydrates, canned tuna (in water) is an excellent source of lean protein and Omega-3s, and avocado contributes healthy fats. Edamame adds more plant protein and fiber, while fresh vegetables like cucumber and grated carrot complement with vitamins and texture. It's a very filling and easy-to-prepare meal, perfect for taking to work or enjoying at home. An explosion of nutrients in every bite.",
+        "keywords": [
+          "brown rice bowl",
+          "tuna",
+          "avocado",
+          "edamame",
+          "healthy lunch",
+          "omega-3",
+          "high fiber",
+          "meal prep"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "almuerzo"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1702638320079-08f4ab66fa29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxCcm93biUyMFJpY2UlMjBCb3dscyUyMHdpdGglMjBUdW5hJTJDJTIwQXZvY2FkbyUyQyUyMGFuZCUyMEVkYW1hbWUlMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwNzM4OTd8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00529",
+      "canonical_name": "Turkey Breast Stuffed with Vegetables and Fresh Cheese with Couscous",
+      "name_normalized": "pechuga de pavo rellena de verduras y queso fresco con cuscús",
+      "slug": "pechuga-pavo-rellena-verduras-queso-fresco-cuscus",
+      "url": "https://www.sporvit.com/recetas/pechuga-pavo-rellena-verduras-queso-fresco-cuscus"
+    },
+    "recipeCategory": "Almuerzo",
+    "description": "Una receta elegante y saludable que convierte la pechuga de pavo en un plato sorprendente. Rellenamos la carne magra de pavo con una mezcla de verduras finamente picadas, como espinacas y pimientos, y queso fresco, que añade cremosidad y un toque lácteo. El pavo se cocina al horno, manteniendo su jugosidad, y se acompaña de cuscús, un grano ligero y rápido de preparar que sirve como una excelente fuente de carbohidratos complejos. Este plato es perfecto para un almuerzo que satisface sin ser pesado, proporcionando una buena dosis de proteínas y fibra. Ideal para mantener la energía y la figura.",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150g de pechuga de pavo",
+      "50g de queso fresco batido 0%",
+      "50g de espinacas frescas",
+      "30g de pimiento rojo picado",
+      "100g de cuscús precocido",
+      "150ml de caldo de verduras bajo en sodio",
+      "1/2 cucharadita de aceite de oliva virgen extra",
+      "Sal, pimienta y orégano al gusto"
+    ],
+    "recipeInstructions": [
+      "1. Precalentar el horno a 180°C. Abrir la pechuga de pavo por la mitad, sin llegar a cortarla del todo, para crear una \"bolsa\" o filete grande y plano. Sazonar con sal y pimienta.",
+      "2. En un bol, mezclar el queso fresco batido con las espinacas picadas finamente, el pimiento rojo picado, orégano, sal y pimienta. Remover bien.",
+      "3. Rellenar la pechuga de pavo con la mezcla de queso y verduras. Cerrar la pechuga con palillos de cocina si es necesario para que el relleno no se salga. Colocar en una fuente para horno.",
+      "4. Hornear durante 25-30 minutos, o hasta que el pavo esté completamente cocido. Mientras tanto, preparar el cuscús: en un bol, verter el cuscús y el caldo de verduras caliente. Tapar y dejar reposar 5 minutos hasta que el líquido se absorba. Desgranar con un tenedor y añadir media cucharadita de aceite de oliva. Servir la pechuga de pavo rellena cortada en rodajas junto con el cuscús."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 380,
+      "protein_g": 40.0,
+      "carbs_g": 40.0,
+      "fat_g": 8.0,
+      "fiber_g": 6.0,
+      "sugar_g": 4.0,
+      "sodium_mg": 320,
+      "sat_fat_g": 2.5,
+      "cholesterol_mg": 90
+    },
+    "nutrition_score": {
+      "general": 20,
+      "cut": 22,
+      "bulk": 17,
+      "endurance": 21
+    },
+    "nutrition_alerts": [],
+    "allergens": {
+      "contains": [
+        "Gluten",
+        "Lactosa"
+      ],
+      "free_from": [
+        "Pescado",
+        "Frutos secos"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Pechuga de Pavo Rellena de Verduras y Queso Fresco con Cuscús",
+        "description": "Una receta elegante y saludable que convierte la pechuga de pavo en un plato sorprendente. Rellenamos la carne magra de pavo con una mezcla de verduras finamente picadas, como espinacas y pimientos, y queso fresco, que añade cremosidad y un toque lácteo. El pavo se cocina al horno, manteniendo su jugosidad, y se acompaña de cuscús, un grano ligero y rápido de preparar que sirve como una excelente fuente de carbohidratos complejos. Este plato es perfecto para un almuerzo que satisface sin ser pesado, proporcionando una buena dosis de proteínas y fibra. Ideal para mantener la energía y la figura.",
+        "recipeIngredient": [
+          "150g de pechuga de pavo",
+          "50g de queso fresco batido 0%",
+          "50g de espinacas frescas",
+          "30g de pimiento rojo picado",
+          "100g de cuscús precocido",
+          "150ml de caldo de verduras bajo en sodio",
+          "1/2 cucharadita de aceite de oliva virgen extra",
+          "Sal, pimienta y orégano al gusto"
+        ],
+        "recipeInstructions": [
+          "1. Precalentar el horno a 180°C. Abrir la pechuga de pavo por la mitad, sin llegar a cortarla del todo, para crear una \"bolsa\" o filete grande y plano. Sazonar con sal y pimienta.",
+          "2. En un bol, mezclar el queso fresco batido con las espinacas picadas finamente, el pimiento rojo picado, orégano, sal y pimienta. Remover bien.",
+          "3. Rellenar la pechuga de pavo con la mezcla de queso y verduras. Cerrar la pechuga con palillos de cocina si es necesario para que el relleno no se salga. Colocar en una fuente para horno.",
+          "4. Hornear durante 25-30 minutos, o hasta que el pavo esté completamente cocido. Mientras tanto, preparar el cuscús: en un bol, verter el cuscús y el caldo de verduras caliente. Tapar y dejar reposar 5 minutos hasta que el líquido se absorba. Desgranar con un tenedor y añadir media cucharadita de aceite de oliva. Servir la pechuga de pavo rellena cortada en rodajas junto con el cuscús."
+        ]
+      },
+      "en": {
+        "name": "Turkey Breast Stuffed with Vegetables and Fresh Cheese with Couscous",
+        "description": "An elegant and healthy recipe that transforms turkey breast into a surprising dish. We stuff lean turkey meat with a finely chopped vegetable mix, such as spinach and peppers, and fresh cheese, which adds creaminess and a dairy touch. The turkey is oven-cooked, maintaining its juiciness, and served with couscous, a light and quick-to-prepare grain that serves as an excellent source of complex carbohydrates. This dish is perfect for a satisfying yet light lunch, providing a good dose of protein and fiber. Ideal for maintaining energy and fitness.",
+        "keywords": [
+          "stuffed turkey breast",
+          "vegetables",
+          "fresh cheese",
+          "couscous",
+          "lean protein",
+          "healthy lunch",
+          "low fat"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "almuerzo"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1740782440880-7dc177d43069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxUdXJrZXklMjBCcmVhc3QlMjBTdHVmZmVkJTIwd2l0aCUyMFZlZ2V0YWJsZXMlMjBhbmQlMjBGcmVzaCUyMENoZWVzZSUyMHdpdGglMjBDb3VzY291cyUyMGhlYWx0aHklMjBnb3VybWV0JTIwbWVhbCUyMGhlYWx0aHklMjBmb29kfGVufDB8fHx8MTc3MjA3Mzg5OHww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00530",
+      "canonical_name": "Chicken Breast Stuffed with Spinach and Feta with Roasted Sweet Potato",
+      "name_normalized": "pechuga de pollo rellena de espinacas y queso feta con batata asada",
+      "slug": "pechuga-pollo-rellena-espinacas-queso-feta-batata-asada",
+      "url": "https://www.sporvit.com/recetas/pechuga-pollo-rellena-espinacas-queso-feta-batata-asada"
+    },
+    "recipeCategory": "Cena",
+    "description": "Esta cena es perfecta para quienes buscan una opción rica en proteínas magras y carbohidratos complejos. La pechuga de pollo, rellena de espinacas y un toque de queso feta, ofrece un sabor mediterráneo y una excelente fuente de proteína de alto valor biológico, esencial para el mantenimiento y crecimiento muscular. La batata asada complementa el plato con fibra y energía sostenida gracias a sus carbohidratos de lenta liberación, ideal para la recuperación post-entrenamiento o simplemente para disfrutar de una noche nutritiva y satisfactoria sin pesadez.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "180 g Pechuga de pollo sin piel ni hueso",
+      "50 g Espinacas frescas",
+      "20 g Queso feta desmenuzado",
+      "1 Batata mediana (aprox. 200g)",
+      "1 cucharadita Aceite de oliva virgen extra",
+      "½ diente Ajo picado",
+      "Pimienta negra al gusto",
+      "Sal al gusto",
+      "Orégano seco al gusto"
+    ],
+    "recipeInstructions": [
+      "Precalentar el horno a 200°C (400°F).",
+      "Pelar la batata, cortarla en rodajas o dados y mezclar con ½ cucharadita de aceite de oliva, sal y pimienta. Asar en el horno durante 25-30 minutos, o hasta que esté tierna y ligeramente dorada.",
+      "Mientras tanto, abrir la pechuga de pollo por la mitad sin cortarla completamente, creando una bolsa.",
+      "En un bol pequeño, mezclar las espinacas frescas (ligeramente picadas si son muy grandes), el queso feta, el ajo picado y un poco de orégano.",
+      "Rellenar la pechuga de pollo con la mezcla de espinacas y feta. Cerrar con palillos si es necesario.",
+      "Sazonar la pechuga de pollo por fuera con sal, pimienta y un poco de orégano. En una sartén apta para horno o en la misma bandeja donde se asan las batatas, rociar con el resto del aceite de oliva y sellar el pollo por ambos lados a fuego medio-alto durante 2-3 minutos por cada lado hasta dorar.",
+      "Terminar de cocinar el pollo en el horno junto con las batatas durante 15-20 minutos, o hasta que esté bien cocido.",
+      "Retirar los palillos y servir la pechuga de pollo rellena con la batata asada."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 480,
+      "protein_g": 48.0,
+      "carbs_g": 38.0,
+      "fat_g": 14.0,
+      "fiber_g": 7.0,
+      "sugar_g": 8.0,
+      "sodium_mg": 550,
+      "sat_fat_g": 6.0,
+      "cholesterol_mg": 140
+    },
+    "nutrition_score": {
+      "general": 22,
+      "cut": 22,
+      "bulk": 19,
+      "endurance": 17
+    },
+    "nutrition_alerts": [
+      "Alto en proteína",
+      "Fuente de vitaminas A y C"
+    ],
+    "allergens": {
+      "contains": [
+        "Lácteos"
+      ],
+      "free_from": [
+        "Gluten"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Pechuga de Pollo Rellena de Espinacas y Queso Feta con Batata Asada",
+        "description": "Esta cena es perfecta para quienes buscan una opción rica en proteínas magras y carbohidratos complejos. La pechuga de pollo, rellena de espinacas y un toque de queso feta, ofrece un sabor mediterráneo y una excelente fuente de proteína de alto valor biológico, esencial para el mantenimiento y crecimiento muscular. La batata asada complementa el plato con fibra y energía sostenida gracias a sus carbohidratos de lenta liberación, ideal para la recuperación post-entrenamiento o simplemente para disfrutar de una noche nutritiva y satisfactoria sin pesadez.",
+        "recipeIngredient": [
+          "180 g Pechuga de pollo sin piel ni hueso",
+          "50 g Espinacas frescas",
+          "20 g Queso feta desmenuzado",
+          "1 Batata mediana (aprox. 200g)",
+          "1 cucharadita Aceite de oliva virgen extra",
+          "½ diente Ajo picado",
+          "Pimienta negra al gusto",
+          "Sal al gusto",
+          "Orégano seco al gusto"
+        ],
+        "recipeInstructions": [
+          "Precalentar el horno a 200°C (400°F).",
+          "Pelar la batata, cortarla en rodajas o dados y mezclar con ½ cucharadita de aceite de oliva, sal y pimienta. Asar en el horno durante 25-30 minutos, o hasta que esté tierna y ligeramente dorada.",
+          "Mientras tanto, abrir la pechuga de pollo por la mitad sin cortarla completamente, creando una bolsa.",
+          "En un bol pequeño, mezclar las espinacas frescas (ligeramente picadas si son muy grandes), el queso feta, el ajo picado y un poco de orégano.",
+          "Rellenar la pechuga de pollo con la mezcla de espinacas y feta. Cerrar con palillos si es necesario.",
+          "Sazonar la pechuga de pollo por fuera con sal, pimienta y un poco de orégano. En una sartén apta para horno o en la misma bandeja donde se asan las batatas, rociar con el resto del aceite de oliva y sellar el pollo por ambos lados a fuego medio-alto durante 2-3 minutos por cada lado hasta dorar.",
+          "Terminar de cocinar el pollo en el horno junto con las batatas durante 15-20 minutos, o hasta que esté bien cocido.",
+          "Retirar los palillos y servir la pechuga de pollo rellena con la batata asada."
+        ]
+      },
+      "en": {
+        "name": "Chicken Breast Stuffed with Spinach and Feta with Roasted Sweet Potato",
+        "description": "This dinner is perfect for those seeking a lean protein and complex carbohydrate option. The chicken breast, stuffed with spinach and a touch of feta cheese, offers a Mediterranean flavor and an excellent source of high biological value protein, essential for muscle maintenance and growth. The roasted sweet potato complements the dish with fiber and sustained energy thanks to its slow-release carbohydrates, ideal for post-workout recovery or simply for enjoying a nutritious and satisfying evening without feeling heavy. It's a flavorful and wholesome meal.",
+        "keywords": [
+          "Stuffed Chicken Breast",
+          "Spinach",
+          "Feta",
+          "Roasted Sweet Potato",
+          "Lean Protein",
+          "Complex Carbs",
+          "Healthy Dinner",
+          "Fitness Meal"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1648221825803-4e02a95bf062?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwQnJlYXN0JTIwU3R1ZmZlZCUyMHdpdGglMjBTcGluYWNoJTIwYW5kJTIwRmV0YSUyMHdpdGglMjBSb2FzdGVkJTIwU3dlZXQlMjBQb3RhdG8lMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwODMzOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00531",
+      "canonical_name": "Chickpea and Tuna Salad with Lemon Herb Dressing",
+      "name_normalized": "ensalada de garbanzos y atún con aderezo de limón y hierbas",
+      "slug": "ensalada-garbanzos-atun-aderezo-limon-hierbas",
+      "url": "https://www.sporvit.com/recetas/ensalada-garbanzos-atun-aderezo-limon-hierbas"
+    },
+    "recipeCategory": "Cena",
+    "description": "Una ensalada fresca y nutritiva, perfecta para una cena ligera pero saciante, especialmente en noches calurosas o cuando se busca una comida fácil de preparar. Los garbanzos aportan una generosa cantidad de fibra dietética y carbohidratos complejos, promoviendo la saciedad y una digestión saludable. El atún enlatado (preferiblemente al natural o en agua) es una fuente excelente de proteína magra y ácidos grasos omega-3, beneficiosos para la salud cerebral y cardiovascular. El aderezo casero de limón y hierbas frescas realza los sabores sin añadir calorías innecesarias, haciendo de este plato una opción saludable y deliciosa cuando el tiempo es limitado.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150 g Garbanzos cocidos (enlatados y escurridos)",
+      "80 g Atún enlatado al natural, escurrido",
+      "½ Tomate, picado",
+      "¼ Pepino, picado",
+      "¼ Cebolla morada, picada finamente",
+      "5-6 Aceitunas negras, laminadas (opcional)",
+      "2 cucharadas Perejil fresco, picado",
+      "1 cucharada Aceite de oliva virgen extra (para el aderezo)",
+      "Jugo de ½ limón (para el aderezo)",
+      "Pizca de sal",
+      "Pizca de pimienta negra"
+    ],
+    "recipeInstructions": [
+      "En un bol grande, combinar los garbanzos cocidos y escurridos, el atún desmenuzado, el tomate picado, el pepino picado, la cebolla morada y las aceitunas (si se usan).",
+      "Para el aderezo, en un pequeño recipiente, mezclar el aceite de oliva, el jugo de limón, el perejil fresco picado, sal y pimienta al gusto.",
+      "Verter el aderezo sobre la ensalada y mezclar bien para que todos los ingredientes se impregnen.",
+      "Servir inmediatamente o refrigerar por unos minutos para que los sabores se asienten."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 420,
+      "protein_g": 35.0,
+      "carbs_g": 38.0,
+      "fat_g": 16.0,
+      "fiber_g": 10.0,
+      "sugar_g": 5.0,
+      "sodium_mg": 480,
+      "sat_fat_g": 2.5,
+      "cholesterol_mg": 40
+    },
+    "nutrition_score": {
+      "general": 20,
+      "cut": 21,
+      "bulk": 16,
+      "endurance": 18
+    },
+    "nutrition_alerts": [
+      "Alto en fibra",
+      "Fuente de omega-3"
+    ],
+    "allergens": {
+      "contains": [
+        "Pescado"
+      ],
+      "free_from": [
+        "Gluten",
+        "Lactosa"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Ensalada de Garbanzos y Atún con Aderezo de Limón y Hierbas",
+        "description": "Una ensalada fresca y nutritiva, perfecta para una cena ligera pero saciante, especialmente en noches calurosas o cuando se busca una comida fácil de preparar. Los garbanzos aportan una generosa cantidad de fibra dietética y carbohidratos complejos, promoviendo la saciedad y una digestión saludable. El atún enlatado (preferiblemente al natural o en agua) es una fuente excelente de proteína magra y ácidos grasos omega-3, beneficiosos para la salud cerebral y cardiovascular. El aderezo casero de limón y hierbas frescas realza los sabores sin añadir calorías innecesarias, haciendo de este plato una opción saludable y deliciosa cuando el tiempo es limitado.",
+        "recipeIngredient": [
+          "150 g Garbanzos cocidos (enlatados y escurridos)",
+          "80 g Atún enlatado al natural, escurrido",
+          "½ Tomate, picado",
+          "¼ Pepino, picado",
+          "¼ Cebolla morada, picada finamente",
+          "5-6 Aceitunas negras, laminadas (opcional)",
+          "2 cucharadas Perejil fresco, picado",
+          "1 cucharada Aceite de oliva virgen extra (para el aderezo)",
+          "Jugo de ½ limón (para el aderezo)",
+          "Pizca de sal",
+          "Pizca de pimienta negra"
+        ],
+        "recipeInstructions": [
+          "En un bol grande, combinar los garbanzos cocidos y escurridos, el atún desmenuzado, el tomate picado, el pepino picado, la cebolla morada y las aceitunas (si se usan).",
+          "Para el aderezo, en un pequeño recipiente, mezclar el aceite de oliva, el jugo de limón, el perejil fresco picado, sal y pimienta al gusto.",
+          "Verter el aderezo sobre la ensalada y mezclar bien para que todos los ingredientes se impregnen.",
+          "Servir inmediatamente o refrigerar por unos minutos para que los sabores se asienten."
+        ]
+      },
+      "en": {
+        "name": "Chickpea and Tuna Salad with Lemon Herb Dressing",
+        "description": "A fresh and nutritious salad, perfect for a light yet satisfying dinner, especially on warm evenings or when looking for an easy-to-prepare meal. Chickpeas provide a generous amount of dietary fiber and complex carbohydrates, promoting satiety and healthy digestion. Canned tuna (preferably in water or natural brine) is an excellent source of lean protein and omega-3 fatty acids, beneficial for brain and cardiovascular health. The homemade lemon and fresh herb dressing enhances the flavors without adding unnecessary calories, making this dish a healthy and delicious option when time is limited.",
+        "keywords": [
+          "Chickpea Salad",
+          "Tuna Salad",
+          "Lemon Herb Dressing",
+          "High Fiber",
+          "Lean Protein",
+          "Healthy Dinner",
+          "Quick Meal",
+          "Omega-3"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1680098021573-b9402ee336ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxDaGlja3BlYSUyMGFuZCUyMFR1bmElMjBTYWxhZCUyMHdpdGglMjBMZW1vbiUyMEhlcmIlMjBEcmVzc2luZyUyMGhlYWx0aHklMjBnb3VybWV0JTIwbWVhbCUyMGhlYWx0aHklMjBmb29kfGVufDB8fHx8MTc3MjA4MzM5OHww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00532",
+      "canonical_name": "Sautéed Tofu with Broccoli and Brown Rice",
+      "name_normalized": "tofu salteado con brócoli y arroz integral",
+      "slug": "tofu-salteado-brocoli-arroz-integral",
+      "url": "https://www.sporvit.com/recetas/tofu-salteado-brocoli-arroz-integral"
+    },
+    "recipeCategory": "Cena",
+    "description": "Esta receta vegana es una explosión de sabor y nutrientes, ideal para una cena saludable y consciente. El tofu, una fuente completa de proteína vegetal y una excelente alternativa a la carne, se saltea hasta quedar dorado y con una textura agradable, combinando perfectamente con el brócoli, rico en vitaminas C y K, fibra y antioxidantes. El arroz integral proporciona los carbohidratos complejos necesarios para una energía sostenida y una digestión saludable, sin picos de azúcar. Una opción ligera, saciante y fácil de preparar, perfecta para cualquier día de la semana y para aquellos que siguen una dieta basada en plantas o buscan reducir el consumo de carne.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150 g Tofu firme, prensado y cortado en cubos",
+      "150 g Brócoli, cortado en floretes",
+      "60 g Arroz integral crudo",
+      "1 cucharada Salsa de soja baja en sodio",
+      "½ cucharada Aceite de sésamo (o aceite de oliva)",
+      "½ diente Ajo, picado",
+      "¼ Cebolla morada, picada",
+      "Una pizca de jengibre fresco rallado (opcional)",
+      "Semillas de sésamo para decorar (opcional)",
+      "Pizca de sal",
+      "Pizca de pimienta"
+    ],
+    "recipeInstructions": [
+      "Cocinar el arroz integral según las instrucciones del paquete (suele tomar 15-20 minutos).",
+      "Mientras el arroz se cocina, calentar el aceite de sésamo (o de oliva) en un wok o sartén grande a fuego medio-alto.",
+      "Añadir el ajo, la cebolla y el jengibre (si se usa) y saltear por 1 minuto hasta que estén fragantes.",
+      "Incorporar el tofu y saltear hasta que esté dorado por todos lados, aproximadamente 5-7 minutos. Retirar el tofu de la sartén y reservar.",
+      "Añadir el brócoli a la misma sartén y saltear por 5-7 minutos hasta que esté tierno pero aún crujiente. Si es necesario, añadir una cucharada de agua y tapar por un par de minutos para ayudar a que se cocine al vapor.",
+      "Volver a incorporar el tofu a la sartén junto con el brócoli. Añadir la salsa de soja y mezclar bien.",
+      "Servir el salteado de tofu y brócoli sobre el arroz integral cocido. Decorar con semillas de sésamo si se desea."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 450,
+      "protein_g": 30.0,
+      "carbs_g": 48.0,
+      "fat_g": 18.0,
+      "fiber_g": 9.0,
+      "sugar_g": 4.0,
+      "sodium_mg": 700,
+      "sat_fat_g": 2.5,
+      "cholesterol_mg": 0
+    },
+    "nutrition_score": {
+      "general": 19,
+      "cut": 17,
+      "bulk": 17,
+      "endurance": 20
+    },
+    "nutrition_alerts": [
+      "Alto en fibra",
+      "Opción vegana"
+    ],
+    "allergens": {
+      "contains": [
+        "Soja"
+      ],
+      "free_from": [
+        "Lácteos",
+        "Gluten (si la salsa de soja es sin gluten)"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Tofu Salteado con Brócoli y Arroz Integral",
+        "description": "Esta receta vegana es una explosión de sabor y nutrientes, ideal para una cena saludable y consciente. El tofu, una fuente completa de proteína vegetal y una excelente alternativa a la carne, se saltea hasta quedar dorado y con una textura agradable, combinando perfectamente con el brócoli, rico en vitaminas C y K, fibra y antioxidantes. El arroz integral proporciona los carbohidratos complejos necesarios para una energía sostenida y una digestión saludable, sin picos de azúcar. Una opción ligera, saciante y fácil de preparar, perfecta para cualquier día de la semana y para aquellos que siguen una dieta basada en plantas o buscan reducir el consumo de carne.",
+        "recipeIngredient": [
+          "150 g Tofu firme, prensado y cortado en cubos",
+          "150 g Brócoli, cortado en floretes",
+          "60 g Arroz integral crudo",
+          "1 cucharada Salsa de soja baja en sodio",
+          "½ cucharada Aceite de sésamo (o aceite de oliva)",
+          "½ diente Ajo, picado",
+          "¼ Cebolla morada, picada",
+          "Una pizca de jengibre fresco rallado (opcional)",
+          "Semillas de sésamo para decorar (opcional)",
+          "Pizca de sal",
+          "Pizca de pimienta"
+        ],
+        "recipeInstructions": [
+          "Cocinar el arroz integral según las instrucciones del paquete (suele tomar 15-20 minutos).",
+          "Mientras el arroz se cocina, calentar el aceite de sésamo (o de oliva) en un wok o sartén grande a fuego medio-alto.",
+          "Añadir el ajo, la cebolla y el jengibre (si se usa) y saltear por 1 minuto hasta que estén fragantes.",
+          "Incorporar el tofu y saltear hasta que esté dorado por todos lados, aproximadamente 5-7 minutos. Retirar el tofu de la sartén y reservar.",
+          "Añadir el brócoli a la misma sartén y saltear por 5-7 minutos hasta que esté tierno pero aún crujiente. Si es necesario, añadir una cucharada de agua y tapar por un par de minutos para ayudar a que se cocine al vapor.",
+          "Volver a incorporar el tofu a la sartén junto con el brócoli. Añadir la salsa de soja y mezclar bien.",
+          "Servir el salteado de tofu y brócoli sobre el arroz integral cocido. Decorar con semillas de sésamo si se desea."
+        ]
+      },
+      "en": {
+        "name": "Sautéed Tofu with Broccoli and Brown Rice",
+        "description": "This vegan recipe is an explosion of flavor and nutrients, ideal for a healthy and conscious dinner. Tofu, a complete plant-based protein source and an excellent meat alternative, is sautéed until golden and pleasantly textured, perfectly combining with broccoli, rich in vitamins C and K, fiber, and antioxidants. Brown rice provides the necessary complex carbohydrates for sustained energy and healthy digestion, without sugar spikes. A light, satisfying, and easy-to-prepare option, perfect for any day of the week and for those following a plant-based diet or looking to reduce meat consumption.",
+        "keywords": [
+          "Sautéed Tofu",
+          "Broccoli",
+          "Brown Rice",
+          "Vegan Dinner",
+          "Plant-Based Protein",
+          "High Fiber",
+          "Healthy Meal"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1587995631109-2a8588e991da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTYXV0JUMzJUE5ZWQlMjBUb2Z1JTIwd2l0aCUyMEJyb2Njb2xpJTIwYW5kJTIwQnJvd24lMjBSaWNlJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDgzMzk5fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00533",
+      "canonical_name": "Egg White Omelette with Mushrooms and Cherry Tomatoes",
+      "name_normalized": "tortilla de claras con champiñones y tomates cherry",
+      "slug": "tortilla-claras-champinones-tomates-cherry",
+      "url": "https://www.sporvit.com/recetas/tortilla-claras-champinones-tomates-cherry"
+    },
+    "recipeCategory": "Cena",
+    "description": "Una opción de cena ultra ligera y rica en proteínas, perfecta para quienes buscan mantener un déficit calórico o una comida baja en grasas y carbohidratos. La tortilla, hecha exclusivamente con claras de huevo, asegura una ingesta de proteína pura y de alta calidad, fundamental para la recuperación y el mantenimiento muscular sin añadir grasas ni colesterol. Los champiñones y tomates cherry añaden volumen, fibra y vitaminas con muy pocas calorías, creando un plato saciante y nutritivo que se prepara en minutos, ideal para una cena rápida y saludable sin complicaciones.",
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "5 claras de huevo",
+      "100 g Champiñones frescos, laminados",
+      "50 g Tomates cherry, cortados por la mitad",
+      "½ cucharadita Aceite de oliva virgen extra",
+      "Pizca de sal",
+      "Pizca de pimienta negra",
+      "Perejil fresco picado para decorar (opcional)"
+    ],
+    "recipeInstructions": [
+      "En un bol, batir las claras de huevo con una pizca de sal y pimienta.",
+      "Calentar el aceite de oliva en una sartén antiadherente a fuego medio.",
+      "Añadir los champiñones laminados y saltear hasta que suelten su agua y se doren ligeramente (aprox. 3-4 minutos).",
+      "Incorporar los tomates cherry cortados a la sartén y saltear por 1-2 minutos más.",
+      "Verter las claras batidas sobre las verduras en la sartén. Extender uniformemente.",
+      "Cocinar hasta que los bordes de la tortilla estén cuajados y el centro casi firme. Si se desea, se puede tapar la sartén por un minuto para ayudar a que la parte superior se cocine.",
+      "Doblar la tortilla por la mitad o servir abierta. Decorar con perejil fresco picado si se desea."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 190,
+      "protein_g": 28.0,
+      "carbs_g": 7.0,
+      "fat_g": 5.0,
+      "fiber_g": 2.0,
+      "sugar_g": 4.0,
+      "sodium_mg": 380,
+      "sat_fat_g": 0.8,
+      "cholesterol_mg": 0
+    },
+    "nutrition_score": {
+      "general": 21,
+      "cut": 25,
+      "bulk": 10,
+      "endurance": 10
+    },
+    "nutrition_alerts": [
+      "Muy bajo en calorías",
+      "Alto en proteína",
+      "Bajo en grasa"
+    ],
+    "allergens": {
+      "contains": [
+        "Huevo"
+      ],
+      "free_from": [
+        "Gluten",
+        "Lactosa"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Tortilla de Claras con Champiñones y Tomates Cherry",
+        "description": "Una opción de cena ultra ligera y rica en proteínas, perfecta para quienes buscan mantener un déficit calórico o una comida baja en grasas y carbohidratos. La tortilla, hecha exclusivamente con claras de huevo, asegura una ingesta de proteína pura y de alta calidad, fundamental para la recuperación y el mantenimiento muscular sin añadir grasas ni colesterol. Los champiñones y tomates cherry añaden volumen, fibra y vitaminas con muy pocas calorías, creando un plato saciante y nutritivo que se prepara en minutos, ideal para una cena rápida y saludable sin complicaciones.",
+        "recipeIngredient": [
+          "5 claras de huevo",
+          "100 g Champiñones frescos, laminados",
+          "50 g Tomates cherry, cortados por la mitad",
+          "½ cucharadita Aceite de oliva virgen extra",
+          "Pizca de sal",
+          "Pizca de pimienta negra",
+          "Perejil fresco picado para decorar (opcional)"
+        ],
+        "recipeInstructions": [
+          "En un bol, batir las claras de huevo con una pizca de sal y pimienta.",
+          "Calentar el aceite de oliva en una sartén antiadherente a fuego medio.",
+          "Añadir los champiñones laminados y saltear hasta que suelten su agua y se doren ligeramente (aprox. 3-4 minutos).",
+          "Incorporar los tomates cherry cortados a la sartén y saltear por 1-2 minutos más.",
+          "Verter las claras batidas sobre las verduras en la sartén. Extender uniformemente.",
+          "Cocinar hasta que los bordes de la tortilla estén cuajados y el centro casi firme. Si se desea, se puede tapar la sartén por un minuto para ayudar a que la parte superior se cocine.",
+          "Doblar la tortilla por la mitad o servir abierta. Decorar con perejil fresco picado si se desea."
+        ]
+      },
+      "en": {
+        "name": "Egg White Omelette with Mushrooms and Cherry Tomatoes",
+        "description": "An ultra-light and protein-rich dinner option, perfect for those looking to maintain a caloric deficit or a low-fat and low-carb meal. The omelette, made exclusively with egg whites, ensures a pure, high-quality protein intake, essential for muscle recovery and maintenance without adding fats or cholesterol. Mushrooms and cherry tomatoes add volume, fiber, and vitamins with very few calories, creating a satisfying and nutritious dish that is prepared in minutes, ideal for a quick and healthy dinner without complications.",
+        "keywords": [
+          "Egg White Omelette",
+          "Mushrooms",
+          "Cherry Tomatoes",
+          "Low Calorie",
+          "High Protein",
+          "Low Fat",
+          "Quick Dinner",
+          "Fitness Meal"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1618173726624-99dd7db65b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxFZ2clMjBXaGl0ZSUyME9tZWxldHRlJTIwd2l0aCUyME11c2hyb29tcyUyMGFuZCUyMENoZXJyeSUyMFRvbWF0b2VzJTIwaGVhbHRoeSUyMGdvdXJtZXQlMjBtZWFsJTIwaGVhbHRoeSUyMGZvb2R8ZW58MHx8fHwxNzcyMDgzNDAwfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00534",
+      "canonical_name": "Baked Salmon with Asparagus and Cauliflower Mash",
+      "name_normalized": "salmón al horno con espárragos y puré de coliflor",
+      "slug": "salmon-al-horno-esparragos-pure-coliflor",
+      "url": "https://www.sporvit.com/recetas/salmon-al-horno-esparragos-pure-coliflor"
+    },
+    "recipeCategory": "Cena",
+    "description": "Una opción deliciosa y saludable para la cena, este plato combina un jugoso filete de salmón al horno, rico en ácidos grasos omega-3, con espárragos frescos y un cremoso puré de coliflor. Es una alternativa baja en carbohidratos y alta en proteínas, perfecta para mantener la línea y disfrutar de una comida nutritiva sin sacrificar el sabor. Ideal para quienes buscan una cena ligera pero saciante, y fácil de preparar en poco tiempo, garantizando una comida completa y equilibrada.",
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 filete de salmón (aprox. 150g)",
+      "100g de espárragos verdes",
+      "200g de coliflor",
+      "1 cucharadita de aceite de oliva virgen extra",
+      "Sal y pimienta negra al gusto",
+      "Zumo de 1/4 limón",
+      "1 cucharada de queso crema light (opcional, para el puré)"
+    ],
+    "recipeInstructions": [
+      "Precalentar el horno a 200°C (400°F).",
+      "Lavar y cortar los espárragos, eliminando la parte dura del tallo. Colocar en una bandeja de horno junto con el salmón. Rociar con media cucharadita de aceite de oliva, sal y pimienta. Hornear durante 12-15 minutos, o hasta que el salmón esté cocido a su gusto.",
+      "Mientras tanto, cocer la coliflor al vapor o hervirla hasta que esté muy tierna (aprox. 10-12 minutos). Escurrir bien.",
+      "Triturar la coliflor con un tenedor o procesador de alimentos hasta obtener un puré. Añadir la otra media cucharadita de aceite de oliva, sal, pimienta y el queso crema light (si se usa). Mezclar hasta obtener una consistencia cremosa.",
+      "Servir el salmón y los espárragos con el puré de coliflor. Rociar el salmón con zumo de limón antes de servir."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 440,
+      "protein_g": 38.0,
+      "carbs_g": 15.0,
+      "fat_g": 23.0,
+      "fiber_g": 7.0,
+      "sugar_g": 4.0,
+      "sodium_mg": 350,
+      "sat_fat_g": 5.0,
+      "cholesterol_mg": 90
+    },
+    "nutrition_score": {
+      "general": 18,
+      "cut": 20,
+      "bulk": 15,
+      "endurance": 5
+    },
+    "nutrition_alerts": [
+      "Alto en Proteína",
+      "Fuente de Omega-3",
+      "Bajo en Carbohidratos"
+    ],
+    "allergens": {
+      "contains": [
+        "Pescado",
+        "Lácteos (opcional)"
+      ],
+      "free_from": [
+        "Gluten",
+        "Frutos secos"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Salmón al Horno con Espárragos y Puré de Coliflor",
+        "description": "Una opción deliciosa y saludable para la cena, este plato combina un jugoso filete de salmón al horno, rico en ácidos grasos omega-3, con espárragos frescos y un cremoso puré de coliflor. Es una alternativa baja en carbohidratos y alta en proteínas, perfecta para mantener la línea y disfrutar de una comida nutritiva sin sacrificar el sabor. Ideal para quienes buscan una cena ligera pero saciante, y fácil de preparar en poco tiempo, garantizando una comida completa y equilibrada.",
+        "recipeIngredient": [
+          "1 filete de salmón (aprox. 150g)",
+          "100g de espárragos verdes",
+          "200g de coliflor",
+          "1 cucharadita de aceite de oliva virgen extra",
+          "Sal y pimienta negra al gusto",
+          "Zumo de 1/4 limón",
+          "1 cucharada de queso crema light (opcional, para el puré)"
+        ],
+        "recipeInstructions": [
+          "Precalentar el horno a 200°C (400°F).",
+          "Lavar y cortar los espárragos, eliminando la parte dura del tallo. Colocar en una bandeja de horno junto con el salmón. Rociar con media cucharadita de aceite de oliva, sal y pimienta. Hornear durante 12-15 minutos, o hasta que el salmón esté cocido a su gusto.",
+          "Mientras tanto, cocer la coliflor al vapor o hervirla hasta que esté muy tierna (aprox. 10-12 minutos). Escurrir bien.",
+          "Triturar la coliflor con un tenedor o procesador de alimentos hasta obtener un puré. Añadir la otra media cucharadita de aceite de oliva, sal, pimienta y el queso crema light (si se usa). Mezclar hasta obtener una consistencia cremosa.",
+          "Servir el salmón y los espárragos con el puré de coliflor. Rociar el salmón con zumo de limón antes de servir."
+        ]
+      },
+      "en": {
+        "name": "Baked Salmon with Asparagus and Cauliflower Mash",
+        "description": "A delicious and healthy dinner option, this dish combines a succulent baked salmon fillet, rich in omega-3 fatty acids, with fresh asparagus and a creamy cauliflower mash. It's a low-carb, high-protein alternative, perfect for maintaining a lean physique and enjoying a nutritious meal without sacrificing flavor. Ideal for those looking for a light yet satisfying dinner that's easy to prepare in a short amount of time, ensuring a complete and balanced meal.",
+        "keywords": [
+          "salmon",
+          "asparagus",
+          "cauliflower mash",
+          "baked",
+          "healthy dinner",
+          "low carb",
+          "high protein",
+          "omega-3"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1603247118524-26425db14210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxCYWtlZCUyMFNhbG1vbiUyMHdpdGglMjBBc3BhcmFndXMlMjBhbmQlMjBDYXVsaWZsb3dlciUyME1hc2glMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwOTYzNzN8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00535",
+      "canonical_name": "Chicken Breast Stuffed with Spinach and Feta with Quinoa",
+      "name_normalized": "pechuga de pollo rellena de espinacas y queso feta con quinoa",
+      "slug": "pechuga-pollo-rellena-espinacas-queso-feta-quinoa",
+      "url": "https://www.sporvit.com/recetas/pechuga-pollo-rellena-espinacas-queso-feta-quinoa"
+    },
+    "recipeCategory": "Cena",
+    "description": "Disfruta de una cena llena de sabor y nutrientes con esta pechuga de pollo rellena, una opción ideal para atletas y amantes de la comida sana. La pechuga se abre, se rellena con una mezcla de espinacas frescas y cremoso queso feta, y luego se hornea hasta que esté jugosa y dorada. Se acompaña de una porción de quinoa, un superalimento rico en proteínas y fibra, que completa un plato equilibrado y saciante. Ideal para quienes buscan opciones de cena saludables y con un toque gourmet sin complicaciones, aportando energía sostenida y recuperación.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 pechuga de pollo grande (aprox. 180g)",
+      "50g de espinacas frescas",
+      "20g de queso feta desmenuzado",
+      "1 cucharadita de aceite de oliva virgen extra",
+      "Sal, pimienta y orégano al gusto",
+      "80g de quinoa cocida",
+      "Unas hojas de albahaca fresca para decorar"
+    ],
+    "recipeInstructions": [
+      "Precalentar el horno a 190°C (375°F).",
+      "Abrir la pechuga de pollo por la mitad sin cortarla completamente, creando un bolsillo. Salpimentar por dentro y por fuera.",
+      "En un bol, mezclar las espinacas frescas con el queso feta desmenuzado y una pizca de orégano. Rellenar la pechuga de pollo con esta mezcla y cerrar con palillos si es necesario.",
+      "Calentar media cucharadita de aceite de oliva en una sartén apta para horno a fuego medio-alto. Dorar la pechuga de pollo rellena por ambos lados durante 2-3 minutos.",
+      "Trasladar la sartén al horno y hornear durante 15-20 minutos, o hasta que el pollo esté bien cocido y los jugos salgan claros.",
+      "Servir la pechuga de pollo rellena acompañada de la quinoa cocida. Decorar con albahaca fresca si se desea."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 505,
+      "protein_g": 63.0,
+      "carbs_g": 20.0,
+      "fat_g": 15.0,
+      "fiber_g": 3.0,
+      "sugar_g": 2.0,
+      "sodium_mg": 500,
+      "sat_fat_g": 7.0,
+      "cholesterol_mg": 180
+    },
+    "nutrition_score": {
+      "general": 20,
+      "cut": 15,
+      "bulk": 20,
+      "endurance": 15
+    },
+    "nutrition_alerts": [
+      "Muy Alto en Proteína",
+      "Fuente de Carbohidratos Complejos"
+    ],
+    "allergens": {
+      "contains": [
+        "Lácteos"
+      ],
+      "free_from": [
+        "Gluten",
+        "Frutos secos",
+        "Pescado"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Pechuga de Pollo Rellena de Espinacas y Queso Feta con Quinoa",
+        "description": "Disfruta de una cena llena de sabor y nutrientes con esta pechuga de pollo rellena, una opción ideal para atletas y amantes de la comida sana. La pechuga se abre, se rellena con una mezcla de espinacas frescas y cremoso queso feta, y luego se hornea hasta que esté jugosa y dorada. Se acompaña de una porción de quinoa, un superalimento rico en proteínas y fibra, que completa un plato equilibrado y saciante. Ideal para quienes buscan opciones de cena saludables y con un toque gourmet sin complicaciones, aportando energía sostenida y recuperación.",
+        "recipeIngredient": [
+          "1 pechuga de pollo grande (aprox. 180g)",
+          "50g de espinacas frescas",
+          "20g de queso feta desmenuzado",
+          "1 cucharadita de aceite de oliva virgen extra",
+          "Sal, pimienta y orégano al gusto",
+          "80g de quinoa cocida",
+          "Unas hojas de albahaca fresca para decorar"
+        ],
+        "recipeInstructions": [
+          "Precalentar el horno a 190°C (375°F).",
+          "Abrir la pechuga de pollo por la mitad sin cortarla completamente, creando un bolsillo. Salpimentar por dentro y por fuera.",
+          "En un bol, mezclar las espinacas frescas con el queso feta desmenuzado y una pizca de orégano. Rellenar la pechuga de pollo con esta mezcla y cerrar con palillos si es necesario.",
+          "Calentar media cucharadita de aceite de oliva en una sartén apta para horno a fuego medio-alto. Dorar la pechuga de pollo rellena por ambos lados durante 2-3 minutos.",
+          "Trasladar la sartén al horno y hornear durante 15-20 minutos, o hasta que el pollo esté bien cocido y los jugos salgan claros.",
+          "Servir la pechuga de pollo rellena acompañada de la quinoa cocida. Decorar con albahaca fresca si se desea."
+        ]
+      },
+      "en": {
+        "name": "Chicken Breast Stuffed with Spinach and Feta with Quinoa",
+        "description": "Enjoy a flavorful and nutrient-dense dinner with this stuffed chicken breast, an ideal option for athletes and healthy food enthusiasts. The chicken breast is butterflied, filled with a mixture of fresh spinach and creamy feta cheese, then baked until juicy and golden. It's accompanied by a serving of quinoa, a superfood rich in protein and fiber, completing a balanced and satisfying dish. Perfect for those seeking healthy dinner options with a gourmet touch without complications, providing sustained energy and recovery.",
+        "keywords": [
+          "chicken breast",
+          "stuffed chicken",
+          "spinach",
+          "feta",
+          "quinoa",
+          "high protein",
+          "healthy dinner",
+          "gourmet light"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1539136788836-5699e78bfc75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwQnJlYXN0JTIwU3R1ZmZlZCUyMHdpdGglMjBTcGluYWNoJTIwYW5kJTIwRmV0YSUyMHdpdGglMjBRdWlub2ElMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwOTYzNzV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00536",
+      "canonical_name": "Sautéed Tofu with Broccoli and Light Peanut Sauce",
+      "name_normalized": "tofu salteado con brócoli y salsa de cacahuete ligera",
+      "slug": "tofu-salteado-brocoli-salsa-cacahuete-ligera",
+      "url": "https://www.sporvit.com/recetas/tofu-salteado-brocoli-salsa-cacahuete-ligera"
+    },
+    "recipeCategory": "Cena",
+    "description": "Una cena vegetariana rápida y llena de sabor, ideal para una alimentación fitness y para quienes buscan opciones a base de plantas. El tofu firme se saltea hasta dorarse y se combina con brócoli al dente, todo ello bañado en una ligera salsa de cacahuete casera. Esta salsa, elaborada con mantequilla de cacahuete natural, un toque de salsa de soja baja en sodio y zumo de limón, aporta un perfil umami delicioso sin exceso de calorías ni grasas. Rico en proteínas vegetales y fibra, es un plato saciante y nutritivo que te ayudará a mantener tus objetivos.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150g de tofu firme, prensado y cortado en cubos",
+      "150g de brócoli, cortado en floretes",
+      "1 cucharadita de aceite de sésamo o de oliva",
+      "Para la salsa de cacahuete:",
+      "1 cucharada de mantequilla de cacahuete natural",
+      "1 cucharada de salsa de soja baja en sodio",
+      "1 cucharada de zumo de limón",
+      "1 cucharada de agua",
+      "1/2 diente de ajo picado (opcional)",
+      "Pizca de jengibre rallado (opcional)",
+      "Semillas de sésamo para decorar (opcional)"
+    ],
+    "recipeInstructions": [
+      "En un bol pequeño, mezclar todos los ingredientes de la salsa de cacahuete hasta obtener una consistencia suave. Si está demasiado espesa, añadir un poco más de agua.",
+      "Calentar el aceite en un wok o sartén grande a fuego medio-alto. Añadir el tofu y saltear durante 5-7 minutos hasta que esté dorado por todos los lados. Retirar el tofu de la sartén y reservar.",
+      "Añadir el brócoli a la misma sartén y saltear durante 5-8 minutos, hasta que esté tierno pero aún crujiente. Si es necesario, añadir un chorrito de agua para ayudar a cocinarlo al vapor.",
+      "Devolver el tofu a la sartén con el brócoli. Verter la salsa de cacahuete por encima y remover bien para cubrir todos los ingredientes. Cocinar por 1-2 minutos hasta que la salsa se caliente y espese ligeramente.",
+      "Servir inmediatamente, opcionalmente espolvoreado con semillas de sésamo."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 320,
+      "protein_g": 24.0,
+      "carbs_g": 16.0,
+      "fat_g": 20.0,
+      "fiber_g": 8.0,
+      "sugar_g": 4.0,
+      "sodium_mg": 700,
+      "sat_fat_g": 3.0,
+      "cholesterol_mg": 0
+    },
+    "nutrition_score": {
+      "general": 18,
+      "cut": 18,
+      "bulk": 15,
+      "endurance": 15
+    },
+    "nutrition_alerts": [
+      "Alto en Proteína Vegetal",
+      "Fuente de Fibra",
+      "Vegetariano/Vegano"
+    ],
+    "allergens": {
+      "contains": [
+        "Soja",
+        "Cacahuetes",
+        "Sésamo (opcional)"
+      ],
+      "free_from": [
+        "Gluten (si salsa de soja sin gluten)",
+        "Lácteos",
+        "Huevo",
+        "Pescado"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Tofu Salteado con Brócoli y Salsa de Cacahuete Ligera",
+        "description": "Una cena vegetariana rápida y llena de sabor, ideal para una alimentación fitness y para quienes buscan opciones a base de plantas. El tofu firme se saltea hasta dorarse y se combina con brócoli al dente, todo ello bañado en una ligera salsa de cacahuete casera. Esta salsa, elaborada con mantequilla de cacahuete natural, un toque de salsa de soja baja en sodio y zumo de limón, aporta un perfil umami delicioso sin exceso de calorías ni grasas. Rico en proteínas vegetales y fibra, es un plato saciante y nutritivo que te ayudará a mantener tus objetivos.",
+        "recipeIngredient": [
+          "150g de tofu firme, prensado y cortado en cubos",
+          "150g de brócoli, cortado en floretes",
+          "1 cucharadita de aceite de sésamo o de oliva",
+          "Para la salsa de cacahuete:",
+          "1 cucharada de mantequilla de cacahuete natural",
+          "1 cucharada de salsa de soja baja en sodio",
+          "1 cucharada de zumo de limón",
+          "1 cucharada de agua",
+          "1/2 diente de ajo picado (opcional)",
+          "Pizca de jengibre rallado (opcional)",
+          "Semillas de sésamo para decorar (opcional)"
+        ],
+        "recipeInstructions": [
+          "En un bol pequeño, mezclar todos los ingredientes de la salsa de cacahuete hasta obtener una consistencia suave. Si está demasiado espesa, añadir un poco más de agua.",
+          "Calentar el aceite en un wok o sartén grande a fuego medio-alto. Añadir el tofu y saltear durante 5-7 minutos hasta que esté dorado por todos los lados. Retirar el tofu de la sartén y reservar.",
+          "Añadir el brócoli a la misma sartén y saltear durante 5-8 minutos, hasta que esté tierno pero aún crujiente. Si es necesario, añadir un chorrito de agua para ayudar a cocinarlo al vapor.",
+          "Devolver el tofu a la sartén con el brócoli. Verter la salsa de cacahuete por encima y remover bien para cubrir todos los ingredientes. Cocinar por 1-2 minutos hasta que la salsa se caliente y espese ligeramente.",
+          "Servir inmediatamente, opcionalmente espolvoreado con semillas de sésamo."
+        ]
+      },
+      "en": {
+        "name": "Sautéed Tofu with Broccoli and Light Peanut Sauce",
+        "description": "A quick and flavorful vegetarian dinner, ideal for a fitness diet and for those seeking plant-based options. Firm tofu is sautéed until golden and combined with al dente broccoli, all bathed in a light homemade peanut sauce. This sauce, made with natural peanut butter, a touch of low-sodium soy sauce, and lemon juice, delivers a delicious umami profile without excess calories or fats. Rich in plant protein and fiber, it's a satisfying and nutritious dish that will help you maintain your goals.",
+        "keywords": [
+          "tofu",
+          "broccoli",
+          "peanut sauce",
+          "vegetarian",
+          "vegan",
+          "high protein",
+          "plant-based",
+          "healthy dinner"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1605491380998-f39919b668fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTYXV0JUMzJUE5ZWQlMjBUb2Z1JTIwd2l0aCUyMEJyb2Njb2xpJTIwYW5kJTIwTGlnaHQlMjBQZWFudXQlMjBTYXVjZSUyMGhlYWx0aHklMjBnb3VybWV0JTIwbWVhbCUyMGhlYWx0aHklMjBmb29kfGVufDB8fHx8MTc3MjA5NjM3Nnww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00537",
+      "canonical_name": "Hake en Papillote with Mediterranean Vegetables",
+      "name_normalized": "merluza en papillote con verduras mediterráneas",
+      "slug": "merluza-papillote-verduras-mediterraneas",
+      "url": "https://www.sporvit.com/recetas/merluza-papillote-verduras-mediterraneas"
+    },
+    "recipeCategory": "Cena",
+    "description": "Una cena ligera, sabrosa y sin complicaciones: merluza cocinada al papillote con una selección vibrante de verduras mediterráneas. Envuelta en papel de horno, la merluza se cuece al vapor en sus propios jugos junto con rodajas de calabacín, tomate cherry, pimiento y cebolla, lo que garantiza una textura jugosa y un sabor intenso. Esta técnica de cocción preserva al máximo los nutrientes y reduce la necesidad de grasas añadidas, convirtiéndola en una opción ideal para una dieta fitness baja en calorías y rica en vitaminas.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "1 filete de merluza (aprox. 150g)",
+      "50g de calabacín, en rodajas finas",
+      "50g de pimiento rojo, en tiras",
+      "50g de tomate cherry, partidos por la mitad",
+      "20g de cebolla morada, en juliana",
+      "1 cucharadita de aceite de oliva virgen extra",
+      "Sal, pimienta negra y hierbas provenzales al gusto",
+      "Zumo de 1/4 limón"
+    ],
+    "recipeInstructions": [
+      "Precalentar el horno a 180°C (350°F).",
+      "Cortar un trozo grande de papel de horno o papel de aluminio. Colocar el filete de merluza en el centro.",
+      "Distribuir las rodajas de calabacín, tiras de pimiento, mitades de tomate cherry y juliana de cebolla alrededor y sobre el pescado.",
+      "Rociar las verduras y la merluza con aceite de oliva. Sazonar con sal, pimienta y hierbas provenzales. Añadir unas gotas de zumo de limón.",
+      "Cerrar el papel de horno formando un paquete bien sellado, asegurándose de que no haya fugas. Colocar el paquete en una bandeja de horno.",
+      "Hornear durante 18-20 minutos, o hasta que el pescado esté cocido y las verduras tiernas. Abrir el papillote con cuidado al servir para liberar el vapor y el aroma."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 210,
+      "protein_g": 28.0,
+      "carbs_g": 10.0,
+      "fat_g": 6.0,
+      "fiber_g": 4.0,
+      "sugar_g": 4.0,
+      "sodium_mg": 280,
+      "sat_fat_g": 1.0,
+      "cholesterol_mg": 50
+    },
+    "nutrition_score": {
+      "general": 20,
+      "cut": 22,
+      "bulk": 5,
+      "endurance": 18
+    },
+    "nutrition_alerts": [
+      "Muy Bajo en Calorías",
+      "Alto en Proteína",
+      "Bajo en Grasa"
+    ],
+    "allergens": {
+      "contains": [
+        "Pescado"
+      ],
+      "free_from": [
+        "Gluten",
+        "Lácteos",
+        "Huevo",
+        "Frutos secos"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Merluza en Papillote con Verduras Mediterráneas",
+        "description": "Una cena ligera, sabrosa y sin complicaciones: merluza cocinada al papillote con una selección vibrante de verduras mediterráneas. Envuelta en papel de horno, la merluza se cuece al vapor en sus propios jugos junto con rodajas de calabacín, tomate cherry, pimiento y cebolla, lo que garantiza una textura jugosa y un sabor intenso. Esta técnica de cocción preserva al máximo los nutrientes y reduce la necesidad de grasas añadidas, convirtiéndola en una opción ideal para una dieta fitness baja en calorías y rica en vitaminas.",
+        "recipeIngredient": [
+          "1 filete de merluza (aprox. 150g)",
+          "50g de calabacín, en rodajas finas",
+          "50g de pimiento rojo, en tiras",
+          "50g de tomate cherry, partidos por la mitad",
+          "20g de cebolla morada, en juliana",
+          "1 cucharadita de aceite de oliva virgen extra",
+          "Sal, pimienta negra y hierbas provenzales al gusto",
+          "Zumo de 1/4 limón"
+        ],
+        "recipeInstructions": [
+          "Precalentar el horno a 180°C (350°F).",
+          "Cortar un trozo grande de papel de horno o papel de aluminio. Colocar el filete de merluza en el centro.",
+          "Distribuir las rodajas de calabacín, tiras de pimiento, mitades de tomate cherry y juliana de cebolla alrededor y sobre el pescado.",
+          "Rociar las verduras y la merluza con aceite de oliva. Sazonar con sal, pimienta y hierbas provenzales. Añadir unas gotas de zumo de limón.",
+          "Cerrar el papel de horno formando un paquete bien sellado, asegurándose de que no haya fugas. Colocar el paquete en una bandeja de horno.",
+          "Hornear durante 18-20 minutos, o hasta que el pescado esté cocido y las verduras tiernas. Abrir el papillote con cuidado al servir para liberar el vapor y el aroma."
+        ]
+      },
+      "en": {
+        "name": "Hake en Papillote with Mediterranean Vegetables",
+        "description": "A light, flavorful, and fuss-free dinner: hake cooked en papillote with a vibrant selection of Mediterranean vegetables. Wrapped in parchment paper, the hake steams in its own juices alongside slices of zucchini, cherry tomatoes, bell pepper, and onion, ensuring a juicy texture and intense flavor. This cooking technique maximizes nutrient preservation and reduces the need for added fats, making it an ideal option for a low-calorie, vitamin-rich fitness diet.",
+        "keywords": [
+          "hake",
+          "papillote",
+          "mediterranean vegetables",
+          "healthy fish",
+          "low calorie",
+          "high protein",
+          "light dinner"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1678705649048-e38ba201fac5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxIYWtlJTIwZW4lMjBQYXBpbGxvdGUlMjB3aXRoJTIwTWVkaXRlcnJhbmVhbiUyMFZlZ2V0YWJsZXMlMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwOTYzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
+  },
+  {
+    "identity": {
+      "id": "FIT-00538",
+      "canonical_name": "Chicken and Sweet Potato Bowl with Avocado",
+      "name_normalized": "bowl de pollo y boniato con aguacate",
+      "slug": "bowl-pollo-boniato-aguacate",
+      "url": "https://www.sporvit.com/recetas/bowl-pollo-boniato-aguacate"
+    },
+    "recipeCategory": "Cena",
+    "description": "Este bowl nutritivo y colorido es una cena fitness completa, perfecta para recargar energías y disfrutar de sabores frescos. Combina trozos de pechuga de pollo a la plancha, ricos en proteínas, con boniato asado, que aporta carbohidratos complejos y fibra, y cremoso aguacate, lleno de grasas saludables. Un toque de cilantro y zumo de lima realza el conjunto, creando un plato saciante y fácil de preparar. Ideal para la recuperación muscular y mantener una alimentación equilibrada.",
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "totalTime": "PT30M",
+    "recipeYield": "1",
+    "recipeIngredient": [
+      "150g de pechuga de pollo, en tiras o cubos",
+      "150g de boniato, pelado y cortado en cubos pequeños",
+      "1/2 aguacate maduro, en rodajas",
+      "1 cucharadita de aceite de oliva virgen extra",
+      "Sal, pimienta, pimentón dulce al gusto",
+      "Zumo de 1/2 lima",
+      "2 cucharadas de cilantro fresco picado"
+    ],
+    "recipeInstructions": [
+      "Precalentar el horno a 200°C (400°F).",
+      "En un bol, mezclar los cubos de boniato con media cucharadita de aceite de oliva, sal, pimienta y pimentón. Extender en una bandeja de horno y asar durante 15-20 minutos, o hasta que estén tiernos y ligeramente dorados.",
+      "Mientras el boniato se asa, calentar la otra media cucharadita de aceite de oliva en una sartén a fuego medio-alto. Salpimentar el pollo y cocinarlo durante 5-7 minutos por cada lado, o hasta que esté bien cocido y dorado. Retirar y reservar.",
+      "Una vez que el boniato y el pollo estén listos, ensamblar el bowl. Colocar el boniato asado en la base, seguido del pollo cocinado.",
+      "Añadir las rodajas de aguacate al bowl. Rociar todo con zumo de lima y espolvorear generosamente con cilantro fresco picado antes de servir."
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "per_serving": true,
+      "calories": 480,
+      "protein_g": 40.0,
+      "carbs_g": 35.0,
+      "fat_g": 20.0,
+      "fiber_g": 9.0,
+      "sugar_g": 8.0,
+      "sodium_mg": 380,
+      "sat_fat_g": 4.0,
+      "cholesterol_mg": 95
+    },
+    "nutrition_score": {
+      "general": 19,
+      "cut": 17,
+      "bulk": 18,
+      "endurance": 17
+    },
+    "nutrition_alerts": [
+      "Alto en Proteína",
+      "Fuente de Carbohidratos Complejos",
+      "Grasas Saludables"
+    ],
+    "allergens": {
+      "contains": [],
+      "free_from": [
+        "Gluten",
+        "Lácteos",
+        "Huevo",
+        "Pescado",
+        "Frutos secos"
+      ]
+    },
+    "localization": {
+      "es": {
+        "name": "Bowl de Pollo y Boniato con Aguacate",
+        "description": "Este bowl nutritivo y colorido es una cena fitness completa, perfecta para recargar energías y disfrutar de sabores frescos. Combina trozos de pechuga de pollo a la plancha, ricos en proteínas, con boniato asado, que aporta carbohidratos complejos y fibra, y cremoso aguacate, lleno de grasas saludables. Un toque de cilantro y zumo de lima realza el conjunto, creando un plato saciante y fácil de preparar. Ideal para la recuperación muscular y mantener una alimentación equilibrada.",
+        "recipeIngredient": [
+          "150g de pechuga de pollo, en tiras o cubos",
+          "150g de boniato, pelado y cortado en cubos pequeños",
+          "1/2 aguacate maduro, en rodajas",
+          "1 cucharadita de aceite de oliva virgen extra",
+          "Sal, pimienta, pimentón dulce al gusto",
+          "Zumo de 1/2 lima",
+          "2 cucharadas de cilantro fresco picado"
+        ],
+        "recipeInstructions": [
+          "Precalentar el horno a 200°C (400°F).",
+          "En un bol, mezclar los cubos de boniato con media cucharadita de aceite de oliva, sal, pimienta y pimentón. Extender en una bandeja de horno y asar durante 15-20 minutos, o hasta que estén tiernos y ligeramente dorados.",
+          "Mientras el boniato se asa, calentar la otra media cucharadita de aceite de oliva en una sartén a fuego medio-alto. Salpimentar el pollo y cocinarlo durante 5-7 minutos por cada lado, o hasta que esté bien cocido y dorado. Retirar y reservar.",
+          "Una vez que el boniato y el pollo estén listos, ensamblar el bowl. Colocar el boniato asado en la base, seguido del pollo cocinado.",
+          "Añadir las rodajas de aguacate al bowl. Rociar todo con zumo de lima y espolvorear generosamente con cilantro fresco picado antes de servir."
+        ]
+      },
+      "en": {
+        "name": "Chicken and Sweet Potato Bowl with Avocado",
+        "description": "This nutritious and colorful bowl is a complete fitness dinner, perfect for recharging energy and enjoying fresh flavors. It combines grilled chicken breast pieces, rich in protein, with roasted sweet potato, providing complex carbohydrates and fiber, and creamy avocado, full of healthy fats. A touch of cilantro and lime juice enhances the ensemble, creating a satisfying and easy-to-prepare dish. Ideal for muscle recovery and maintaining a balanced diet.",
+        "keywords": [
+          "chicken bowl",
+          "sweet potato",
+          "avocado",
+          "grilled chicken",
+          "healthy fats",
+          "complex carbs",
+          "muscle recovery",
+          "fitness dinner"
+        ]
+      }
+    },
+    "classification": {
+      "meal_type": [
+        "cena"
+      ]
+    },
+    "image": "https://images.unsplash.com/photo-1741983202166-889ab12cf4f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwYW5kJTIwU3dlZXQlMjBQb3RhdG8lMjBCb3dsJTIwd2l0aCUyMEF2b2NhZG8lMjBoZWFsdGh5JTIwZ291cm1ldCUyMG1lYWwlMjBoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NzIwOTYzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80"
   }
 ]

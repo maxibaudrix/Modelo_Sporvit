@@ -1,12 +1,12 @@
 {
   "userId": "user_endurance_002",
-  "sessionId": "ac19a925-28bc-47dd-a2b5-e38ce268f766",
+  "sessionId": "c39ca94b-64c2-43cc-9498-c905c1e74af4",
   "weekNumber": 4,
   "phase": "deload",
   "startDate": "2026-01-26",
   "endDate": "2026-02-01",
   "metadata": {
-    "generatorVersion": "v14",
+    "generatorVersion": "v19",
     "splitType": [
       "Inferior + Tirón",
       "Superior + Empuje",
@@ -15,7 +15,7 @@
     "trainingDaysPerWeek": 3,
     "progressionPhase": "deload",
     "progressionLabel": "Deload — recuperación activa",
-    "generatedAt": "2026-02-25T09:34:02.049Z",
+    "generatedAt": "2026-02-26T16:13:55.239Z",
     "featuresActive": [
       "split_integrity_v8",
       "rescue_meal_v9",
@@ -31,7 +31,20 @@
       "fix_rescue_args_v14",
       "fix_portion_min_v14",
       "phase_exercise_filter",
-      "cross_week_state"
+      "cross_week_state",
+      "min_slot_calories_v16",
+      "reps_type_fix_v16",
+      "diversity_v3_v16",
+      "per_slot_multiplier_cap_v17",
+      "calorie_gap_upscale_v17",
+      "phase_summary_log_v17",
+      "warmup_exercise_pool_v18",
+      "cooldown_exercise_pool_v18",
+      "estimated_macros_burned_v18",
+      "cross_day_calorie_smoothing_v18",
+      "protein_target_enforcement_v19",
+      "allergen_score_penalty_v19",
+      "warmup_diversity_v19"
     ]
   },
   "days": [
@@ -50,555 +63,14 @@
           "type": "rest_day"
         },
         "actualTotals": {
-          "calories": 1330,
-          "protein": 70,
-          "carbs": 163,
-          "fat": 49
+          "calories": 1430,
+          "protein": 114,
+          "carbs": 132,
+          "fat": 53
         },
-        "calorieDeviation": -137,
-        "calorieGapToTarget": 137,
-        "coveragePercent": 91,
-        "recommendedWaterMl": 2240,
-        "planWarnings": [],
-        "meals": [
-          {
-            "mealType": "desayuno",
-            "timing": "other",
-            "slug": "batido-platano-avena-mantequilla-cacahuete",
-            "name": "Batido de Plátano, Avena y Mantequilla de Cacahuete",
-            "calories": 420,
-            "protein": 14,
-            "carbs": 54,
-            "fat": 18,
-            "fiber": null,
-            "nutritionScore": 10,
-            "portionMultiplier": 0.87,
-            "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/batido-platano-avena-mantequilla-cacahuete"
-          },
-          {
-            "mealType": "almuerzo",
-            "timing": "other",
-            "slug": "pechuga-de-pavo-con-arroz-al-azafran-y-guisantes",
-            "name": "Pechuga de Pavo con Arroz al Azafrán y Guisantes",
-            "calories": 490,
-            "protein": 42,
-            "carbs": 55,
-            "fat": 13,
-            "fiber": 5,
-            "nutritionScore": 10,
-            "portionMultiplier": 1.05,
-            "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/pechuga-de-pavo-con-arroz-al-azafran-y-guisantes"
-          },
-          {
-            "mealType": "snack",
-            "timing": "other",
-            "slug": "batido-platano-avena-mantequilla-cacahuete",
-            "name": "Batido de Plátano, Avena y Mantequilla de Cacahuete",
-            "calories": 420,
-            "protein": 14,
-            "carbs": 54,
-            "fat": 18,
-            "fiber": null,
-            "nutritionScore": 10,
-            "portionMultiplier": 0.87,
-            "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/batido-platano-avena-mantequilla-cacahuete",
-            "isRescueMeal": true
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-27",
-      "dayOfWeek": "martes",
-      "dayNumber": 2,
-      "isTrainingDay": true,
-      "workout": {
-        "type": "cardio",
-        "splitFocus": "Inferior + Tirón",
-        "duration": 30,
-        "estimatedCaloriesBurned": 112,
-        "intensity": "low",
-        "rpe": 6,
-        "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-        "progression": {
-          "phase": "deload",
-          "weekInCycle": 4,
-          "label": "Deload — recuperación activa",
-          "deload": true
-        },
-        "warmup": {
-          "duration": 8,
-          "description": "Movilidad de cadera: círculos de cadera 2×10, sentadilla profunda asistida 2×10. Activación de glúteo: puentes de glúteo 2×15. Cardio suave 3 min (bicicleta o trote)."
-        },
-        "exercises": [
-          {
-            "slug": "estiramiento-de-cuadriceps-caminando",
-            "name": "Estiramiento de Cuádriceps Caminando",
-            "muscleGroup": "legs",
-            "category": "isolation",
-            "primaryMuscles": [
-              "Cuádriceps"
-            ],
-            "sets": 1,
-            "reps": "45 segundos",
-            "rest": 90,
-            "rpe": 6,
-            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.pexels.com/photos/18060067/pexels-photo-18060067.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
-            "difficulty": "Beginner",
-            "metValue": 2.5
-          },
-          {
-            "slug": "extension-de-cadera-tumbado",
-            "name": "Extensión de Cadera Tumbado",
-            "muscleGroup": "glutes",
-            "category": "isolation",
-            "primaryMuscles": [
-              "Glúteos"
-            ],
-            "sets": 1,
-            "reps": "45 segundos",
-            "rest": 90,
-            "rpe": 6,
-            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.pexels.com/photos/6339645/pexels-photo-6339645.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
-            "difficulty": "Beginner",
-            "metValue": 2.5
-          },
-          {
-            "slug": "hiperextensiones-sin-banco",
-            "name": "Hiperextensiones sin Banco",
-            "muscleGroup": "back",
-            "category": "isolation",
-            "primaryMuscles": [
-              "Erectores de la Columna"
-            ],
-            "sets": 1,
-            "reps": 10,
-            "rest": 90,
-            "rpe": 6,
-            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
-            "difficulty": "Beginner",
-            "metValue": 4
-          }
-        ],
-        "cooldown": {
-          "duration": 7,
-          "description": "Estiramiento de isquiotibiales tumbado 60s por lado. Piriforme (postura del 4) 60s por lado. Estiramiento de dorsal con banda o barra 45s. Flexores de cadera en zancada 45s por lado."
-        }
-      },
-      "nutrition": {
-        "targetCalories": 1827,
-        "targetMacros": {
-          "protein": 128,
-          "carbs": 220,
-          "fat": 52,
-          "type": "training_day"
-        },
-        "actualTotals": {
-          "calories": 1400,
-          "protein": 79,
-          "carbs": 195,
-          "fat": 37
-        },
-        "calorieDeviation": -427,
-        "calorieGapToTarget": 427,
-        "coveragePercent": 77,
-        "recommendedWaterMl": 2840,
-        "planWarnings": [],
-        "meals": [
-          {
-            "mealType": "desayuno",
-            "timing": "other",
-            "slug": "batido-energetico-platano-datiles-leche-almendras",
-            "name": "Batido Energético de Plátano y Dátiles con Leche de Almendras",
-            "calories": 340,
-            "protein": 8,
-            "carbs": 58,
-            "fat": 10,
-            "fiber": null,
-            "nutritionScore": 10,
-            "portionMultiplier": 1.34,
-            "portionLabel": "porción ampliada (×1.34)",
-            "url": "https://www.sporvit.com/recetas/batido-energetico-platano-datiles-leche-almendras"
-          },
-          {
-            "mealType": "almuerzo",
-            "timing": "other",
-            "slug": "salteado-pavo-verduras-pasta-integral",
-            "name": "Salteado de Pavo con Verduras y Pasta Integral",
-            "calories": 720,
-            "protein": 63,
-            "carbs": 79,
-            "fat": 17,
-            "fiber": null,
-            "nutritionScore": 10,
-            "portionMultiplier": 0.89,
-            "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/salteado-pavo-verduras-pasta-integral"
-          },
-          {
-            "mealType": "snack",
-            "timing": "other",
-            "slug": "batido-energetico-platano-datiles-leche-almendras",
-            "name": "Batido Energético de Plátano y Dátiles con Leche de Almendras",
-            "calories": 340,
-            "protein": 8,
-            "carbs": 58,
-            "fat": 10,
-            "fiber": null,
-            "nutritionScore": 10,
-            "portionMultiplier": 1.34,
-            "portionLabel": "porción ampliada (×1.34)",
-            "url": "https://www.sporvit.com/recetas/batido-energetico-platano-datiles-leche-almendras",
-            "isRescueMeal": true
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-28",
-      "dayOfWeek": "miércoles",
-      "dayNumber": 3,
-      "isTrainingDay": false,
-      "workout": null,
-      "nutrition": {
-        "targetCalories": 1467,
-        "targetMacros": {
-          "protein": 128,
-          "carbs": 156,
-          "fat": 70,
-          "type": "rest_day"
-        },
-        "actualTotals": {
-          "calories": 1010,
-          "protein": 82,
-          "carbs": 111,
-          "fat": 29
-        },
-        "calorieDeviation": -457,
-        "calorieGapToTarget": 457,
-        "coveragePercent": 69,
-        "recommendedWaterMl": 2240,
-        "planWarnings": [
-          {
-            "type": "CALORIE_DEVIATION",
-            "message": "Desviación calórica del 31% respecto al objetivo",
-            "severity": "medium",
-            "targetCalories": 1467,
-            "actualCalories": 1010
-          }
-        ],
-        "meals": [
-          {
-            "mealType": "desayuno",
-            "timing": "other",
-            "slug": "batido-proteico-de-queso-fresco-batido-y-avena",
-            "name": "Batido Proteico de Queso Fresco Batido y Avena",
-            "calories": 250,
-            "protein": 30,
-            "carbs": 25,
-            "fat": 3,
-            "fiber": 5,
-            "nutritionScore": 8,
-            "portionMultiplier": 1.47,
-            "portionLabel": "porción ampliada (×1.47)",
-            "url": "https://www.sporvit.com/recetas/batido-proteico-de-queso-fresco-batido-y-avena"
-          },
-          {
-            "mealType": "almuerzo",
-            "timing": "other",
-            "slug": "solomillo-cerdo-pure-boniato-brocoli-vapor",
-            "name": "Solomillo de Cerdo con Puré de Boniato y Brócoli al Vapor",
-            "calories": 480,
-            "protein": 42,
-            "carbs": 44,
-            "fat": 16,
-            "fiber": null,
-            "nutritionScore": 10,
-            "portionMultiplier": 1.07,
-            "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/solomillo-cerdo-pure-boniato-brocoli-vapor"
-          },
-          {
-            "mealType": "snack",
-            "timing": "other",
-            "slug": "manzana-asada-rellena-avena-nueces-queso-fresco",
-            "name": "Manzana Asada Rellena de Avena, Nueces y Queso Fresco Batido",
-            "calories": 280,
-            "protein": 10,
-            "carbs": 42,
-            "fat": 10,
-            "fiber": null,
-            "nutritionScore": 9.2,
-            "portionMultiplier": 1.31,
-            "portionLabel": "porción ampliada (×1.31)",
-            "url": "https://www.sporvit.com/recetas/manzana-asada-rellena-avena-nueces-queso-fresco",
-            "isRescueMeal": true
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-29",
-      "dayOfWeek": "jueves",
-      "dayNumber": 4,
-      "isTrainingDay": true,
-      "workout": {
-        "type": "cardio",
-        "splitFocus": "Superior + Empuje",
-        "duration": 30,
-        "estimatedCaloriesBurned": 112,
-        "intensity": "low",
-        "rpe": 6,
-        "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-        "progression": {
-          "phase": "deload",
-          "weekInCycle": 4,
-          "label": "Deload — recuperación activa",
-          "deload": true
-        },
-        "warmup": {
-          "duration": 7,
-          "description": "Rotación de hombro (interna y externa) 2×15, movilidad torácica con foam roller 2 min, elevaciones laterales con banda 2×15. Cardio suave 3 min."
-        },
-        "exercises": [
-          {
-            "slug": "elevaciones-laterales-en-maquina",
-            "name": "Elevaciones laterales en máquina",
-            "muscleGroup": "shoulders",
-            "category": "isolation",
-            "primaryMuscles": [
-              "Hombros (Deltoides laterales)"
-            ],
-            "sets": 1,
-            "reps": 10,
-            "rest": 90,
-            "rpe": 6,
-            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.pexels.com/photos/7289370/pexels-photo-7289370.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
-            "difficulty": "Beginner",
-            "metValue": 3
-          },
-          {
-            "slug": "curl-de-biceps-con-mancuernas-sentado",
-            "name": "Curl de bíceps con mancuernas sentado",
-            "muscleGroup": "arms",
-            "category": "isolation",
-            "primaryMuscles": [
-              "Bíceps"
-            ],
-            "sets": 1,
-            "reps": 10,
-            "rest": 90,
-            "rpe": 6,
-            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.pexels.com/photos/8611937/pexels-photo-8611937.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
-            "difficulty": "Beginner",
-            "metValue": 3.5
-          },
-          {
-            "slug": "aduccion-de-muslos-sentado-en-maquina",
-            "name": "Aducción de Muslos Sentado en Máquina",
-            "muscleGroup": "chest",
-            "category": "isolation",
-            "primaryMuscles": [
-              "Aductores (mayor, largo, corto, pectíneo, grácil)"
-            ],
-            "sets": 1,
-            "reps": 10,
-            "rest": 90,
-            "rpe": 6,
-            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
-            "difficulty": "Beginner",
-            "metValue": 3
-          }
-        ],
-        "cooldown": {
-          "duration": 6,
-          "description": "Estiramiento de pectoral en esquina 60s. Apertura de pecho en suelo 45s. Estiramiento de deltoides cruzado 45s por lado. Cuello lateral 30s por lado."
-        }
-      },
-      "nutrition": {
-        "targetCalories": 1827,
-        "targetMacros": {
-          "protein": 128,
-          "carbs": 220,
-          "fat": 52,
-          "type": "training_day"
-        },
-        "actualTotals": {
-          "calories": 1240,
-          "protein": 100,
-          "carbs": 115,
-          "fat": 46
-        },
-        "calorieDeviation": -587,
-        "calorieGapToTarget": 587,
-        "coveragePercent": 68,
-        "recommendedWaterMl": 2840,
-        "planWarnings": [
-          {
-            "type": "CALORIE_DEVIATION",
-            "message": "Desviación calórica del 32% respecto al objetivo",
-            "severity": "medium",
-            "targetCalories": 1827,
-            "actualCalories": 1240
-          }
-        ],
-        "meals": [
-          {
-            "mealType": "desayuno",
-            "timing": "other",
-            "slug": "revuelto-setas-gambas-tostadas-integrales",
-            "name": "Revuelto de Setas con Gambas y Tostadas Integrales",
-            "calories": 380,
-            "protein": 32,
-            "carbs": 28,
-            "fat": 16,
-            "fiber": null,
-            "nutritionScore": 6.8,
-            "portionMultiplier": 1.2,
-            "portionLabel": "porción ampliada (×1.2)",
-            "url": "https://www.sporvit.com/recetas/revuelto-setas-gambas-tostadas-integrales"
-          },
-          {
-            "mealType": "almuerzo",
-            "timing": "other",
-            "slug": "paella-pollo-verduras-(version-ligera)",
-            "name": "Paella de Pollo y Verduras (Versión Ligera)",
-            "calories": 520,
-            "protein": 40,
-            "carbs": 55,
-            "fat": 18,
-            "fiber": 8,
-            "nutritionScore": 10,
-            "portionMultiplier": 1.23,
-            "portionLabel": "porción ampliada (×1.23)",
-            "url": "https://www.sporvit.com/recetas/paella-pollo-verduras-(version-ligera)"
-          },
-          {
-            "mealType": "snack",
-            "timing": "other",
-            "slug": "mini-bocadillos-integrales-atun-pimiento-olivas",
-            "name": "Mini Bocadillos Integrales de Atún con Pimiento y Olivas",
-            "calories": 340,
-            "protein": 28,
-            "carbs": 32,
-            "fat": 12,
-            "fiber": null,
-            "nutritionScore": 7.2,
-            "portionMultiplier": 1.34,
-            "portionLabel": "porción ampliada (×1.34)",
-            "url": "https://www.sporvit.com/recetas/mini-bocadillos-integrales-atun-pimiento-olivas",
-            "isRescueMeal": true
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-30",
-      "dayOfWeek": "viernes",
-      "dayNumber": 5,
-      "isTrainingDay": false,
-      "workout": null,
-      "nutrition": {
-        "targetCalories": 1467,
-        "targetMacros": {
-          "protein": 128,
-          "carbs": 156,
-          "fat": 70,
-          "type": "rest_day"
-        },
-        "actualTotals": {
-          "calories": 1080,
-          "protein": 86,
-          "carbs": 110,
-          "fat": 38
-        },
-        "calorieDeviation": -387,
-        "calorieGapToTarget": 387,
-        "coveragePercent": 74,
-        "recommendedWaterMl": 2240,
-        "planWarnings": [],
-        "meals": [
-          {
-            "mealType": "desayuno",
-            "timing": "other",
-            "slug": "batido-verde-energetico-espinacas-platano-proteina",
-            "name": "Batido Verde Energético (Espinacas, Plátano, Proteína)",
-            "calories": 320,
-            "protein": 28,
-            "carbs": 34,
-            "fat": 10,
-            "fiber": null,
-            "nutritionScore": 7.6,
-            "portionMultiplier": 1.15,
-            "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/batido-verde-energetico-espinacas-platano-proteina"
-          },
-          {
-            "mealType": "almuerzo",
-            "timing": "other",
-            "slug": "pavo-plancha-boniatos-asados-espinacas-salteadas",
-            "name": "Pavo a la Plancha con Boniatos Asados y Espinacas Salteadas",
-            "calories": 480,
-            "protein": 46,
-            "carbs": 44,
-            "fat": 14,
-            "fiber": null,
-            "nutritionScore": 10,
-            "portionMultiplier": 1.07,
-            "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/pavo-plancha-boniatos-asados-espinacas-salteadas"
-          },
-          {
-            "mealType": "snack",
-            "timing": "other",
-            "slug": "bastones-verduras-hummus-casero",
-            "name": "Bastones de Verduras con Hummus Casero",
-            "calories": 280,
-            "protein": 12,
-            "carbs": 32,
-            "fat": 14,
-            "fiber": null,
-            "nutritionScore": 7.2,
-            "portionMultiplier": 1.31,
-            "portionLabel": "porción ampliada (×1.31)",
-            "url": "https://www.sporvit.com/recetas/bastones-verduras-hummus-casero",
-            "isRescueMeal": true
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-31",
-      "dayOfWeek": "sábado",
-      "dayNumber": 6,
-      "isTrainingDay": false,
-      "workout": null,
-      "nutrition": {
-        "targetCalories": 1467,
-        "targetMacros": {
-          "protein": 128,
-          "carbs": 156,
-          "fat": 70,
-          "type": "rest_day"
-        },
-        "actualTotals": {
-          "calories": 1270,
-          "protein": 104,
-          "carbs": 123,
-          "fat": 40
-        },
-        "calorieDeviation": -197,
-        "calorieGapToTarget": 197,
-        "coveragePercent": 87,
+        "calorieDeviation": -37,
+        "calorieGapToTarget": 37,
+        "coveragePercent": 97,
         "recommendedWaterMl": 2240,
         "planWarnings": [],
         "meals": [
@@ -620,33 +92,784 @@
           {
             "mealType": "almuerzo",
             "timing": "other",
+            "slug": "pechuga-de-pavo-con-arroz-al-azafran-y-guisantes",
+            "name": "Pechuga de Pavo con Arroz al Azafrán y Guisantes",
+            "calories": 490,
+            "protein": 42,
+            "carbs": 55,
+            "fat": 13,
+            "fiber": 5,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.05,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/pechuga-de-pavo-con-arroz-al-azafran-y-guisantes"
+          },
+          {
+            "mealType": "cena",
+            "timing": "other",
+            "slug": "salmon-horno-esparragos-trigueros-quinoa-limon",
+            "name": "Salmón al Horno con Espárragos Trigueros y Quinoa al Limón",
+            "calories": 520,
+            "protein": 42,
+            "carbs": 42,
+            "fat": 22,
+            "fiber": null,
+            "nutritionScore": 9.6,
+            "portionMultiplier": 0.85,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/salmon-horno-esparragos-trigueros-quinoa-limon"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-27",
+      "dayOfWeek": "martes",
+      "dayNumber": 2,
+      "isTrainingDay": true,
+      "workout": {
+        "type": "cardio",
+        "splitFocus": "Inferior + Tirón",
+        "duration": 30,
+        "estimatedCaloriesBurned": 112,
+        "proteinCatabolizedG": 6.4,
+        "carbsOxidizedG": 16,
+        "intensity": "low",
+        "rpe": 6,
+        "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+        "progression": {
+          "phase": "deload",
+          "weekInCycle": 4,
+          "label": "Deload — recuperación activa",
+          "deload": true
+        },
+        "warmup": {
+          "type": "exercise_pool",
+          "duration": 7,
+          "exercises": [
+            {
+              "slug": "extensiones/flexiones-muneca-excentricas-peso",
+              "name": "Extensiones/Flexiones de Muñeca Excéntricas con Peso",
+              "muscleGroup": "arms",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1602668195478-2161aa8d1a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxXZWlnaHRlZCUyMEVjY2VudHJpYyUyMFdyaXN0JTIwRXh0ZW5zaW9ucyUyRkZsZXhpb25zJTIwQXJtcyUyMGF0aGxldGUlMjBhY3Rpb258ZW58MHx8fHwxNzY5MjYwMjQ4fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            },
+            {
+              "slug": "pronacion/supinacion-excentrica-unipodal-peso",
+              "name": "Pronación/Supinación Excéntrica Unipodal con Peso",
+              "muscleGroup": "arms",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1659081450279-f3cb9cb8553f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxXZWlnaHRlZCUyMFNpbmdsZS1Bcm0lMjBFY2NlbnRyaWMlMjBQcm9uYXRpb24lMkZTdXBpbmF0aW9uJTIwQXJtcyUyMGF0aGxldGUlMjBhY3Rpb258ZW58MHx8fHwxNzY5MzQ2Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            },
+            {
+              "slug": "flexiones/extensiones-muneca-excentricas-mancuernas-pesadas",
+              "name": "Flexiones/Extensiones de Muñeca Excéntricas con Mancuernas Pesadas",
+              "muscleGroup": "arms",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1615356696487-af36a68f358a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxIZWF2eSUyMER1bWJiZWxsJTIwRWNjZW50cmljJTIwV3Jpc3QlMjBDdXJscyUyMCUyOFBhbG1zJTIwVXAlMkZEb3duJTI5JTIwQXJtcyUyMGF0aGxldGUlMjBhY3Rpb258ZW58MHx8fHwxNzY5MzQ2NzAzfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            },
+            {
+              "slug": "rotacion-interna-hombro-cable-tumbado-lado",
+              "name": "Rotación Interna de Hombro con Cable Tumbado de Lado",
+              "muscleGroup": "shoulders",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1659081450279-f3cb9cb8553f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTaWRlLUx5aW5nJTIwQ2FibGUlMjBJbnRlcm5hbCUyMFJvdGF0aW9uJTIwU2hvdWxkZXJzJTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3NjkzNjcyNDR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            }
+          ]
+        },
+        "exercises": [
+          {
+            "slug": "elevaciones-de-pierna-hacia-atras",
+            "name": "Elevaciones de Pierna Hacia Atrás",
+            "muscleGroup": "glutes",
+            "category": "isolation",
+            "primaryMuscles": [
+              "Glúteos"
+            ],
+            "sets": 1,
+            "reps": null,
+            "duration_seconds": 45,
+            "repScheme": "45 segundos",
+            "rest": 90,
+            "rpe": 6,
+            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+            "imageUrl": "https://images.pexels.com/photos/18060067/pexels-photo-18060067.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+            "difficulty": "Beginner",
+            "metValue": 2.5
+          },
+          {
+            "slug": "subida-al-banco-con-elevacion-de-rodilla",
+            "name": "Subida al Banco con Elevación de Rodilla",
+            "muscleGroup": "legs",
+            "category": "isolation",
+            "primaryMuscles": [
+              "Cuádriceps"
+            ],
+            "sets": 1,
+            "reps": 10,
+            "duration_seconds": null,
+            "repScheme": null,
+            "rest": 90,
+            "rpe": 6,
+            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+            "imageUrl": "https://images.pexels.com/photos/18060067/pexels-photo-18060067.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+            "difficulty": "Beginner",
+            "metValue": 5
+          },
+          {
+            "slug": "estiramiento-gato-vaca",
+            "name": "Estiramiento Gato-Vaca",
+            "muscleGroup": "back",
+            "category": "isolation",
+            "primaryMuscles": [
+              "Spine",
+              "Core"
+            ],
+            "sets": 1,
+            "reps": null,
+            "duration_seconds": 45,
+            "repScheme": "45 segundos",
+            "rest": 90,
+            "rpe": 6,
+            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+            "imageUrl": "https://images.pexels.com/photos/7500033/pexels-photo-7500033.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+            "difficulty": "Beginner",
+            "metValue": 2.5
+          }
+        ],
+        "cooldown": {
+          "type": "exercise_pool",
+          "duration": 8,
+          "exercises": [
+            {
+              "slug": "rotaciones-articulares-controladas-cervicales-(cars-cervicales)",
+              "name": "Rotaciones Articulares Controladas Cervicales (CARs Cervicales)",
+              "muscleGroup": "neck",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1715526411349-2d9aa764ed41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxDZXJ2aWNhbCUyMENvbnRyb2xsZWQlMjBBcnRpY3VsYXIlMjBSb3RhdGlvbnMlMjBOZWNrJTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3NjkxNzQ4Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            },
+            {
+              "slug": "rotaciones-articulares-controladas-muneca-(cars-muneca)-apertura-dedos",
+              "name": "Rotaciones Articulares Controladas de Muñeca (CARs de Muñeca) con Apertura de Dedos",
+              "muscleGroup": "arms",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1752073497010-3bdb07494806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxXcmlzdCUyMENBUnMlMjB3aXRoJTIwRmluZ2VyJTIwU3BsYXklMjBXcmlzdHMlMjBhdGhsZXRlJTIwYWN0aW9ufGVufDB8fHx8MTc2OTE3NDg2NHww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            },
+            {
+              "slug": "postura-unipodal-activacion-arco-medial-separacion-dedos",
+              "name": "Postura Unipodal con Activación del Arco Medial y Separación de Dedos",
+              "muscleGroup": "calves",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.pexels.com/photos/4398353/pexels-photo-4398353.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+              "role": "cooldown"
+            },
+            {
+              "slug": "rotaciones-articulares-controladas-(cars)-toracicas-sentado-protraccion/retraccion-escapular",
+              "name": "Rotaciones Articulares Controladas (CARs) Torácicas Sentado con Protracción/Retracción Escapular",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1651326659270-59bbb788199a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxTZWF0ZWQlMjBUaG9yYWNpYyUyMENvbnRyb2xsZWQlMjBBcnRpY3VsYXIlMjBSb3RhdGlvbnMlMjAlMjhDQVJzJTI5JTIwd2l0aCUyMFNjYXB1bGFyJTIwUHJvdHJhY3Rpb24lMkZSZXRyYWN0aW9uJTIwVGhvcmFjaWMlMjBNb2JpbGl0eSUyMGF0aGxldGUlMjBhY3Rpb258ZW58MHx8fHwxNzY5MjIxOTEzfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            }
+          ]
+        }
+      },
+      "nutrition": {
+        "targetCalories": 1827,
+        "targetMacros": {
+          "protein": 128,
+          "carbs": 220,
+          "fat": 52,
+          "type": "training_day"
+        },
+        "actualTotals": {
+          "calories": 1827,
+          "protein": 94,
+          "carbs": 144,
+          "fat": 54
+        },
+        "calorieDeviation": 0,
+        "calorieGapToTarget": 0,
+        "coveragePercent": 100,
+        "recommendedWaterMl": 2840,
+        "planWarnings": [
+          {
+            "type": "PROTEIN_DEFICIT",
+            "message": "Déficit proteico del 27%: 94g vs objetivo 128g",
+            "severity": "medium",
+            "targetProtein": 128,
+            "actualProtein": 94,
+            "coveragePct": 73
+          }
+        ],
+        "meals": [
+          {
+            "mealType": "desayuno",
+            "timing": "other",
+            "slug": "batido-platano-avena-mantequilla-cacahuete",
+            "name": "Batido de Plátano, Avena y Mantequilla de Cacahuete",
+            "calories": 420,
+            "protein": 14,
+            "carbs": 54,
+            "fat": 18,
+            "fiber": null,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.09,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/batido-platano-avena-mantequilla-cacahuete"
+          },
+          {
+            "mealType": "almuerzo",
+            "timing": "other",
+            "slug": "albondigas-merluza-salsa-verde-quinoa",
+            "name": "Albóndigas de Merluza en Salsa Verde con Quinoa",
+            "calories": 887,
+            "protein": 42,
+            "carbs": 46,
+            "fat": 14,
+            "fiber": null,
+            "nutritionScore": 10,
+            "portionMultiplier": 2.18,
+            "portionLabel": "porción grande (×2.18)",
+            "url": "https://www.sporvit.com/recetas/albondigas-merluza-salsa-verde-quinoa",
+            "isUpscaled": true
+          },
+          {
+            "mealType": "cena",
+            "timing": "post",
+            "slug": "ensalada-quinoa-pavo-aguacate-pimientos-asados",
+            "name": "Ensalada de Quinoa con Pavo, Aguacate y Pimientos Asados",
+            "calories": 520,
+            "protein": 38,
+            "carbs": 44,
+            "fat": 22,
+            "fiber": null,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.05,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/ensalada-quinoa-pavo-aguacate-pimientos-asados"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-28",
+      "dayOfWeek": "miércoles",
+      "dayNumber": 3,
+      "isTrainingDay": false,
+      "workout": null,
+      "nutrition": {
+        "targetCalories": 1467,
+        "targetMacros": {
+          "protein": 128,
+          "carbs": 156,
+          "fat": 70,
+          "type": "rest_day"
+        },
+        "actualTotals": {
+          "calories": 1467,
+          "protein": 104,
+          "carbs": 126,
+          "fat": 35
+        },
+        "calorieDeviation": 0,
+        "calorieGapToTarget": 0,
+        "coveragePercent": 100,
+        "recommendedWaterMl": 2240,
+        "planWarnings": [],
+        "meals": [
+          {
+            "mealType": "desayuno",
+            "timing": "other",
+            "slug": "batido-proteico-de-queso-fresco-batido-y-avena",
+            "name": "Batido Proteico de Queso Fresco Batido y Avena",
+            "calories": 290,
+            "protein": 30,
+            "carbs": 30,
+            "fat": 3,
+            "fiber": 5,
+            "nutritionScore": 8,
+            "portionMultiplier": 1.27,
+            "portionLabel": "porción ampliada (×1.27)",
+            "url": "https://www.sporvit.com/recetas/batido-proteico-de-queso-fresco-batido-y-avena"
+          },
+          {
+            "mealType": "almuerzo",
+            "timing": "other",
+            "slug": "bacalao-plancha-pisto-verduras-quinoa",
+            "name": "Bacalao a la Plancha con Pisto de Verduras y Quinoa",
+            "calories": 707,
+            "protein": 42,
+            "carbs": 46,
+            "fat": 14,
+            "fiber": null,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.54,
+            "portionLabel": "porción ampliada (×1.54)",
+            "url": "https://www.sporvit.com/recetas/bacalao-plancha-pisto-verduras-quinoa",
+            "isUpscaled": true
+          },
+          {
+            "mealType": "cena",
+            "timing": "other",
+            "slug": "potaje-lentejas-verduras-chorizo-(version-ligera)",
+            "name": "Potaje de Lentejas y Verduras con Chorizo (Versión Ligera)",
+            "calories": 470,
+            "protein": 32,
+            "carbs": 50,
+            "fat": 18,
+            "fiber": 15,
+            "nutritionScore": 10,
+            "portionMultiplier": 0.94,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/potaje-lentejas-verduras-chorizo-(version-ligera)"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-29",
+      "dayOfWeek": "jueves",
+      "dayNumber": 4,
+      "isTrainingDay": true,
+      "workout": {
+        "type": "cardio",
+        "splitFocus": "Superior + Empuje",
+        "duration": 30,
+        "estimatedCaloriesBurned": 112,
+        "proteinCatabolizedG": 6.4,
+        "carbsOxidizedG": 16,
+        "intensity": "low",
+        "rpe": 6,
+        "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+        "progression": {
+          "phase": "deload",
+          "weekInCycle": 4,
+          "label": "Deload — recuperación activa",
+          "deload": true
+        },
+        "warmup": {
+          "type": "exercise_pool",
+          "duration": 7,
+          "exercises": [
+            {
+              "slug": "golpe-serrato-banda-semiarrodillado",
+              "name": "Golpe de Serrato con Banda en Semiarrodillado",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.pexels.com/photos/7005124/pexels-photo-7005124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+              "role": "warmup"
+            },
+            {
+              "slug": "elevacion-escapular-plano-escapular-banda-rotacion-externa-semiarrodillado",
+              "name": "Elevación Escapular en Plano Escapular con Banda y Rotación Externa en Semiarrodillado",
+              "muscleGroup": "shoulders",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1698328722821-0500626c27d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxIYWxmLUtuZWVsaW5nJTIwQmFuZGVkJTIwU2NhcHRpb24lMjB3aXRoJTIwRXh0ZXJuYWwlMjBSb3RhdGlvbiUyMEhvbGQlMjBTaG91bGRlcnMlMjBhdGhsZXRlJTIwYWN0aW9ufGVufDB8fHx8MTc2OTM2NzI2OXww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            },
+            {
+              "slug": "separacion-banda-por-encima-cabeza-enfasis-depresion-escapular",
+              "name": "Separación de Banda por Encima de la Cabeza con Énfasis en Depresión Escapular",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1659081450279-f3cb9cb8553f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxPdmVyaGVhZCUyMEJhbmRlZCUyMFB1bGwtQXBhcnQlMjB3aXRoJTIwU2NhcHVsYXIlMjBEZXByZXNzaW9uJTIwRm9jdXMlMjBTaG91bGRlcnMlMjBhdGhsZXRlJTIwYWN0aW9ufGVufDB8fHx8MTc2OTM2NzI5NHww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            },
+            {
+              "slug": "liberacion-asistida-psoas-respiracion-diafragmatica",
+              "name": "Liberación Asistida del Psoas con Respiración Diafragmática",
+              "muscleGroup": "core",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1717500252762-ef0ce87e3788?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxQYXJ0bmVyLUFzc2lzdGVkJTIwRGlhcGhyYWdtYXRpYyUyMFBzb2FzJTIwUmVsZWFzZSUyMENvcmUlMjBhdGhsZXRlJTIwYWN0aW9uJTIwZ3ltJTIwZmxvb3J8ZW58MHx8fHwxNzY5NDU0MTEzfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            }
+          ]
+        },
+        "exercises": [
+          {
+            "slug": "elevaciones-laterales-mancuernas",
+            "name": "Elevaciones Laterales con Mancuernas",
+            "muscleGroup": "shoulders",
+            "category": "isolation",
+            "primaryMuscles": [
+              "Medial Deltoid"
+            ],
+            "sets": 1,
+            "reps": 10,
+            "duration_seconds": null,
+            "repScheme": null,
+            "rest": 90,
+            "rpe": 6,
+            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+            "imageUrl": "https://images.unsplash.com/photo-1630415187879-0b54f52c9238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxEdW1iYmVsbCUyMExhdGVyYWwlMjBSYWlzZSUyMFNob3VsZGVycyUyMGd5bSUyMGV4ZXJjaXNlJTIwZm9ybXxlbnwwfHx8fDE3Njg3OTA0Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+            "difficulty": "Beginner",
+            "metValue": 3.5
+          },
+          {
+            "slug": "estiramiento-de-pecho-con-balon-de-ejercicio",
+            "name": "Estiramiento de pecho con balón de ejercicio",
+            "muscleGroup": "chest",
+            "category": "isolation",
+            "primaryMuscles": [
+              "Pectorales"
+            ],
+            "sets": 1,
+            "reps": null,
+            "duration_seconds": 45,
+            "repScheme": "45 segundos",
+            "rest": 90,
+            "rpe": 6,
+            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+            "imageUrl": "https://images.pexels.com/photos/14616295/pexels-photo-14616295.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+            "difficulty": "Beginner",
+            "metValue": 2
+          },
+          {
+            "slug": "curl-de-biceps-general",
+            "name": "Curl de Bíceps (general)",
+            "muscleGroup": "arms",
+            "category": "isolation",
+            "primaryMuscles": [
+              "Bíceps"
+            ],
+            "sets": 1,
+            "reps": 10,
+            "duration_seconds": null,
+            "repScheme": null,
+            "rest": 90,
+            "rpe": 6,
+            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+            "imageUrl": "https://images.pexels.com/photos/5327571/pexels-photo-5327571.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+            "difficulty": "Beginner",
+            "metValue": 3.5
+          }
+        ],
+        "cooldown": {
+          "type": "exercise_pool",
+          "duration": 8,
+          "exercises": [
+            {
+              "slug": "liberacion-pectoral-menor-banda-enfasis-extension-toracica",
+              "name": "Liberación de Pectoral Menor con Banda y Énfasis en Extensión Torácica",
+              "muscleGroup": "chest",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1752606304345-ea31a4ed89fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxCYW5kZWQlMjBQZWMlMjBNaW5vciUyMFJlbGVhc2UlMjB3aXRoJTIwVGhvcmFjaWMlMjBFeHRlbnNpb24lMjBCaWFzJTIwUHJlaGFiJTJDJTIwVGhvcmFjaWMlMjBNb2JpbGl0eSUyMGF0aGxldGUlMjBhY3Rpb258ZW58MHx8fHwxNzY5MjIxOTM4fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            },
+            {
+              "slug": "agarre-pinza-descenso-excentrico",
+              "name": "Agarre de Pinza con Descenso Excéntrico",
+              "muscleGroup": "arms",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1659081450279-f3cb9cb8553f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxQbGF0ZSUyMFBpbmNoJTIwRWNjZW50cmljJTIwTG93ZXJpbmclMjBBcm1zJTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3NjkyNjAyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            },
+            {
+              "slug": "movilizacion-dorsiflexion-tobillo-banda-voodoo-floss",
+              "name": "Movilización de Dorsiflexión de Tobillo con Banda Voodoo Floss",
+              "muscleGroup": "legs",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1617628833058-cd48a9804c25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxWb29kb28lMjBGbG9zcyUyMEJhbmRlZCUyMEFua2xlJTIwRG9yc2lmbGV4aW9uJTIwTW9iaWxpemF0aW9uJTIwUHJlaGFiJTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3NjkyODA4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            },
+            {
+              "slug": "protraccion/retraccion-escapular-cuadrupedia-enfasis-extension-toracica",
+              "name": "Protracción/Retracción Escapular en Cuadrupedia con Énfasis en Extensión Torácica",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1659081450279-f3cb9cb8553f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxRdWFkcnVwZWQlMjBTY2FwdWxhciUyMFByb3RyYWN0aW9uJTJGUmV0cmFjdGlvbiUyMHdpdGglMjBUaG9yYWNpYyUyMEV4dGVuc2lvbiUyMEJpYXMlMjBCYWNrJTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3NjkzMjQyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            }
+          ]
+        }
+      },
+      "nutrition": {
+        "targetCalories": 1827,
+        "targetMacros": {
+          "protein": 128,
+          "carbs": 220,
+          "fat": 52,
+          "type": "training_day"
+        },
+        "actualTotals": {
+          "calories": 1827,
+          "protein": 88,
+          "carbs": 168,
+          "fat": 34
+        },
+        "calorieDeviation": 0,
+        "calorieGapToTarget": 0,
+        "coveragePercent": 100,
+        "recommendedWaterMl": 2840,
+        "planWarnings": [
+          {
+            "type": "PROTEIN_DEFICIT",
+            "message": "Déficit proteico del 31%: 88g vs objetivo 128g",
+            "severity": "medium",
+            "targetProtein": 128,
+            "actualProtein": 88,
+            "coveragePct": 69
+          }
+        ],
+        "meals": [
+          {
+            "mealType": "desayuno",
+            "timing": "other",
+            "slug": "batido-energetico-platano-datiles-leche-almendras",
+            "name": "Batido Energético de Plátano y Dátiles con Leche de Almendras",
+            "calories": 340,
+            "protein": 8,
+            "carbs": 58,
+            "fat": 10,
+            "fiber": null,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.34,
+            "portionLabel": "porción ampliada (×1.34)",
+            "url": "https://www.sporvit.com/recetas/batido-energetico-platano-datiles-leche-almendras"
+          },
+          {
+            "mealType": "almuerzo",
+            "timing": "other",
+            "slug": "arroz-integral-con-pollo-y-verduras-wok",
+            "name": "Arroz Integral con Pollo y Verduras Wok",
+            "calories": 1007,
+            "protein": 40,
+            "carbs": 55,
+            "fat": 12,
+            "fiber": 8,
+            "nutritionScore": 10,
+            "portionMultiplier": 2.43,
+            "portionLabel": "porción grande (×2.43)",
+            "url": "https://www.sporvit.com/recetas/arroz-integral-con-pollo-y-verduras-wok",
+            "isUpscaled": true
+          },
+          {
+            "mealType": "cena",
+            "timing": "post",
+            "slug": "arroz-integral-con-pollo-y-verduras-wok",
+            "name": "Arroz Integral con Pollo y Verduras Wok",
+            "calories": 480,
+            "protein": 40,
+            "carbs": 55,
+            "fat": 12,
+            "fiber": 8,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.14,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/arroz-integral-con-pollo-y-verduras-wok"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-30",
+      "dayOfWeek": "viernes",
+      "dayNumber": 5,
+      "isTrainingDay": false,
+      "workout": null,
+      "nutrition": {
+        "targetCalories": 1467,
+        "targetMacros": {
+          "protein": 128,
+          "carbs": 156,
+          "fat": 70,
+          "type": "rest_day"
+        },
+        "actualTotals": {
+          "calories": 1320,
+          "protein": 116,
+          "carbs": 124,
+          "fat": 42
+        },
+        "calorieDeviation": -147,
+        "calorieGapToTarget": 147,
+        "coveragePercent": 90,
+        "recommendedWaterMl": 2240,
+        "planWarnings": [],
+        "meals": [
+          {
+            "mealType": "desayuno",
+            "timing": "other",
+            "slug": "revuelto-setas-gambas-tostadas-integrales",
+            "name": "Revuelto de Setas con Gambas y Tostadas Integrales",
+            "calories": 380,
+            "protein": 32,
+            "carbs": 28,
+            "fat": 16,
+            "fiber": null,
+            "nutritionScore": 6.8,
+            "portionMultiplier": 0.97,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/revuelto-setas-gambas-tostadas-integrales"
+          },
+          {
+            "mealType": "almuerzo",
+            "timing": "other",
+            "slug": "merluza-plancha-arroz-negro-pimientos-asados",
+            "name": "Merluza a la Plancha con Arroz Negro y Pimientos Asados",
+            "calories": 460,
+            "protein": 38,
+            "carbs": 52,
+            "fat": 12,
+            "fiber": null,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.12,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/merluza-plancha-arroz-negro-pimientos-asados"
+          },
+          {
+            "mealType": "cena",
+            "timing": "other",
+            "slug": "pavo-plancha-boniatos-asados-espinacas-salteadas",
+            "name": "Pavo a la Plancha con Boniatos Asados y Espinacas Salteadas",
+            "calories": 480,
+            "protein": 46,
+            "carbs": 44,
+            "fat": 14,
+            "fiber": null,
+            "nutritionScore": 10,
+            "portionMultiplier": 0.92,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/pavo-plancha-boniatos-asados-espinacas-salteadas"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-31",
+      "dayOfWeek": "sábado",
+      "dayNumber": 6,
+      "isTrainingDay": false,
+      "workout": null,
+      "nutrition": {
+        "targetCalories": 1467,
+        "targetMacros": {
+          "protein": 128,
+          "carbs": 156,
+          "fat": 70,
+          "type": "rest_day"
+        },
+        "actualTotals": {
+          "calories": 1467,
+          "protein": 97,
+          "carbs": 137,
+          "fat": 28
+        },
+        "calorieDeviation": 0,
+        "calorieGapToTarget": 0,
+        "coveragePercent": 100,
+        "recommendedWaterMl": 2240,
+        "planWarnings": [
+          {
+            "type": "PROTEIN_DEFICIT",
+            "message": "Déficit proteico del 24%: 97g vs objetivo 128g",
+            "severity": "medium",
+            "targetProtein": 128,
+            "actualProtein": 97,
+            "coveragePct": 76
+          }
+        ],
+        "meals": [
+          {
+            "mealType": "desayuno",
+            "timing": "other",
+            "slug": "batido-verde-energetico-espinacas-platano-proteina",
+            "name": "Batido Verde Energético (Espinacas, Plátano, Proteína)",
+            "calories": 320,
+            "protein": 28,
+            "carbs": 34,
+            "fat": 10,
+            "fiber": null,
+            "nutritionScore": 7.6,
+            "portionMultiplier": 1.15,
+            "portionLabel": "porción estándar",
+            "url": "https://www.sporvit.com/recetas/batido-verde-energetico-espinacas-platano-proteina"
+          },
+          {
+            "mealType": "almuerzo",
+            "timing": "other",
             "slug": "bacalao-horno-garbanzos-espinacas-pimenton",
             "name": "Bacalao al Horno con Garbanzos y Espinacas al Pimentón",
-            "calories": 450,
+            "calories": 767,
             "protein": 44,
             "carbs": 48,
             "fat": 10,
             "fiber": null,
             "nutritionScore": 10,
-            "portionMultiplier": 1.14,
-            "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/bacalao-horno-garbanzos-espinacas-pimenton"
+            "portionMultiplier": 1.84,
+            "portionLabel": "porción grande (×1.84)",
+            "url": "https://www.sporvit.com/recetas/bacalao-horno-garbanzos-espinacas-pimenton",
+            "isUpscaled": true
           },
           {
-            "mealType": "snack",
+            "mealType": "cena",
             "timing": "other",
-            "slug": "batido-verde-recuperacion-espinacas,-platano-proteina",
-            "name": "Batido Verde de Recuperación con Espinacas, Plátano y Proteína",
-            "calories": 400,
-            "protein": 30,
-            "carbs": 40,
-            "fat": 12,
-            "fiber": 6,
-            "nutritionScore": 8,
-            "portionMultiplier": 0.92,
+            "slug": "lentejas-estofadas-fitness-con-verduras",
+            "name": "Lentejas Estofadas Fitness con Verduras",
+            "calories": 380,
+            "protein": 25,
+            "carbs": 55,
+            "fat": 8,
+            "fiber": 15,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.16,
             "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/batido-verde-recuperacion-espinacas,-platano-proteina",
-            "isRescueMeal": true
+            "url": "https://www.sporvit.com/recetas/lentejas-estofadas-fitness-con-verduras"
           }
         ]
       }
@@ -661,6 +884,8 @@
         "splitFocus": "Full Body",
         "duration": 30,
         "estimatedCaloriesBurned": 112,
+        "proteinCatabolizedG": 6.4,
+        "carbsOxidizedG": 16,
         "intensity": "low",
         "rpe": 6,
         "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
@@ -671,67 +896,163 @@
           "deload": true
         },
         "warmup": {
-          "duration": 8,
-          "description": "Movilidad articular completa: cuello, hombros, caderas, rodillas, tobillos (30s cada zona). Sentadilla sin peso 2×10. Cardio suave 3 min."
+          "type": "exercise_pool",
+          "duration": 7,
+          "exercises": [
+            {
+              "slug": "liberacion-asistida-dorsal-ancho-banda-rotacion-toracica",
+              "name": "Liberación Asistida del Dorsal Ancho con Banda y Rotación Torácica",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1642285231897-714f285409b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxCYW5kZWQlMjBMYXRpc3NpbXVzJTIwRG9yc2klMjBSZWxlYXNlJTIwd2l0aCUyMFRob3JhY2ljJTIwUm90YXRpb24lMjBCYWNrJTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3Njk0NTQxNTV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            },
+            {
+              "slug": "rotaciones-articulares-controladas-(cars)-escapulares-banda-resistencia",
+              "name": "Rotaciones Articulares Controladas (CARs) Escapulares con Banda de Resistencia",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1769311483339-f8cd32876567?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxCYW5kLVJlc2lzdGVkJTIwU2NhcHVsYXIlMjBDQVJzJTIwJTI4Q29udHJvbGxlZCUyMEFydGljdWxhciUyMFJvdGF0aW9ucyUyOSUyME1vYmlsaXR5JTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3Njk0ODE3MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            },
+            {
+              "slug": "depresiones-escapulares-asistidas-por-pared-mini-banda",
+              "name": "Depresiones Escapulares Asistidas por Pared con Mini-Banda",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1757884054924-7e6d7cd0fdd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxXYWxsLVN1cHBvcnRlZCUyMFNjYXB1bGFyJTIwRGVwcmVzc2lvbnMlMjB3aXRoJTIwTWluaS1CYW5kJTIwQ2FsaXN0aGVuaWNzJTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3Njk0ODE3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            },
+            {
+              "slug": "estiramiento-pnf-retraccion-depresion-escapular-asistido-por-companero",
+              "name": "Estiramiento PNF de Retracción y Depresión Escapular Asistido por Compañero",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1717500252762-ef0ce87e3788?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxQYXJ0bmVyLUFzc2lzdGVkJTIwU2NhcHVsYXIlMjBSZXRyYWN0aW9uJTIwJTI2JTIwRGVwcmVzc2lvbiUyMFBORiUyMFN0cmV0Y2glMjBNb3ZpbGlkYWQlMkZGbGV4aWJpbGlkYWQlMjBhdGhsZXRlJTIwYWN0aW9ufGVufDB8fHx8MTc2OTYyNjkxNnww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "warmup"
+            }
+          ]
         },
         "exercises": [
           {
-            "slug": "almejas-con-banda-de-resistencia",
-            "name": "Almejas con Banda de Resistencia",
-            "muscleGroup": "glutes",
+            "slug": "liberacion-miofascial-de-cuadriceps",
+            "name": "Liberación miofascial de cuádriceps",
+            "muscleGroup": "legs",
             "category": "isolation",
             "primaryMuscles": [
-              "Gluteus Medius"
+              "Cuádriceps"
             ],
             "sets": 1,
-            "reps": 10,
+            "reps": null,
+            "duration_seconds": 45,
+            "repScheme": "45 segundos",
             "rest": 90,
             "rpe": 6,
             "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.unsplash.com/photo-1683758575782-a632dbbe9eed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxCYW5kZWQlMjBDbGFtc2hlbGxzJTIwU1RSRU5HVEglMjBneW0lMjBleGVyY2lzZSUyMGZvcm0lMjB3b3Jrb3V0fGVufDB8MHx8fDE3Njg0MTcxMTh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
-            "difficulty": "Beginner",
-            "metValue": 3
-          },
-          {
-            "slug": "gato-vaca-circulos-cadera",
-            "name": "Gato-Vaca con Círculos de Cadera",
-            "muscleGroup": "back",
-            "category": "isolation",
-            "primaryMuscles": [
-              "Spinal Erectors",
-              "Abdominals",
-              "Hip Flexors"
-            ],
-            "sets": 1,
-            "reps": "45 segundos",
-            "rest": 90,
-            "rpe": 6,
-            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.unsplash.com/photo-1721819691519-b93d297982c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxDYXQtQ293JTIwd2l0aCUyMEhpcCUyMENpcmNsZXMlMjBNb2JpbGl0eSUyMGd5bSUyMGV4ZXJjaXNlJTIwZm9ybXxlbnwwfHx8fDE3Njg3NDE3MjN8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+            "imageUrl": "https://images.pexels.com/photos/18060067/pexels-photo-18060067.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
             "difficulty": "Beginner",
             "metValue": 2.5
           },
           {
-            "slug": "rodillo-espuma-cuadriceps",
-            "name": "Rodillo de Espuma para Cuádriceps",
-            "muscleGroup": "legs",
+            "slug": "liberacion-miofascial-de-romboides",
+            "name": "Liberación Miofascial de Romboides",
+            "muscleGroup": "back",
             "category": "isolation",
             "primaryMuscles": [
-              "Quadriceps"
+              "Romboides"
             ],
             "sets": 1,
-            "reps": "45 segundos",
+            "reps": null,
+            "duration_seconds": 45,
+            "repScheme": "45 segundos",
             "rest": 90,
             "rpe": 6,
             "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
-            "imageUrl": "https://images.unsplash.com/photo-1634921364229-3d70688009aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxGb2FtJTIwUm9sbGluZyUyMFF1YWRzJTIwTGVncyUyMGd5bSUyMGV4ZXJjaXNlJTIwZm9ybXxlbnwwfHx8fDE3Njg4NzY1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+            "imageUrl": "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+            "difficulty": "Beginner",
+            "metValue": 2.5
+          },
+          {
+            "slug": "rodilla-cruzada-sobre-el-cuerpo",
+            "name": "Rodilla Cruzada sobre el Cuerpo",
+            "muscleGroup": "glutes",
+            "category": "isolation",
+            "primaryMuscles": [
+              "Glúteos, Oblicuos (estiramiento)"
+            ],
+            "sets": 1,
+            "reps": null,
+            "duration_seconds": 45,
+            "repScheme": "45 segundos",
+            "rest": 90,
+            "rpe": 6,
+            "rpeLabel": "Esfuerzo ligero — puedes mantener conversación",
+            "imageUrl": "https://images.pexels.com/photos/8038640/pexels-photo-8038640.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
             "difficulty": "Beginner",
             "metValue": 2.5
           }
         ],
         "cooldown": {
+          "type": "exercise_pool",
           "duration": 8,
-          "description": "Estiramiento completo: isquiotibiales 60s, cuádriceps de pie 45s por lado, pectoral en esquina 60s, dorsal con banda 45s, glúteo (postura del 4) 60s por lado."
+          "exercises": [
+            {
+              "slug": "rotaciones-articulares-controladas-(cars)-escapulares-prono",
+              "name": "Rotaciones Articulares Controladas (CARs) Escapulares Prono",
+              "muscleGroup": "shoulders",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1659081450279-f3cb9cb8553f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxQcm9uZSUyMFNjYXB1bGFyJTIwQ29udHJvbGxlZCUyMEFydGljdWxhciUyMFJvdGF0aW9ucyUyMCUyOENBUnMlMjklMjBTaG91bGRlcnMlMjBhdGhsZXRlJTIwYWN0aW9ufGVufDB8fHx8MTc2OTM2NzI2MHww&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            },
+            {
+              "slug": "angeles-pared-extension-toracica-activa",
+              "name": "Ángeles de Pared con Extensión Torácica Activa",
+              "muscleGroup": "back",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.pexels.com/photos/4989192/pexels-photo-4989192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+              "role": "cooldown"
+            },
+            {
+              "slug": "estiramiento-durmiente-fnp-(facilitacion-neuromuscular-propioceptiva)",
+              "name": "Estiramiento del Durmiente con FNP (Facilitación Neuromuscular Propioceptiva)",
+              "muscleGroup": "shoulders",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.pexels.com/photos/4720278/pexels-photo-4720278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940?auto=compress&cs=tinysrgb&w=1280&h=720&fit=crop",
+              "role": "cooldown"
+            },
+            {
+              "slug": "estiramiento-asistido-fst-cuadriceps/flexores-cadera-(variacion-escorpion)",
+              "name": "Estiramiento Asistido FST de Cuádriceps/Flexores de Cadera (Variación Escorpión)",
+              "muscleGroup": "legs",
+              "sets": 4,
+              "reps": null,
+              "duration_seconds": 30,
+              "repScheme": "30s",
+              "imageUrl": "https://images.unsplash.com/photo-1615443589816-bf96d07d3852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTYyMzJ8MHwxfHNlYXJjaHwxfHxBc3Npc3RlZCUyMFNjb3JwaW9uJTIwUXVhZCUyRkhpcCUyMEZsZXhvciUyMEZTVCUyMFN0cmV0Y2glMjBMZWdzJTIwYXRobGV0ZSUyMGFjdGlvbnxlbnwwfHx8fDE3Njk0NTQxMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1280&h=720&fit=crop&q=80",
+              "role": "cooldown"
+            }
+          ]
         }
       },
       "nutrition": {
@@ -743,70 +1064,71 @@
           "type": "training_day"
         },
         "actualTotals": {
-          "calories": 1160,
-          "protein": 98,
-          "carbs": 127,
-          "fat": 30
+          "calories": 1827,
+          "protein": 100,
+          "carbs": 126,
+          "fat": 68
         },
-        "calorieDeviation": -667,
-        "calorieGapToTarget": 667,
-        "coveragePercent": 63,
+        "calorieDeviation": 0,
+        "calorieGapToTarget": 0,
+        "coveragePercent": 100,
         "recommendedWaterMl": 2840,
         "planWarnings": [
           {
-            "type": "CALORIE_DEVIATION",
-            "message": "Desviación calórica del 37% respecto al objetivo",
+            "type": "PROTEIN_DEFICIT",
+            "message": "Déficit proteico del 22%: 100g vs objetivo 128g",
             "severity": "medium",
-            "targetCalories": 1827,
-            "actualCalories": 1160
+            "targetProtein": 128,
+            "actualProtein": 100,
+            "coveragePct": 78
           }
         ],
         "meals": [
           {
             "mealType": "desayuno",
             "timing": "other",
-            "slug": "revuelto-claras-champinones-espinacas-tostadas-integrales",
-            "name": "Revuelto de Claras con Champiñones, Espinacas y Tostadas Integrales",
-            "calories": 280,
-            "protein": 28,
-            "carbs": 32,
-            "fat": 6,
-            "fiber": null,
-            "nutritionScore": 7.2,
-            "portionMultiplier": 1.63,
-            "portionLabel": "porción ampliada (×1.63)",
-            "url": "https://www.sporvit.com/recetas/revuelto-claras-champinones-espinacas-tostadas-integrales"
+            "slug": "tostadas-de-pan-de-centeno-con-aguacate-y-huevo-poché",
+            "name": "Tostadas de Pan de Centeno con Aguacate y Huevo Poché",
+            "calories": 380,
+            "protein": 18,
+            "carbs": 30,
+            "fat": 22,
+            "fiber": 7,
+            "nutritionScore": 8,
+            "portionMultiplier": 1.2,
+            "portionLabel": "porción ampliada (×1.2)",
+            "url": "https://www.sporvit.com/recetas/tostadas-de-pan-de-centeno-con-aguacate-y-huevo-poché"
           },
           {
             "mealType": "almuerzo",
             "timing": "other",
-            "slug": "arroz-integral-con-pollo-y-verduras-wok",
-            "name": "Arroz Integral con Pollo y Verduras Wok",
-            "calories": 480,
-            "protein": 40,
-            "carbs": 55,
-            "fat": 12,
-            "fiber": 8,
+            "slug": "pollo-asado-boniato-pimientos-al-pimenton",
+            "name": "Pollo Asado con Boniato y Pimientos al Pimentón",
+            "calories": 947,
+            "protein": 50,
+            "carbs": 50,
+            "fat": 24,
+            "fiber": null,
             "nutritionScore": 10,
-            "portionMultiplier": 1.33,
-            "portionLabel": "porción ampliada (×1.33)",
-            "url": "https://www.sporvit.com/recetas/arroz-integral-con-pollo-y-verduras-wok"
+            "portionMultiplier": 1.56,
+            "portionLabel": "porción ampliada (×1.56)",
+            "url": "https://www.sporvit.com/recetas/pollo-asado-boniato-pimientos-al-pimenton",
+            "isUpscaled": true
           },
           {
-            "mealType": "snack",
-            "timing": "other",
-            "slug": "batido-proteinas-platano,-espinacas-leche-almendras",
-            "name": "Batido de Proteínas con Plátano, Espinacas y Leche de Almendras",
-            "calories": 400,
-            "protein": 30,
-            "carbs": 40,
-            "fat": 12,
-            "fiber": 6,
-            "nutritionScore": 8,
-            "portionMultiplier": 1.14,
+            "mealType": "cena",
+            "timing": "post",
+            "slug": "ensalada-quinoa-atun-aguacate-verduras-frescas",
+            "name": "Ensalada de Quinoa con Atún, Aguacate y Verduras Frescas",
+            "calories": 500,
+            "protein": 32,
+            "carbs": 46,
+            "fat": 22,
+            "fiber": null,
+            "nutritionScore": 10,
+            "portionMultiplier": 1.1,
             "portionLabel": "porción estándar",
-            "url": "https://www.sporvit.com/recetas/batido-proteinas-platano,-espinacas-leche-almendras",
-            "isRescueMeal": true
+            "url": "https://www.sporvit.com/recetas/ensalada-quinoa-atun-aguacate-verduras-frescas"
           }
         ]
       }
