@@ -962,8 +962,7 @@ function filterRecipes(recipes, profile, mealType) {
   );
 }
 
-function selectRecipeForMeal(recipes, profile, mealType, targetCalories, targetProtein, usedSlugsByMealType, mealTiming, usedProteins = new Set(), fiberNeeded = false, weeklyRecipeCount = {}, slugHistory = {}, currentWeekNum = 1) {
-
+function selectRecipeForMeal(recipes, profile, mealType, targetCalories, targetProtein, usedSlugsByMealType, mealTiming, usedProteins = new Set(), fiberNeeded = false, weeklyRecipeCount = {}, slugHistory = {}, currentWeekNum = 1, usedSlugsToday = new Set()) {
   const goalKey    = profile.goalNormalized;
   const candidates = filterRecipes(recipes, profile, mealType);
   if (!candidates.length) return null;
@@ -972,8 +971,8 @@ function selectRecipeForMeal(recipes, profile, mealType, targetCalories, targetP
   const usedSlugsArr  = [...usedForMeal];
   const lastUsedSlug  = usedSlugsArr[usedSlugsArr.length - 1]; // la más reciente
 
-  // Nivel 1: nunca usada esta semana
-  const fresh = candidates.filter(r => !usedForMeal.has(getSlug(r)));
+  // Nivel 1: nunca usada esta semana NI hoy en otro slot [v22]
+  const fresh = candidates.filter(r => !usedForMeal.has(getSlug(r)) && !usedSlugsToday.has(getSlug(r)));
 
   // Nivel 2: pool agotado — al menos evitar la última usada
   const avoidLast = candidates.filter(r => getSlug(r) !== lastUsedSlug);
@@ -1082,7 +1081,7 @@ function buildDayNutrition(recipes, profile, isTrainingDay, usedSlugsByMealType,
     const recipe = selectRecipeForMeal(
       recipes, profile, mealType, targetCal, targetProt,
       usedSlugsByMealType, timing, usedProteins, fiberNeeded, weeklyRecipeCount,
-      slugHistory, currentWeekNum
+      slugHistory, currentWeekNum, usedSlugsToday  // [v22]
     );
 
 
@@ -2197,6 +2196,11 @@ function run() {
     }).length;
     const proteinWarnings = allDays.flatMap(d => d.nutrition?.planWarnings || [])
       .filter(w => w.type === "PROTEIN_DEFICIT");
+    const proteinSurplusDays = allDays.filter(d => {
+      const target = d.nutrition?.targetMacros?.protein || 0;
+      const actual = d.nutrition?.actualTotals?.protein  || 0;
+      return actual > target * 1.30;
+    }).length;
 
     console.log(`  Semanas generadas  : ${TOTAL_WEEKS}`);
     console.log(`  Días entrenamiento : ${trainingDays.length} | Días descanso: ${restDays.length}`);
@@ -2214,7 +2218,7 @@ function run() {
     console.log(`  Porciones extremas : ${extremePortions} slots con ×>1.8 | upscaled: ${upscaledMeals} | protein_swaps: ${proteinSwaps}`);
     console.log(`  Recetas únicas     : ${uniqueSlugs}/${allSlugs.length} (${diversityPct}% diversidad)`);
     console.log(`  Plan warnings      : ${warnings.length} (${warnings.filter(w => w.severity === "high").length} high, ${warnings.filter(w => w.severity === "medium").length} medium)\n`);
-    console.log(`  Proteína avg dev   : ~${avgProteinDevPct}% | días con déficit >20%: ${proteinDeficitDays}`);
+    console.log(`  Proteína avg dev   : ~${avgProteinDevPct}% | días déficit >20%: ${proteinDeficitDays} | días surplus >30%: ${proteinSurplusDays}`);
     console.log(`  Protein warnings   : ${proteinWarnings.length} (${proteinWarnings.filter(w => w.severity === "high").length} high, ${proteinWarnings.filter(w => w.severity === "medium").length} medium)`);
   });
 
